@@ -1,0 +1,2892 @@
+date,shift,machine_id,reason,duration_min
+2025-01-01,Mañana,M-01,Falla mecánica,50
+2025-01-01,Noche,M-01,Falla mecánica,26
+2025-01-01,Tarde,M-02,Falla mecánica,90
+2025-01-01,Noche,M-02,Falla mecánica,69
+2025-01-01,Noche,M-02,Cambio de formato,24
+2025-01-01,Tarde,M-03,Falla mecánica,20
+2025-01-01,Noche,M-03,Cambio de formato,37
+2025-01-01,Noche,M-03,Falla mecánica,61
+2025-01-01,Noche,M-03,Falta de material,55
+2025-01-01,Mañana,M-04,Otros,12
+2025-01-01,Mañana,M-04,Falla eléctrica,68
+2025-01-01,Mañana,M-05,Falla mecánica,46
+2025-01-01,Tarde,M-05,Falta de material,45
+2025-01-01,Tarde,M-05,Falla mecánica,56
+2025-01-01,Tarde,M-05,Ajuste de calidad,6
+2025-01-01,Tarde,M-05,Falla mecánica,19
+2025-01-02,Mañana,M-01,Falla mecánica,78
+2025-01-02,Mañana,M-01,Cambio de formato,40
+2025-01-02,Noche,M-01,Falla eléctrica,71
+2025-01-02,Tarde,M-02,Falla mecánica,35
+2025-01-02,Tarde,M-02,Ajuste de calidad,18
+2025-01-02,Noche,M-02,Cambio de formato,28
+2025-01-02,Tarde,M-03,Falla mecánica,58
+2025-01-02,Noche,M-03,Limpieza no programada,18
+2025-01-02,Mañana,M-04,Falla mecánica,53
+2025-01-02,Noche,M-04,Falla eléctrica,20
+2025-01-02,Noche,M-04,Falta de material,41
+2025-01-02,Noche,M-04,Falla mecánica,61
+2025-01-02,Tarde,M-05,Falla mecánica,77
+2025-01-02,Tarde,M-05,Ajuste de calidad,22
+2025-01-02,Tarde,M-05,Ajuste de calidad,9
+2025-01-03,Mañana,M-01,Falla eléctrica,116
+2025-01-03,Mañana,M-01,Falta de material,22
+2025-01-03,Mañana,M-01,Falta de material,35
+2025-01-03,Tarde,M-01,Cambio de formato,23
+2025-01-03,Noche,M-02,Falla mecánica,77
+2025-01-03,Mañana,M-03,Falta de material,40
+2025-01-03,Mañana,M-03,Falla mecánica,75
+2025-01-03,Mañana,M-03,Ajuste de calidad,11
+2025-01-03,Tarde,M-03,Cambio de formato,43
+2025-01-03,Noche,M-03,Falla mecánica,58
+2025-01-03,Noche,M-03,Ajuste de calidad,8
+2025-01-03,Mañana,M-04,Cambio de formato,28
+2025-01-03,Noche,M-05,Falla eléctrica,41
+2025-01-03,Noche,M-05,Cambio de formato,32
+2025-01-04,Mañana,M-01,Cambio de formato,43
+2025-01-04,Tarde,M-01,Falla mecánica,52
+2025-01-04,Tarde,M-01,Falla mecánica,22
+2025-01-04,Noche,M-01,Falla mecánica,89
+2025-01-04,Noche,M-01,Cambio de formato,36
+2025-01-04,Tarde,M-02,Falla mecánica,30
+2025-01-04,Noche,M-02,Falla mecánica,25
+2025-01-04,Mañana,M-03,Limpieza no programada,16
+2025-01-04,Noche,M-03,Falla eléctrica,29
+2025-01-04,Mañana,M-04,Falla mecánica,83
+2025-01-04,Tarde,M-04,Falla eléctrica,51
+2025-01-04,Tarde,M-04,Cambio de formato,25
+2025-01-04,Tarde,M-04,Cambio de formato,37
+2025-01-04,Noche,M-04,Falta de material,10
+2025-01-04,Noche,M-04,Falta de material,45
+2025-01-04,Noche,M-04,Falla mecánica,28
+2025-01-04,Noche,M-04,Limpieza no programada,14
+2025-01-04,Mañana,M-05,Falla mecánica,51
+2025-01-04,Mañana,M-05,Falta de material,55
+2025-01-04,Tarde,M-05,Cambio de formato,28
+2025-01-04,Tarde,M-05,Falla eléctrica,26
+2025-01-05,Mañana,M-01,Falla mecánica,71
+2025-01-05,Noche,M-01,Cambio de formato,31
+2025-01-05,Noche,M-01,Falta de material,19
+2025-01-05,Noche,M-01,Cambio de formato,21
+2025-01-05,Mañana,M-02,Falla eléctrica,65
+2025-01-05,Mañana,M-02,Falla mecánica,46
+2025-01-05,Tarde,M-02,Falla eléctrica,99
+2025-01-05,Tarde,M-03,Ajuste de calidad,18
+2025-01-05,Tarde,M-03,Ajuste de calidad,12
+2025-01-05,Tarde,M-03,Falla mecánica,28
+2025-01-05,Noche,M-03,Falla mecánica,73
+2025-01-05,Mañana,M-04,Falla mecánica,39
+2025-01-05,Mañana,M-04,Cambio de formato,28
+2025-01-05,Noche,M-04,Cambio de formato,20
+2025-01-05,Noche,M-04,Falla mecánica,48
+2025-01-05,Noche,M-04,Falla mecánica,48
+2025-01-05,Noche,M-04,Falla mecánica,70
+2025-01-05,Mañana,M-05,Otros,8
+2025-01-05,Noche,M-05,Cambio de formato,43
+2025-01-05,Noche,M-05,Limpieza no programada,16
+2025-01-05,Noche,M-05,Cambio de formato,22
+2025-01-06,Mañana,M-01,Falta de material,17
+2025-01-06,Mañana,M-02,Falta de material,21
+2025-01-06,Mañana,M-02,Falta de material,29
+2025-01-06,Mañana,M-02,Cambio de formato,20
+2025-01-06,Tarde,M-02,Falta de material,30
+2025-01-06,Tarde,M-02,Cambio de formato,34
+2025-01-06,Noche,M-02,Limpieza no programada,15
+2025-01-06,Noche,M-02,Falta de material,28
+2025-01-06,Mañana,M-03,Ajuste de calidad,12
+2025-01-06,Noche,M-03,Ajuste de calidad,7
+2025-01-06,Mañana,M-04,Falta de material,34
+2025-01-06,Tarde,M-04,Falla mecánica,28
+2025-01-06,Noche,M-04,Falta de material,39
+2025-01-06,Noche,M-04,Falla mecánica,46
+2025-01-06,Tarde,M-05,Cambio de formato,44
+2025-01-06,Noche,M-05,Cambio de formato,37
+2025-01-06,Noche,M-05,Cambio de formato,25
+2025-01-07,Tarde,M-01,Cambio de formato,40
+2025-01-07,Tarde,M-01,Falla mecánica,71
+2025-01-07,Tarde,M-02,Falla mecánica,67
+2025-01-07,Tarde,M-02,Cambio de formato,34
+2025-01-07,Noche,M-02,Falla eléctrica,94
+2025-01-07,Mañana,M-03,Falta de material,40
+2025-01-07,Mañana,M-03,Falla mecánica,60
+2025-01-07,Mañana,M-03,Falla mecánica,64
+2025-01-07,Tarde,M-03,Ajuste de calidad,22
+2025-01-07,Noche,M-03,Falla mecánica,77
+2025-01-07,Mañana,M-04,Cambio de formato,25
+2025-01-07,Tarde,M-04,Cambio de formato,32
+2025-01-07,Tarde,M-04,Falta de material,52
+2025-01-07,Tarde,M-04,Falla mecánica,69
+2025-01-07,Tarde,M-05,Ajuste de calidad,13
+2025-01-07,Tarde,M-05,Ajuste de calidad,20
+2025-01-07,Noche,M-05,Cambio de formato,40
+2025-01-07,Noche,M-05,Falla mecánica,20
+2025-01-07,Noche,M-05,Ajuste de calidad,12
+2025-01-07,Noche,M-05,Falla mecánica,17
+2025-01-08,Mañana,M-01,Falla mecánica,42
+2025-01-08,Noche,M-01,Ajuste de calidad,10
+2025-01-08,Noche,M-01,Limpieza no programada,13
+2025-01-08,Mañana,M-02,Falla eléctrica,68
+2025-01-08,Mañana,M-03,Falla mecánica,87
+2025-01-08,Tarde,M-03,Cambio de formato,36
+2025-01-08,Noche,M-03,Cambio de formato,33
+2025-01-08,Mañana,M-04,Falta de material,37
+2025-01-08,Mañana,M-04,Falla mecánica,81
+2025-01-08,Tarde,M-04,Cambio de formato,35
+2025-01-08,Tarde,M-04,Cambio de formato,43
+2025-01-08,Mañana,M-05,Ajuste de calidad,23
+2025-01-09,Mañana,M-01,Falta de material,27
+2025-01-09,Mañana,M-01,Falta de material,43
+2025-01-09,Tarde,M-01,Cambio de formato,44
+2025-01-09,Tarde,M-01,Falla mecánica,75
+2025-01-09,Noche,M-01,Falla mecánica,43
+2025-01-09,Noche,M-01,Cambio de formato,27
+2025-01-09,Mañana,M-02,Cambio de formato,33
+2025-01-09,Mañana,M-03,Limpieza no programada,15
+2025-01-09,Mañana,M-03,Falla mecánica,76
+2025-01-09,Tarde,M-03,Falta de material,16
+2025-01-09,Tarde,M-03,Ajuste de calidad,14
+2025-01-09,Mañana,M-04,Falta de material,54
+2025-01-09,Mañana,M-04,Limpieza no programada,30
+2025-01-09,Mañana,M-04,Falla eléctrica,82
+2025-01-09,Noche,M-04,Falla mecánica,76
+2025-01-09,Noche,M-04,Falla mecánica,23
+2025-01-09,Noche,M-04,Cambio de formato,22
+2025-01-09,Noche,M-05,Falta de material,49
+2025-01-10,Mañana,M-01,Cambio de formato,38
+2025-01-10,Tarde,M-01,Falta de material,57
+2025-01-10,Noche,M-01,Falla mecánica,25
+2025-01-10,Tarde,M-02,Falla mecánica,44
+2025-01-10,Noche,M-02,Falla mecánica,44
+2025-01-10,Noche,M-02,Falla eléctrica,120
+2025-01-10,Mañana,M-03,Falla mecánica,29
+2025-01-10,Mañana,M-03,Cambio de formato,40
+2025-01-10,Noche,M-03,Ajuste de calidad,14
+2025-01-10,Tarde,M-04,Cambio de formato,39
+2025-01-10,Mañana,M-05,Ajuste de calidad,23
+2025-01-10,Mañana,M-05,Falta de material,11
+2025-01-10,Mañana,M-05,Otros,13
+2025-01-11,Mañana,M-01,Limpieza no programada,25
+2025-01-11,Mañana,M-01,Cambio de formato,30
+2025-01-11,Noche,M-01,Cambio de formato,44
+2025-01-11,Tarde,M-02,Cambio de formato,20
+2025-01-11,Noche,M-02,Falla mecánica,61
+2025-01-11,Mañana,M-03,Falla mecánica,49
+2025-01-11,Tarde,M-03,Falta de material,17
+2025-01-11,Noche,M-03,Falta de material,29
+2025-01-11,Noche,M-03,Falta de material,45
+2025-01-11,Mañana,M-04,Falla mecánica,30
+2025-01-11,Mañana,M-04,Falta de material,19
+2025-01-11,Tarde,M-04,Falla mecánica,76
+2025-01-11,Noche,M-04,Cambio de formato,39
+2025-01-11,Mañana,M-05,Falla mecánica,68
+2025-01-11,Mañana,M-05,Cambio de formato,45
+2025-01-11,Noche,M-05,Cambio de formato,24
+2025-01-11,Noche,M-05,Cambio de formato,35
+2025-01-11,Noche,M-05,Cambio de formato,37
+2025-01-11,Noche,M-05,Ajuste de calidad,17
+2025-01-12,Noche,M-01,Falta de material,34
+2025-01-12,Noche,M-01,Cambio de formato,41
+2025-01-12,Tarde,M-02,Cambio de formato,23
+2025-01-12,Tarde,M-02,Falla eléctrica,76
+2025-01-12,Tarde,M-02,Falla mecánica,73
+2025-01-12,Noche,M-02,Limpieza no programada,12
+2025-01-12,Noche,M-02,Cambio de formato,28
+2025-01-12,Mañana,M-03,Falla eléctrica,106
+2025-01-12,Mañana,M-03,Falla eléctrica,68
+2025-01-12,Tarde,M-03,Cambio de formato,37
+2025-01-12,Tarde,M-03,Falla mecánica,23
+2025-01-12,Tarde,M-03,Falla mecánica,51
+2025-01-12,Noche,M-03,Falla mecánica,27
+2025-01-12,Mañana,M-04,Falla mecánica,22
+2025-01-12,Mañana,M-04,Falla mecánica,62
+2025-01-12,Mañana,M-05,Cambio de formato,38
+2025-01-12,Mañana,M-05,Falla mecánica,74
+2025-01-12,Tarde,M-05,Falla eléctrica,79
+2025-01-13,Mañana,M-01,Falta de material,37
+2025-01-13,Tarde,M-02,Cambio de formato,20
+2025-01-13,Tarde,M-02,Falta de material,53
+2025-01-13,Noche,M-02,Ajuste de calidad,14
+2025-01-13,Noche,M-02,Ajuste de calidad,12
+2025-01-13,Noche,M-02,Falta de material,32
+2025-01-13,Tarde,M-03,Falla mecánica,27
+2025-01-13,Tarde,M-03,Falla eléctrica,102
+2025-01-13,Mañana,M-04,Cambio de formato,33
+2025-01-13,Mañana,M-04,Falla mecánica,31
+2025-01-13,Mañana,M-04,Ajuste de calidad,16
+2025-01-13,Tarde,M-04,Falla mecánica,76
+2025-01-13,Tarde,M-04,Limpieza no programada,19
+2025-01-13,Mañana,M-05,Falla eléctrica,112
+2025-01-13,Mañana,M-05,Falta de material,35
+2025-01-13,Mañana,M-05,Limpieza no programada,27
+2025-01-13,Noche,M-05,Falta de material,47
+2025-01-14,Tarde,M-01,Limpieza no programada,20
+2025-01-14,Tarde,M-02,Cambio de formato,35
+2025-01-14,Tarde,M-02,Falla mecánica,45
+2025-01-14,Tarde,M-02,Falla eléctrica,37
+2025-01-14,Noche,M-02,Falta de material,44
+2025-01-14,Noche,M-02,Cambio de formato,43
+2025-01-14,Noche,M-02,Falta de material,36
+2025-01-14,Mañana,M-03,Limpieza no programada,18
+2025-01-14,Tarde,M-03,Limpieza no programada,21
+2025-01-14,Noche,M-03,Otros,16
+2025-01-14,Mañana,M-04,Limpieza no programada,24
+2025-01-14,Mañana,M-04,Falla mecánica,42
+2025-01-14,Mañana,M-04,Falta de material,48
+2025-01-14,Mañana,M-05,Ajuste de calidad,12
+2025-01-14,Tarde,M-05,Falla mecánica,33
+2025-01-14,Tarde,M-05,Otros,13
+2025-01-14,Tarde,M-05,Ajuste de calidad,8
+2025-01-15,Tarde,M-01,Cambio de formato,43
+2025-01-15,Tarde,M-01,Falla mecánica,72
+2025-01-15,Tarde,M-02,Cambio de formato,20
+2025-01-15,Noche,M-02,Falta de material,41
+2025-01-15,Mañana,M-03,Cambio de formato,24
+2025-01-15,Mañana,M-03,Falla mecánica,50
+2025-01-15,Mañana,M-03,Falta de material,47
+2025-01-15,Tarde,M-03,Cambio de formato,34
+2025-01-15,Tarde,M-03,Cambio de formato,33
+2025-01-15,Tarde,M-03,Falla mecánica,29
+2025-01-15,Tarde,M-03,Falla eléctrica,103
+2025-01-15,Noche,M-03,Cambio de formato,27
+2025-01-15,Noche,M-03,Cambio de formato,34
+2025-01-15,Tarde,M-04,Falta de material,40
+2025-01-15,Tarde,M-04,Falla mecánica,25
+2025-01-15,Tarde,M-04,Falla mecánica,27
+2025-01-15,Mañana,M-05,Falta de material,36
+2025-01-15,Tarde,M-05,Falla eléctrica,112
+2025-01-15,Tarde,M-05,Falla mecánica,51
+2025-01-15,Noche,M-05,Falla mecánica,76
+2025-01-16,Mañana,M-01,Cambio de formato,44
+2025-01-16,Mañana,M-01,Falla mecánica,43
+2025-01-16,Tarde,M-01,Ajuste de calidad,24
+2025-01-16,Tarde,M-01,Falta de material,45
+2025-01-16,Tarde,M-01,Falla mecánica,49
+2025-01-16,Noche,M-01,Falla eléctrica,64
+2025-01-16,Noche,M-01,Falla mecánica,33
+2025-01-16,Tarde,M-02,Falla mecánica,68
+2025-01-16,Tarde,M-02,Cambio de formato,25
+2025-01-16,Noche,M-02,Falta de material,15
+2025-01-16,Noche,M-02,Falla eléctrica,39
+2025-01-16,Mañana,M-03,Falla mecánica,69
+2025-01-16,Mañana,M-03,Cambio de formato,34
+2025-01-16,Tarde,M-03,Cambio de formato,23
+2025-01-16,Noche,M-03,Falta de material,12
+2025-01-16,Tarde,M-04,Ajuste de calidad,14
+2025-01-16,Tarde,M-04,Cambio de formato,20
+2025-01-16,Mañana,M-05,Falta de material,32
+2025-01-16,Noche,M-05,Falta de material,46
+2025-01-16,Noche,M-05,Cambio de formato,40
+2025-01-17,Tarde,M-01,Ajuste de calidad,16
+2025-01-17,Mañana,M-02,Cambio de formato,30
+2025-01-17,Mañana,M-03,Falta de material,19
+2025-01-17,Mañana,M-03,Falla mecánica,33
+2025-01-17,Mañana,M-03,Falla mecánica,37
+2025-01-17,Tarde,M-03,Falla mecánica,78
+2025-01-17,Tarde,M-03,Cambio de formato,38
+2025-01-17,Noche,M-03,Falta de material,50
+2025-01-17,Noche,M-03,Otros,15
+2025-01-17,Noche,M-03,Falla eléctrica,100
+2025-01-17,Mañana,M-04,Falta de material,60
+2025-01-17,Tarde,M-04,Cambio de formato,34
+2025-01-17,Tarde,M-05,Limpieza no programada,11
+2025-01-17,Noche,M-05,Cambio de formato,35
+2025-01-18,Mañana,M-01,Ajuste de calidad,15
+2025-01-18,Tarde,M-01,Falla mecánica,71
+2025-01-18,Noche,M-01,Cambio de formato,29
+2025-01-18,Mañana,M-02,Falla mecánica,57
+2025-01-18,Tarde,M-02,Falla mecánica,34
+2025-01-18,Mañana,M-03,Cambio de formato,39
+2025-01-18,Mañana,M-03,Falta de material,15
+2025-01-18,Tarde,M-03,Ajuste de calidad,21
+2025-01-18,Tarde,M-03,Falla mecánica,69
+2025-01-18,Noche,M-03,Limpieza no programada,20
+2025-01-18,Tarde,M-04,Falla mecánica,84
+2025-01-18,Tarde,M-04,Ajuste de calidad,21
+2025-01-18,Noche,M-04,Falla mecánica,63
+2025-01-18,Noche,M-04,Falla mecánica,38
+2025-01-18,Mañana,M-05,Falla mecánica,71
+2025-01-18,Mañana,M-05,Falla mecánica,61
+2025-01-18,Tarde,M-05,Falla mecánica,72
+2025-01-18,Noche,M-05,Ajuste de calidad,11
+2025-01-18,Noche,M-05,Cambio de formato,38
+2025-01-18,Noche,M-05,Otros,19
+2025-01-19,Mañana,M-01,Cambio de formato,25
+2025-01-19,Noche,M-01,Falta de material,16
+2025-01-19,Noche,M-01,Falta de material,43
+2025-01-19,Mañana,M-02,Falla mecánica,80
+2025-01-19,Mañana,M-02,Falla mecánica,70
+2025-01-19,Tarde,M-02,Falla eléctrica,23
+2025-01-19,Tarde,M-02,Cambio de formato,32
+2025-01-19,Noche,M-02,Cambio de formato,20
+2025-01-19,Noche,M-02,Cambio de formato,23
+2025-01-19,Noche,M-02,Ajuste de calidad,25
+2025-01-19,Noche,M-02,Cambio de formato,24
+2025-01-19,Mañana,M-03,Falta de material,18
+2025-01-19,Mañana,M-03,Ajuste de calidad,20
+2025-01-19,Noche,M-03,Falta de material,43
+2025-01-19,Tarde,M-04,Falta de material,14
+2025-01-19,Noche,M-04,Falla mecánica,80
+2025-01-19,Tarde,M-05,Falla mecánica,25
+2025-01-19,Noche,M-05,Cambio de formato,45
+2025-01-19,Noche,M-05,Otros,5
+2025-01-19,Noche,M-05,Cambio de formato,35
+2025-01-20,Tarde,M-02,Ajuste de calidad,19
+2025-01-20,Mañana,M-03,Falla mecánica,40
+2025-01-20,Mañana,M-03,Falla mecánica,40
+2025-01-20,Mañana,M-03,Falla eléctrica,60
+2025-01-20,Tarde,M-03,Cambio de formato,28
+2025-01-20,Tarde,M-03,Falla mecánica,39
+2025-01-20,Tarde,M-03,Falla mecánica,21
+2025-01-20,Tarde,M-03,Falla eléctrica,62
+2025-01-20,Noche,M-03,Cambio de formato,34
+2025-01-20,Mañana,M-04,Cambio de formato,35
+2025-01-20,Mañana,M-04,Cambio de formato,45
+2025-01-20,Mañana,M-04,Cambio de formato,45
+2025-01-20,Tarde,M-04,Otros,10
+2025-01-20,Mañana,M-05,Cambio de formato,42
+2025-01-20,Tarde,M-05,Falla eléctrica,98
+2025-01-20,Tarde,M-05,Otros,13
+2025-01-21,Mañana,M-01,Ajuste de calidad,10
+2025-01-21,Tarde,M-01,Ajuste de calidad,6
+2025-01-21,Noche,M-01,Cambio de formato,38
+2025-01-21,Mañana,M-02,Cambio de formato,34
+2025-01-21,Tarde,M-02,Cambio de formato,40
+2025-01-21,Mañana,M-03,Falla mecánica,48
+2025-01-21,Mañana,M-03,Falta de material,23
+2025-01-21,Mañana,M-03,Otros,14
+2025-01-21,Mañana,M-04,Limpieza no programada,20
+2025-01-21,Mañana,M-04,Falta de material,55
+2025-01-21,Tarde,M-04,Falla eléctrica,111
+2025-01-21,Tarde,M-04,Falta de material,54
+2025-01-21,Noche,M-04,Falla mecánica,40
+2025-01-21,Mañana,M-05,Cambio de formato,38
+2025-01-21,Tarde,M-05,Falta de material,15
+2025-01-21,Noche,M-05,Cambio de formato,33
+2025-01-21,Noche,M-05,Ajuste de calidad,23
+2025-01-22,Mañana,M-01,Cambio de formato,41
+2025-01-22,Tarde,M-01,Falta de material,47
+2025-01-22,Tarde,M-01,Falla mecánica,31
+2025-01-22,Noche,M-02,Falla mecánica,85
+2025-01-22,Noche,M-02,Falla mecánica,53
+2025-01-22,Mañana,M-03,Falta de material,47
+2025-01-22,Mañana,M-03,Falla mecánica,58
+2025-01-22,Tarde,M-03,Falla mecánica,20
+2025-01-22,Tarde,M-03,Limpieza no programada,28
+2025-01-22,Noche,M-03,Falta de material,11
+2025-01-22,Tarde,M-04,Falta de material,29
+2025-01-22,Tarde,M-04,Cambio de formato,42
+2025-01-22,Noche,M-04,Falla mecánica,33
+2025-01-22,Mañana,M-05,Falla eléctrica,71
+2025-01-22,Mañana,M-05,Falla mecánica,62
+2025-01-23,Mañana,M-01,Cambio de formato,25
+2025-01-23,Mañana,M-01,Ajuste de calidad,23
+2025-01-23,Noche,M-01,Cambio de formato,22
+2025-01-23,Noche,M-01,Limpieza no programada,26
+2025-01-23,Mañana,M-02,Falla mecánica,51
+2025-01-23,Tarde,M-02,Cambio de formato,37
+2025-01-23,Mañana,M-03,Falla mecánica,21
+2025-01-23,Tarde,M-03,Falla mecánica,79
+2025-01-23,Noche,M-03,Falta de material,49
+2025-01-23,Noche,M-03,Falla mecánica,27
+2025-01-23,Mañana,M-05,Cambio de formato,39
+2025-01-23,Tarde,M-05,Cambio de formato,32
+2025-01-23,Tarde,M-05,Otros,14
+2025-01-23,Tarde,M-05,Falta de material,42
+2025-01-23,Noche,M-05,Falla mecánica,17
+2025-01-23,Noche,M-05,Cambio de formato,41
+2025-01-24,Tarde,M-01,Falta de material,26
+2025-01-24,Noche,M-01,Falta de material,56
+2025-01-24,Noche,M-01,Falla mecánica,76
+2025-01-24,Mañana,M-02,Ajuste de calidad,9
+2025-01-24,Tarde,M-02,Falta de material,22
+2025-01-24,Mañana,M-03,Falla eléctrica,114
+2025-01-24,Mañana,M-03,Falta de material,55
+2025-01-24,Tarde,M-03,Falta de material,43
+2025-01-24,Noche,M-03,Cambio de formato,37
+2025-01-24,Mañana,M-04,Falta de material,54
+2025-01-24,Mañana,M-04,Falla mecánica,76
+2025-01-24,Tarde,M-04,Falla mecánica,53
+2025-01-24,Noche,M-04,Cambio de formato,35
+2025-01-24,Mañana,M-05,Falla mecánica,30
+2025-01-24,Mañana,M-05,Falta de material,44
+2025-01-24,Tarde,M-05,Limpieza no programada,14
+2025-01-24,Tarde,M-05,Falla mecánica,51
+2025-01-24,Noche,M-05,Falta de material,57
+2025-01-24,Noche,M-05,Cambio de formato,26
+2025-01-24,Noche,M-05,Ajuste de calidad,13
+2025-01-25,Noche,M-01,Falla mecánica,67
+2025-01-25,Mañana,M-02,Falla mecánica,85
+2025-01-25,Tarde,M-02,Falla eléctrica,80
+2025-01-25,Noche,M-02,Cambio de formato,40
+2025-01-25,Noche,M-02,Falla mecánica,26
+2025-01-25,Noche,M-02,Falta de material,24
+2025-01-25,Mañana,M-03,Falla eléctrica,42
+2025-01-25,Mañana,M-03,Cambio de formato,25
+2025-01-25,Mañana,M-03,Limpieza no programada,11
+2025-01-25,Tarde,M-03,Limpieza no programada,19
+2025-01-25,Noche,M-03,Falla mecánica,57
+2025-01-25,Mañana,M-04,Cambio de formato,24
+2025-01-25,Noche,M-04,Falla mecánica,38
+2025-01-25,Tarde,M-05,Falta de material,35
+2025-01-26,Noche,M-01,Cambio de formato,43
+2025-01-26,Noche,M-01,Falta de material,26
+2025-01-26,Noche,M-01,Falta de material,54
+2025-01-26,Mañana,M-02,Falla mecánica,79
+2025-01-26,Tarde,M-02,Falta de material,50
+2025-01-26,Tarde,M-02,Falla eléctrica,57
+2025-01-26,Noche,M-02,Cambio de formato,34
+2025-01-26,Noche,M-02,Ajuste de calidad,24
+2025-01-26,Noche,M-02,Cambio de formato,42
+2025-01-26,Mañana,M-03,Falta de material,23
+2025-01-26,Tarde,M-03,Ajuste de calidad,21
+2025-01-26,Mañana,M-04,Cambio de formato,38
+2025-01-26,Tarde,M-04,Cambio de formato,41
+2025-01-26,Tarde,M-04,Falla mecánica,89
+2025-01-26,Noche,M-04,Falla mecánica,31
+2025-01-26,Tarde,M-05,Cambio de formato,20
+2025-01-26,Tarde,M-05,Ajuste de calidad,23
+2025-01-26,Noche,M-05,Cambio de formato,21
+2025-01-26,Noche,M-05,Limpieza no programada,12
+2025-01-27,Tarde,M-01,Falta de material,36
+2025-01-27,Noche,M-01,Falla eléctrica,68
+2025-01-27,Mañana,M-02,Cambio de formato,40
+2025-01-27,Tarde,M-02,Cambio de formato,24
+2025-01-27,Tarde,M-02,Falta de material,24
+2025-01-27,Tarde,M-02,Ajuste de calidad,5
+2025-01-27,Tarde,M-02,Otros,19
+2025-01-27,Noche,M-02,Ajuste de calidad,12
+2025-01-27,Noche,M-03,Falla eléctrica,50
+2025-01-27,Noche,M-03,Falla mecánica,27
+2025-01-27,Noche,M-03,Falta de material,38
+2025-01-27,Mañana,M-05,Ajuste de calidad,15
+2025-01-27,Mañana,M-05,Falta de material,59
+2025-01-28,Mañana,M-01,Falla eléctrica,42
+2025-01-28,Mañana,M-01,Falta de material,37
+2025-01-28,Mañana,M-01,Falta de material,13
+2025-01-28,Tarde,M-01,Ajuste de calidad,15
+2025-01-28,Noche,M-02,Cambio de formato,36
+2025-01-28,Tarde,M-03,Falla mecánica,39
+2025-01-28,Tarde,M-03,Falla mecánica,63
+2025-01-28,Noche,M-03,Falla mecánica,90
+2025-01-28,Noche,M-03,Falta de material,45
+2025-01-28,Mañana,M-04,Cambio de formato,20
+2025-01-28,Mañana,M-04,Falla mecánica,39
+2025-01-28,Mañana,M-04,Limpieza no programada,13
+2025-01-28,Tarde,M-04,Falta de material,55
+2025-01-28,Tarde,M-04,Falla mecánica,45
+2025-01-28,Tarde,M-04,Falta de material,59
+2025-01-28,Noche,M-04,Cambio de formato,31
+2025-01-28,Tarde,M-05,Falla eléctrica,67
+2025-01-28,Tarde,M-05,Cambio de formato,21
+2025-01-29,Mañana,M-01,Cambio de formato,24
+2025-01-29,Tarde,M-01,Falla mecánica,85
+2025-01-29,Mañana,M-02,Cambio de formato,25
+2025-01-29,Noche,M-02,Otros,6
+2025-01-29,Noche,M-02,Cambio de formato,22
+2025-01-29,Mañana,M-03,Cambio de formato,40
+2025-01-29,Mañana,M-03,Falla mecánica,34
+2025-01-29,Tarde,M-03,Falta de material,52
+2025-01-29,Noche,M-03,Falla mecánica,83
+2025-01-29,Noche,M-03,Falta de material,10
+2025-01-29,Mañana,M-04,Falla mecánica,79
+2025-01-29,Tarde,M-04,Falla eléctrica,33
+2025-01-29,Tarde,M-04,Falla eléctrica,87
+2025-01-29,Noche,M-04,Ajuste de calidad,13
+2025-01-29,Mañana,M-05,Cambio de formato,27
+2025-01-29,Mañana,M-05,Otros,12
+2025-01-29,Mañana,M-05,Falla mecánica,25
+2025-01-29,Tarde,M-05,Falla mecánica,63
+2025-01-29,Tarde,M-05,Cambio de formato,35
+2025-01-30,Mañana,M-01,Falta de material,16
+2025-01-30,Mañana,M-01,Falla eléctrica,25
+2025-01-30,Tarde,M-01,Falta de material,27
+2025-01-30,Noche,M-01,Falla eléctrica,92
+2025-01-30,Noche,M-01,Falta de material,21
+2025-01-30,Noche,M-01,Falla eléctrica,60
+2025-01-30,Tarde,M-02,Falla mecánica,87
+2025-01-30,Tarde,M-02,Falla mecánica,64
+2025-01-30,Tarde,M-02,Falta de material,44
+2025-01-30,Mañana,M-03,Otros,6
+2025-01-30,Noche,M-03,Limpieza no programada,20
+2025-01-30,Mañana,M-04,Cambio de formato,31
+2025-01-30,Mañana,M-04,Falta de material,34
+2025-01-30,Mañana,M-04,Cambio de formato,41
+2025-01-30,Mañana,M-04,Falta de material,34
+2025-01-30,Tarde,M-04,Falta de material,15
+2025-01-30,Tarde,M-04,Falla mecánica,63
+2025-01-30,Noche,M-04,Cambio de formato,23
+2025-01-30,Noche,M-04,Falla mecánica,54
+2025-01-30,Tarde,M-05,Cambio de formato,23
+2025-01-31,Noche,M-01,Falta de material,20
+2025-01-31,Noche,M-01,Falta de material,20
+2025-01-31,Noche,M-01,Falla mecánica,53
+2025-01-31,Tarde,M-02,Cambio de formato,27
+2025-01-31,Tarde,M-02,Falta de material,41
+2025-01-31,Mañana,M-03,Falta de material,31
+2025-01-31,Tarde,M-03,Falta de material,48
+2025-01-31,Tarde,M-03,Falla mecánica,56
+2025-01-31,Noche,M-03,Falla mecánica,65
+2025-01-31,Mañana,M-04,Cambio de formato,38
+2025-01-31,Noche,M-04,Falla mecánica,84
+2025-01-31,Noche,M-04,Falla mecánica,85
+2025-01-31,Noche,M-04,Falla mecánica,74
+2025-01-31,Mañana,M-05,Ajuste de calidad,7
+2025-01-31,Mañana,M-05,Ajuste de calidad,18
+2025-01-31,Noche,M-05,Cambio de formato,34
+2025-02-01,Mañana,M-01,Cambio de formato,42
+2025-02-01,Tarde,M-01,Falta de material,44
+2025-02-01,Tarde,M-01,Falta de material,15
+2025-02-01,Tarde,M-01,Falla mecánica,46
+2025-02-01,Noche,M-01,Falla mecánica,66
+2025-02-01,Mañana,M-02,Falla mecánica,27
+2025-02-01,Mañana,M-02,Falla mecánica,80
+2025-02-01,Tarde,M-02,Falla mecánica,62
+2025-02-01,Noche,M-02,Cambio de formato,31
+2025-02-01,Mañana,M-03,Falla eléctrica,30
+2025-02-01,Mañana,M-04,Falta de material,30
+2025-02-01,Tarde,M-04,Falla mecánica,58
+2025-02-01,Tarde,M-05,Falla mecánica,66
+2025-02-01,Tarde,M-05,Falta de material,21
+2025-02-01,Tarde,M-05,Falta de material,37
+2025-02-01,Noche,M-05,Cambio de formato,33
+2025-02-01,Noche,M-05,Cambio de formato,42
+2025-02-02,Mañana,M-01,Ajuste de calidad,23
+2025-02-02,Mañana,M-01,Falla mecánica,83
+2025-02-02,Tarde,M-01,Falla mecánica,77
+2025-02-02,Noche,M-01,Falta de material,47
+2025-02-02,Mañana,M-02,Falla mecánica,53
+2025-02-02,Tarde,M-02,Cambio de formato,27
+2025-02-02,Noche,M-02,Cambio de formato,33
+2025-02-02,Noche,M-02,Falta de material,46
+2025-02-02,Mañana,M-03,Falta de material,51
+2025-02-02,Mañana,M-03,Limpieza no programada,15
+2025-02-02,Tarde,M-04,Cambio de formato,41
+2025-02-02,Noche,M-04,Falla mecánica,87
+2025-02-02,Noche,M-05,Cambio de formato,23
+2025-02-02,Noche,M-05,Falta de material,27
+2025-02-03,Tarde,M-01,Cambio de formato,33
+2025-02-03,Tarde,M-01,Falla mecánica,46
+2025-02-03,Noche,M-01,Cambio de formato,22
+2025-02-03,Mañana,M-02,Falla mecánica,90
+2025-02-03,Mañana,M-02,Falta de material,55
+2025-02-03,Tarde,M-02,Ajuste de calidad,11
+2025-02-03,Noche,M-02,Falta de material,20
+2025-02-03,Mañana,M-03,Falla mecánica,80
+2025-02-03,Noche,M-03,Otros,9
+2025-02-03,Noche,M-03,Falta de material,18
+2025-02-03,Noche,M-03,Falla mecánica,56
+2025-02-03,Mañana,M-04,Cambio de formato,38
+2025-02-03,Noche,M-04,Cambio de formato,43
+2025-02-03,Noche,M-04,Falla mecánica,62
+2025-02-03,Mañana,M-05,Falla eléctrica,113
+2025-02-03,Tarde,M-05,Falta de material,14
+2025-02-03,Noche,M-05,Ajuste de calidad,20
+2025-02-03,Noche,M-05,Falla mecánica,51
+2025-02-03,Noche,M-05,Cambio de formato,38
+2025-02-04,Mañana,M-01,Falla eléctrica,117
+2025-02-04,Mañana,M-01,Falla mecánica,27
+2025-02-04,Noche,M-01,Otros,18
+2025-02-04,Tarde,M-02,Falla mecánica,61
+2025-02-04,Tarde,M-02,Falla mecánica,62
+2025-02-04,Tarde,M-02,Falta de material,51
+2025-02-04,Mañana,M-03,Falta de material,10
+2025-02-04,Mañana,M-03,Falla mecánica,24
+2025-02-04,Tarde,M-03,Falla mecánica,58
+2025-02-04,Tarde,M-03,Ajuste de calidad,18
+2025-02-04,Noche,M-04,Falta de material,14
+2025-02-04,Mañana,M-05,Cambio de formato,43
+2025-02-04,Tarde,M-05,Falta de material,38
+2025-02-04,Tarde,M-05,Falla eléctrica,31
+2025-02-04,Tarde,M-05,Falla eléctrica,37
+2025-02-04,Noche,M-05,Limpieza no programada,20
+2025-02-05,Mañana,M-01,Falla mecánica,51
+2025-02-05,Tarde,M-01,Falta de material,29
+2025-02-05,Tarde,M-01,Falla mecánica,80
+2025-02-05,Noche,M-01,Ajuste de calidad,12
+2025-02-05,Mañana,M-02,Falta de material,43
+2025-02-05,Noche,M-02,Cambio de formato,37
+2025-02-05,Noche,M-02,Falta de material,58
+2025-02-05,Noche,M-03,Falla mecánica,79
+2025-02-05,Noche,M-04,Otros,9
+2025-02-05,Noche,M-04,Cambio de formato,32
+2025-02-05,Noche,M-04,Falta de material,58
+2025-02-05,Tarde,M-05,Falla mecánica,26
+2025-02-05,Tarde,M-05,Falla eléctrica,34
+2025-02-06,Noche,M-01,Falta de material,20
+2025-02-06,Noche,M-01,Cambio de formato,43
+2025-02-06,Mañana,M-02,Ajuste de calidad,5
+2025-02-06,Mañana,M-02,Cambio de formato,33
+2025-02-06,Tarde,M-02,Falta de material,14
+2025-02-06,Tarde,M-02,Cambio de formato,36
+2025-02-06,Noche,M-02,Cambio de formato,28
+2025-02-06,Mañana,M-03,Falla mecánica,80
+2025-02-06,Mañana,M-03,Falla mecánica,16
+2025-02-06,Tarde,M-03,Falla mecánica,19
+2025-02-06,Noche,M-03,Cambio de formato,30
+2025-02-06,Noche,M-03,Falla mecánica,55
+2025-02-06,Noche,M-04,Falla mecánica,74
+2025-02-06,Noche,M-04,Falla eléctrica,119
+2025-02-06,Noche,M-04,Ajuste de calidad,15
+2025-02-06,Mañana,M-05,Falla mecánica,53
+2025-02-06,Tarde,M-05,Otros,11
+2025-02-06,Noche,M-05,Falla mecánica,67
+2025-02-06,Noche,M-05,Falla mecánica,84
+2025-02-07,Mañana,M-01,Limpieza no programada,10
+2025-02-07,Mañana,M-01,Ajuste de calidad,17
+2025-02-07,Noche,M-01,Falla mecánica,33
+2025-02-07,Mañana,M-02,Falla eléctrica,86
+2025-02-07,Mañana,M-02,Cambio de formato,31
+2025-02-07,Mañana,M-02,Cambio de formato,43
+2025-02-07,Noche,M-02,Cambio de formato,24
+2025-02-07,Mañana,M-03,Ajuste de calidad,15
+2025-02-07,Noche,M-03,Falla mecánica,36
+2025-02-07,Tarde,M-04,Cambio de formato,23
+2025-02-07,Tarde,M-05,Limpieza no programada,22
+2025-02-07,Tarde,M-05,Cambio de formato,41
+2025-02-08,Mañana,M-01,Falta de material,16
+2025-02-08,Noche,M-01,Falla mecánica,66
+2025-02-08,Noche,M-01,Cambio de formato,40
+2025-02-08,Noche,M-01,Limpieza no programada,12
+2025-02-08,Noche,M-01,Falta de material,26
+2025-02-08,Mañana,M-02,Falla mecánica,71
+2025-02-08,Mañana,M-02,Ajuste de calidad,7
+2025-02-08,Mañana,M-02,Falla eléctrica,62
+2025-02-08,Mañana,M-02,Falla mecánica,74
+2025-02-08,Tarde,M-02,Falta de material,41
+2025-02-08,Mañana,M-03,Falla eléctrica,24
+2025-02-08,Tarde,M-03,Cambio de formato,37
+2025-02-08,Tarde,M-03,Cambio de formato,22
+2025-02-08,Mañana,M-04,Ajuste de calidad,5
+2025-02-08,Noche,M-04,Cambio de formato,32
+2025-02-08,Noche,M-04,Falla mecánica,18
+2025-02-08,Noche,M-04,Cambio de formato,27
+2025-02-08,Tarde,M-05,Falta de material,24
+2025-02-08,Noche,M-05,Falla mecánica,22
+2025-02-09,Mañana,M-01,Otros,17
+2025-02-09,Tarde,M-01,Falla mecánica,90
+2025-02-09,Tarde,M-01,Cambio de formato,43
+2025-02-09,Mañana,M-02,Falta de material,22
+2025-02-09,Tarde,M-02,Cambio de formato,25
+2025-02-09,Tarde,M-02,Cambio de formato,22
+2025-02-09,Tarde,M-02,Falla mecánica,43
+2025-02-09,Mañana,M-03,Falla mecánica,56
+2025-02-09,Tarde,M-03,Falla mecánica,29
+2025-02-09,Tarde,M-03,Ajuste de calidad,16
+2025-02-09,Noche,M-03,Cambio de formato,23
+2025-02-09,Noche,M-03,Cambio de formato,30
+2025-02-09,Noche,M-03,Falla mecánica,35
+2025-02-09,Mañana,M-04,Cambio de formato,30
+2025-02-09,Tarde,M-04,Falla eléctrica,120
+2025-02-09,Noche,M-04,Cambio de formato,43
+2025-02-09,Noche,M-04,Falta de material,18
+2025-02-09,Mañana,M-05,Falta de material,59
+2025-02-09,Mañana,M-05,Limpieza no programada,11
+2025-02-09,Tarde,M-05,Falta de material,50
+2025-02-09,Tarde,M-05,Falta de material,41
+2025-02-10,Mañana,M-01,Falla mecánica,57
+2025-02-10,Mañana,M-01,Cambio de formato,28
+2025-02-10,Noche,M-02,Falta de material,58
+2025-02-10,Noche,M-02,Falta de material,20
+2025-02-10,Mañana,M-04,Cambio de formato,39
+2025-02-10,Mañana,M-04,Falla eléctrica,110
+2025-02-10,Mañana,M-04,Falla mecánica,36
+2025-02-10,Mañana,M-05,Falta de material,29
+2025-02-10,Tarde,M-05,Ajuste de calidad,9
+2025-02-11,Mañana,M-01,Falla mecánica,41
+2025-02-11,Tarde,M-02,Cambio de formato,34
+2025-02-11,Tarde,M-02,Falla mecánica,71
+2025-02-11,Mañana,M-03,Falla mecánica,59
+2025-02-11,Mañana,M-03,Ajuste de calidad,18
+2025-02-11,Tarde,M-03,Ajuste de calidad,21
+2025-02-11,Noche,M-03,Cambio de formato,27
+2025-02-11,Noche,M-03,Cambio de formato,22
+2025-02-11,Tarde,M-04,Otros,9
+2025-02-11,Mañana,M-05,Falla mecánica,69
+2025-02-11,Mañana,M-05,Falla mecánica,70
+2025-02-11,Noche,M-05,Ajuste de calidad,7
+2025-02-11,Noche,M-05,Cambio de formato,32
+2025-02-12,Mañana,M-01,Falla eléctrica,21
+2025-02-12,Tarde,M-01,Cambio de formato,33
+2025-02-12,Noche,M-01,Limpieza no programada,13
+2025-02-12,Noche,M-02,Falta de material,12
+2025-02-12,Mañana,M-03,Falta de material,35
+2025-02-12,Tarde,M-03,Falla mecánica,75
+2025-02-12,Noche,M-04,Cambio de formato,30
+2025-02-12,Noche,M-04,Falla mecánica,68
+2025-02-12,Noche,M-04,Falta de material,15
+2025-02-12,Mañana,M-05,Ajuste de calidad,21
+2025-02-12,Mañana,M-05,Falla eléctrica,27
+2025-02-12,Noche,M-05,Falla eléctrica,23
+2025-02-12,Noche,M-05,Falla mecánica,40
+2025-02-13,Mañana,M-01,Falla eléctrica,110
+2025-02-13,Tarde,M-01,Cambio de formato,23
+2025-02-13,Noche,M-01,Cambio de formato,35
+2025-02-13,Tarde,M-02,Falla mecánica,64
+2025-02-13,Tarde,M-02,Falla mecánica,88
+2025-02-13,Mañana,M-03,Cambio de formato,44
+2025-02-13,Mañana,M-03,Limpieza no programada,10
+2025-02-13,Noche,M-03,Limpieza no programada,30
+2025-02-13,Mañana,M-04,Cambio de formato,26
+2025-02-13,Mañana,M-04,Cambio de formato,41
+2025-02-13,Tarde,M-04,Falla mecánica,62
+2025-02-13,Noche,M-05,Falla mecánica,81
+2025-02-14,Mañana,M-01,Ajuste de calidad,24
+2025-02-14,Mañana,M-01,Cambio de formato,30
+2025-02-14,Tarde,M-01,Otros,13
+2025-02-14,Noche,M-01,Falta de material,46
+2025-02-14,Noche,M-01,Ajuste de calidad,15
+2025-02-14,Mañana,M-02,Ajuste de calidad,16
+2025-02-14,Tarde,M-02,Falla eléctrica,43
+2025-02-14,Tarde,M-02,Falla mecánica,75
+2025-02-14,Noche,M-02,Ajuste de calidad,10
+2025-02-14,Noche,M-02,Limpieza no programada,20
+2025-02-14,Tarde,M-03,Cambio de formato,38
+2025-02-14,Tarde,M-03,Falla mecánica,30
+2025-02-14,Tarde,M-03,Cambio de formato,40
+2025-02-14,Mañana,M-04,Cambio de formato,29
+2025-02-14,Mañana,M-04,Cambio de formato,24
+2025-02-14,Noche,M-04,Cambio de formato,42
+2025-02-14,Noche,M-05,Falta de material,20
+2025-02-14,Noche,M-05,Cambio de formato,44
+2025-02-15,Mañana,M-01,Cambio de formato,33
+2025-02-15,Tarde,M-03,Falta de material,48
+2025-02-15,Noche,M-03,Falla mecánica,77
+2025-02-15,Noche,M-03,Cambio de formato,26
+2025-02-15,Mañana,M-04,Falla mecánica,43
+2025-02-15,Mañana,M-04,Falta de material,18
+2025-02-15,Tarde,M-04,Falla mecánica,19
+2025-02-15,Noche,M-04,Falta de material,48
+2025-02-15,Noche,M-04,Otros,8
+2025-02-15,Mañana,M-05,Cambio de formato,32
+2025-02-15,Mañana,M-05,Falla mecánica,47
+2025-02-15,Tarde,M-05,Falta de material,29
+2025-02-15,Tarde,M-05,Cambio de formato,23
+2025-02-15,Noche,M-05,Falla mecánica,28
+2025-02-16,Tarde,M-01,Ajuste de calidad,21
+2025-02-16,Noche,M-01,Falla mecánica,85
+2025-02-16,Mañana,M-02,Cambio de formato,20
+2025-02-16,Mañana,M-02,Falla mecánica,26
+2025-02-16,Mañana,M-02,Falla eléctrica,93
+2025-02-16,Mañana,M-03,Falla mecánica,74
+2025-02-16,Mañana,M-03,Falla mecánica,37
+2025-02-16,Mañana,M-03,Falla eléctrica,57
+2025-02-16,Mañana,M-03,Cambio de formato,41
+2025-02-16,Noche,M-03,Falta de material,20
+2025-02-16,Noche,M-03,Cambio de formato,34
+2025-02-16,Mañana,M-04,Cambio de formato,30
+2025-02-16,Mañana,M-04,Falla mecánica,66
+2025-02-16,Tarde,M-04,Falta de material,40
+2025-02-16,Tarde,M-04,Ajuste de calidad,25
+2025-02-16,Mañana,M-05,Falla mecánica,90
+2025-02-16,Mañana,M-05,Cambio de formato,38
+2025-02-16,Tarde,M-05,Cambio de formato,20
+2025-02-16,Noche,M-05,Falla eléctrica,81
+2025-02-16,Noche,M-05,Falla eléctrica,34
+2025-02-17,Tarde,M-01,Cambio de formato,43
+2025-02-17,Tarde,M-01,Falta de material,46
+2025-02-17,Noche,M-01,Cambio de formato,42
+2025-02-17,Noche,M-01,Falta de material,16
+2025-02-17,Mañana,M-02,Falta de material,51
+2025-02-17,Tarde,M-02,Otros,6
+2025-02-17,Noche,M-02,Cambio de formato,35
+2025-02-17,Mañana,M-03,Falla mecánica,50
+2025-02-17,Tarde,M-03,Cambio de formato,27
+2025-02-17,Tarde,M-03,Falla mecánica,71
+2025-02-17,Noche,M-03,Cambio de formato,23
+2025-02-17,Noche,M-03,Otros,5
+2025-02-17,Mañana,M-04,Falla mecánica,26
+2025-02-17,Tarde,M-04,Falla eléctrica,91
+2025-02-17,Noche,M-04,Cambio de formato,21
+2025-02-17,Noche,M-04,Ajuste de calidad,19
+2025-02-17,Noche,M-04,Cambio de formato,44
+2025-02-17,Mañana,M-05,Falta de material,17
+2025-02-17,Noche,M-05,Cambio de formato,31
+2025-02-17,Noche,M-05,Falta de material,12
+2025-02-18,Mañana,M-01,Ajuste de calidad,18
+2025-02-18,Mañana,M-01,Falla mecánica,40
+2025-02-18,Noche,M-01,Falla mecánica,68
+2025-02-18,Noche,M-01,Falla mecánica,90
+2025-02-18,Mañana,M-02,Falta de material,42
+2025-02-18,Tarde,M-02,Falla mecánica,70
+2025-02-18,Noche,M-02,Falla eléctrica,42
+2025-02-18,Mañana,M-03,Falla mecánica,56
+2025-02-18,Mañana,M-03,Cambio de formato,32
+2025-02-18,Tarde,M-03,Falla mecánica,65
+2025-02-18,Tarde,M-03,Limpieza no programada,19
+2025-02-18,Noche,M-03,Falta de material,57
+2025-02-18,Mañana,M-04,Cambio de formato,43
+2025-02-18,Mañana,M-05,Limpieza no programada,26
+2025-02-18,Tarde,M-05,Ajuste de calidad,22
+2025-02-18,Tarde,M-05,Cambio de formato,38
+2025-02-18,Noche,M-05,Falla eléctrica,88
+2025-02-19,Mañana,M-01,Cambio de formato,20
+2025-02-19,Mañana,M-01,Cambio de formato,21
+2025-02-19,Tarde,M-01,Falla mecánica,51
+2025-02-19,Tarde,M-01,Falta de material,19
+2025-02-19,Mañana,M-02,Falla mecánica,86
+2025-02-19,Mañana,M-02,Falla eléctrica,115
+2025-02-19,Tarde,M-02,Ajuste de calidad,14
+2025-02-19,Noche,M-02,Cambio de formato,45
+2025-02-19,Mañana,M-03,Falla mecánica,47
+2025-02-19,Tarde,M-03,Cambio de formato,27
+2025-02-19,Tarde,M-03,Falla eléctrica,110
+2025-02-19,Noche,M-03,Ajuste de calidad,11
+2025-02-20,Mañana,M-01,Falta de material,52
+2025-02-20,Mañana,M-01,Cambio de formato,45
+2025-02-20,Mañana,M-01,Falta de material,32
+2025-02-20,Tarde,M-01,Limpieza no programada,26
+2025-02-20,Noche,M-01,Cambio de formato,22
+2025-02-20,Mañana,M-02,Cambio de formato,29
+2025-02-20,Tarde,M-02,Otros,5
+2025-02-20,Tarde,M-03,Ajuste de calidad,8
+2025-02-20,Noche,M-03,Falla eléctrica,118
+2025-02-20,Mañana,M-04,Falla mecánica,39
+2025-02-20,Noche,M-04,Falta de material,23
+2025-02-20,Mañana,M-05,Cambio de formato,23
+2025-02-20,Mañana,M-05,Falla mecánica,70
+2025-02-20,Tarde,M-05,Falla mecánica,73
+2025-02-20,Tarde,M-05,Falta de material,12
+2025-02-20,Noche,M-05,Falta de material,46
+2025-02-20,Noche,M-05,Ajuste de calidad,13
+2025-02-21,Mañana,M-01,Cambio de formato,32
+2025-02-21,Tarde,M-01,Falta de material,58
+2025-02-21,Noche,M-01,Cambio de formato,36
+2025-02-21,Noche,M-01,Falla mecánica,53
+2025-02-21,Mañana,M-02,Cambio de formato,41
+2025-02-21,Mañana,M-02,Falla mecánica,35
+2025-02-21,Mañana,M-02,Cambio de formato,24
+2025-02-21,Tarde,M-02,Falla mecánica,33
+2025-02-21,Tarde,M-02,Falla mecánica,62
+2025-02-21,Noche,M-02,Falla mecánica,20
+2025-02-21,Noche,M-02,Falla mecánica,65
+2025-02-21,Mañana,M-03,Ajuste de calidad,16
+2025-02-21,Tarde,M-03,Falla mecánica,38
+2025-02-21,Tarde,M-03,Falla mecánica,47
+2025-02-21,Noche,M-03,Falla eléctrica,116
+2025-02-21,Noche,M-03,Limpieza no programada,27
+2025-02-21,Tarde,M-04,Cambio de formato,30
+2025-02-21,Tarde,M-04,Cambio de formato,41
+2025-02-21,Noche,M-04,Falla eléctrica,60
+2025-02-21,Mañana,M-05,Falta de material,19
+2025-02-22,Mañana,M-01,Ajuste de calidad,9
+2025-02-22,Tarde,M-01,Cambio de formato,44
+2025-02-22,Mañana,M-02,Falla mecánica,83
+2025-02-22,Mañana,M-02,Falla mecánica,24
+2025-02-22,Tarde,M-02,Falta de material,47
+2025-02-22,Tarde,M-02,Falta de material,59
+2025-02-22,Noche,M-02,Cambio de formato,37
+2025-02-22,Mañana,M-03,Falla mecánica,90
+2025-02-22,Tarde,M-03,Cambio de formato,32
+2025-02-22,Mañana,M-04,Ajuste de calidad,9
+2025-02-22,Tarde,M-04,Falta de material,19
+2025-02-22,Tarde,M-04,Ajuste de calidad,20
+2025-02-22,Tarde,M-04,Limpieza no programada,11
+2025-02-22,Tarde,M-05,Cambio de formato,21
+2025-02-23,Tarde,M-01,Cambio de formato,32
+2025-02-23,Noche,M-01,Cambio de formato,32
+2025-02-23,Noche,M-01,Otros,12
+2025-02-23,Mañana,M-02,Cambio de formato,35
+2025-02-23,Mañana,M-02,Falla eléctrica,20
+2025-02-23,Mañana,M-03,Falla mecánica,44
+2025-02-23,Mañana,M-03,Cambio de formato,30
+2025-02-23,Tarde,M-03,Falla mecánica,35
+2025-02-23,Noche,M-04,Cambio de formato,38
+2025-02-23,Mañana,M-05,Ajuste de calidad,7
+2025-02-23,Mañana,M-05,Falla mecánica,75
+2025-02-23,Tarde,M-05,Falta de material,60
+2025-02-23,Tarde,M-05,Falta de material,59
+2025-02-24,Mañana,M-01,Falta de material,24
+2025-02-24,Noche,M-01,Ajuste de calidad,24
+2025-02-24,Mañana,M-02,Falla mecánica,83
+2025-02-24,Tarde,M-02,Falla mecánica,84
+2025-02-24,Noche,M-02,Falta de material,43
+2025-02-24,Noche,M-02,Cambio de formato,21
+2025-02-24,Mañana,M-03,Cambio de formato,44
+2025-02-24,Mañana,M-03,Cambio de formato,38
+2025-02-24,Mañana,M-03,Ajuste de calidad,23
+2025-02-24,Tarde,M-03,Falla mecánica,25
+2025-02-24,Noche,M-03,Falla mecánica,15
+2025-02-24,Noche,M-04,Falla mecánica,83
+2025-02-24,Tarde,M-05,Ajuste de calidad,20
+2025-02-24,Noche,M-05,Otros,16
+2025-02-25,Mañana,M-02,Falta de material,53
+2025-02-25,Mañana,M-02,Falta de material,20
+2025-02-25,Tarde,M-02,Ajuste de calidad,20
+2025-02-25,Tarde,M-02,Falla eléctrica,75
+2025-02-25,Mañana,M-03,Cambio de formato,40
+2025-02-25,Mañana,M-03,Cambio de formato,42
+2025-02-25,Mañana,M-03,Limpieza no programada,11
+2025-02-25,Tarde,M-03,Cambio de formato,26
+2025-02-25,Tarde,M-03,Falla eléctrica,86
+2025-02-25,Noche,M-03,Cambio de formato,27
+2025-02-25,Noche,M-04,Cambio de formato,26
+2025-02-25,Tarde,M-05,Falla eléctrica,64
+2025-02-25,Tarde,M-05,Cambio de formato,28
+2025-02-25,Noche,M-05,Cambio de formato,20
+2025-02-26,Tarde,M-01,Ajuste de calidad,13
+2025-02-26,Tarde,M-01,Falla eléctrica,93
+2025-02-26,Tarde,M-01,Falla mecánica,71
+2025-02-26,Noche,M-01,Ajuste de calidad,19
+2025-02-26,Noche,M-01,Falta de material,47
+2025-02-26,Noche,M-02,Cambio de formato,37
+2025-02-26,Tarde,M-03,Falla mecánica,37
+2025-02-26,Tarde,M-03,Cambio de formato,31
+2025-02-26,Noche,M-04,Ajuste de calidad,16
+2025-02-26,Noche,M-04,Falla mecánica,28
+2025-02-26,Mañana,M-05,Cambio de formato,20
+2025-02-26,Mañana,M-05,Ajuste de calidad,22
+2025-02-26,Mañana,M-05,Limpieza no programada,25
+2025-02-26,Tarde,M-05,Falla eléctrica,93
+2025-02-26,Tarde,M-05,Falla eléctrica,82
+2025-02-26,Tarde,M-05,Falla mecánica,80
+2025-02-26,Noche,M-05,Falla mecánica,69
+2025-02-27,Mañana,M-01,Cambio de formato,41
+2025-02-27,Noche,M-02,Cambio de formato,25
+2025-02-27,Noche,M-02,Cambio de formato,26
+2025-02-27,Noche,M-02,Cambio de formato,44
+2025-02-27,Mañana,M-03,Falla mecánica,31
+2025-02-27,Tarde,M-03,Falta de material,25
+2025-02-27,Tarde,M-03,Falta de material,34
+2025-02-27,Noche,M-03,Cambio de formato,20
+2025-02-27,Noche,M-03,Falla mecánica,78
+2025-02-27,Mañana,M-04,Cambio de formato,30
+2025-02-27,Tarde,M-04,Falta de material,35
+2025-02-27,Tarde,M-05,Falta de material,26
+2025-02-28,Mañana,M-01,Falta de material,44
+2025-02-28,Noche,M-01,Falla eléctrica,68
+2025-02-28,Noche,M-01,Falta de material,39
+2025-02-28,Tarde,M-02,Falta de material,14
+2025-02-28,Mañana,M-03,Cambio de formato,34
+2025-02-28,Tarde,M-03,Cambio de formato,34
+2025-02-28,Tarde,M-03,Cambio de formato,25
+2025-02-28,Mañana,M-04,Falla mecánica,65
+2025-02-28,Mañana,M-04,Falla mecánica,23
+2025-02-28,Noche,M-04,Falla mecánica,34
+2025-02-28,Noche,M-04,Falla mecánica,64
+2025-02-28,Noche,M-04,Cambio de formato,27
+2025-02-28,Noche,M-04,Ajuste de calidad,19
+2025-02-28,Mañana,M-05,Falla mecánica,60
+2025-02-28,Mañana,M-05,Falla eléctrica,61
+2025-02-28,Tarde,M-05,Limpieza no programada,27
+2025-02-28,Tarde,M-05,Cambio de formato,42
+2025-02-28,Noche,M-05,Ajuste de calidad,23
+2025-03-01,Mañana,M-01,Falla eléctrica,81
+2025-03-01,Tarde,M-01,Cambio de formato,28
+2025-03-01,Noche,M-01,Ajuste de calidad,9
+2025-03-01,Tarde,M-02,Falla mecánica,70
+2025-03-01,Noche,M-02,Cambio de formato,26
+2025-03-01,Noche,M-02,Cambio de formato,37
+2025-03-01,Mañana,M-03,Falta de material,34
+2025-03-01,Mañana,M-03,Falla mecánica,25
+2025-03-01,Tarde,M-03,Falla eléctrica,108
+2025-03-01,Tarde,M-03,Falta de material,28
+2025-03-01,Tarde,M-04,Falta de material,41
+2025-03-01,Tarde,M-05,Falla mecánica,34
+2025-03-01,Tarde,M-05,Falla mecánica,42
+2025-03-01,Noche,M-05,Otros,19
+2025-03-01,Noche,M-05,Falta de material,12
+2025-03-02,Mañana,M-01,Falla mecánica,65
+2025-03-02,Mañana,M-01,Falla mecánica,75
+2025-03-02,Mañana,M-01,Falla mecánica,47
+2025-03-02,Noche,M-01,Cambio de formato,43
+2025-03-02,Noche,M-01,Otros,11
+2025-03-02,Mañana,M-02,Otros,20
+2025-03-02,Tarde,M-02,Falla mecánica,20
+2025-03-02,Tarde,M-02,Ajuste de calidad,22
+2025-03-02,Tarde,M-02,Cambio de formato,28
+2025-03-02,Mañana,M-03,Falla mecánica,70
+2025-03-02,Mañana,M-03,Cambio de formato,25
+2025-03-02,Mañana,M-03,Ajuste de calidad,23
+2025-03-02,Noche,M-03,Falta de material,33
+2025-03-02,Mañana,M-04,Falta de material,31
+2025-03-02,Tarde,M-04,Falla mecánica,34
+2025-03-02,Mañana,M-05,Ajuste de calidad,19
+2025-03-02,Mañana,M-05,Ajuste de calidad,5
+2025-03-02,Noche,M-05,Falla mecánica,77
+2025-03-03,Tarde,M-01,Falla eléctrica,90
+2025-03-03,Tarde,M-01,Falla mecánica,82
+2025-03-03,Mañana,M-02,Cambio de formato,25
+2025-03-03,Noche,M-03,Falla mecánica,23
+2025-03-03,Mañana,M-05,Falla mecánica,43
+2025-03-03,Tarde,M-05,Falla mecánica,77
+2025-03-03,Tarde,M-05,Falla eléctrica,30
+2025-03-03,Tarde,M-05,Cambio de formato,40
+2025-03-03,Noche,M-05,Cambio de formato,31
+2025-03-03,Noche,M-05,Ajuste de calidad,6
+2025-03-03,Noche,M-05,Ajuste de calidad,13
+2025-03-04,Mañana,M-01,Falla mecánica,42
+2025-03-04,Mañana,M-01,Limpieza no programada,13
+2025-03-04,Noche,M-01,Limpieza no programada,27
+2025-03-04,Tarde,M-02,Falta de material,16
+2025-03-04,Noche,M-02,Cambio de formato,25
+2025-03-04,Mañana,M-03,Falla eléctrica,90
+2025-03-04,Mañana,M-03,Otros,15
+2025-03-04,Mañana,M-03,Ajuste de calidad,18
+2025-03-04,Tarde,M-03,Falta de material,46
+2025-03-04,Tarde,M-03,Cambio de formato,32
+2025-03-04,Tarde,M-04,Cambio de formato,29
+2025-03-04,Mañana,M-05,Ajuste de calidad,22
+2025-03-04,Mañana,M-05,Cambio de formato,38
+2025-03-04,Mañana,M-05,Falla eléctrica,39
+2025-03-05,Mañana,M-01,Falta de material,23
+2025-03-05,Tarde,M-01,Falla mecánica,88
+2025-03-05,Tarde,M-01,Ajuste de calidad,8
+2025-03-05,Noche,M-01,Falta de material,15
+2025-03-05,Noche,M-01,Ajuste de calidad,15
+2025-03-05,Mañana,M-02,Falla eléctrica,118
+2025-03-05,Tarde,M-02,Falla mecánica,63
+2025-03-05,Mañana,M-03,Falla mecánica,65
+2025-03-05,Mañana,M-03,Otros,7
+2025-03-05,Tarde,M-03,Falla mecánica,25
+2025-03-05,Noche,M-03,Falla mecánica,66
+2025-03-05,Tarde,M-04,Falta de material,22
+2025-03-05,Noche,M-04,Falla mecánica,49
+2025-03-05,Mañana,M-05,Falla mecánica,67
+2025-03-05,Mañana,M-05,Cambio de formato,31
+2025-03-05,Mañana,M-05,Falla mecánica,59
+2025-03-05,Noche,M-05,Cambio de formato,24
+2025-03-05,Noche,M-05,Cambio de formato,27
+2025-03-05,Noche,M-05,Falla mecánica,62
+2025-03-05,Noche,M-05,Falla mecánica,25
+2025-03-06,Mañana,M-01,Falla eléctrica,56
+2025-03-06,Mañana,M-01,Falla mecánica,29
+2025-03-06,Mañana,M-01,Cambio de formato,35
+2025-03-06,Tarde,M-01,Falla mecánica,81
+2025-03-06,Noche,M-01,Otros,5
+2025-03-06,Mañana,M-02,Falla mecánica,22
+2025-03-06,Tarde,M-02,Falla mecánica,16
+2025-03-06,Noche,M-02,Falla eléctrica,66
+2025-03-06,Mañana,M-03,Falta de material,24
+2025-03-06,Mañana,M-03,Otros,8
+2025-03-06,Tarde,M-03,Falla mecánica,40
+2025-03-06,Noche,M-03,Falla mecánica,46
+2025-03-06,Noche,M-03,Falla eléctrica,59
+2025-03-06,Noche,M-03,Cambio de formato,32
+2025-03-06,Mañana,M-04,Cambio de formato,29
+2025-03-06,Tarde,M-04,Ajuste de calidad,25
+2025-03-06,Noche,M-04,Otros,13
+2025-03-06,Noche,M-04,Falla mecánica,58
+2025-03-06,Noche,M-04,Falla eléctrica,104
+2025-03-06,Noche,M-04,Falla mecánica,63
+2025-03-06,Mañana,M-05,Falta de material,36
+2025-03-06,Mañana,M-05,Falla mecánica,34
+2025-03-06,Tarde,M-05,Cambio de formato,24
+2025-03-06,Noche,M-05,Ajuste de calidad,9
+2025-03-07,Mañana,M-01,Falla mecánica,33
+2025-03-07,Noche,M-01,Falla mecánica,33
+2025-03-07,Noche,M-01,Falta de material,58
+2025-03-07,Mañana,M-02,Cambio de formato,43
+2025-03-07,Mañana,M-02,Limpieza no programada,30
+2025-03-07,Mañana,M-02,Limpieza no programada,18
+2025-03-07,Noche,M-02,Falta de material,49
+2025-03-07,Mañana,M-03,Cambio de formato,42
+2025-03-07,Mañana,M-03,Ajuste de calidad,9
+2025-03-07,Tarde,M-03,Cambio de formato,32
+2025-03-07,Tarde,M-03,Cambio de formato,24
+2025-03-07,Noche,M-03,Limpieza no programada,18
+2025-03-07,Mañana,M-04,Falla mecánica,41
+2025-03-07,Tarde,M-04,Falla eléctrica,82
+2025-03-07,Tarde,M-04,Falta de material,39
+2025-03-07,Tarde,M-04,Falla eléctrica,74
+2025-03-07,Tarde,M-04,Cambio de formato,21
+2025-03-07,Noche,M-04,Cambio de formato,43
+2025-03-07,Noche,M-04,Falta de material,44
+2025-03-07,Mañana,M-05,Cambio de formato,34
+2025-03-07,Mañana,M-05,Cambio de formato,21
+2025-03-07,Tarde,M-05,Otros,6
+2025-03-07,Noche,M-05,Falla mecánica,52
+2025-03-08,Mañana,M-01,Falla mecánica,36
+2025-03-08,Mañana,M-01,Cambio de formato,39
+2025-03-08,Tarde,M-01,Cambio de formato,40
+2025-03-08,Tarde,M-01,Cambio de formato,43
+2025-03-08,Tarde,M-01,Cambio de formato,25
+2025-03-08,Noche,M-01,Falla mecánica,67
+2025-03-08,Mañana,M-02,Falla eléctrica,45
+2025-03-08,Mañana,M-03,Falta de material,15
+2025-03-08,Mañana,M-03,Cambio de formato,32
+2025-03-08,Tarde,M-03,Falla mecánica,85
+2025-03-08,Noche,M-03,Falta de material,52
+2025-03-08,Noche,M-03,Falla eléctrica,40
+2025-03-08,Noche,M-03,Falla eléctrica,42
+2025-03-08,Noche,M-04,Falla mecánica,47
+2025-03-08,Noche,M-04,Falla mecánica,78
+2025-03-08,Noche,M-04,Falla eléctrica,89
+2025-03-08,Mañana,M-05,Falla mecánica,75
+2025-03-08,Tarde,M-05,Falla mecánica,85
+2025-03-08,Noche,M-05,Falla mecánica,38
+2025-03-08,Noche,M-05,Falla mecánica,59
+2025-03-09,Mañana,M-01,Ajuste de calidad,14
+2025-03-09,Mañana,M-02,Falta de material,39
+2025-03-09,Noche,M-02,Ajuste de calidad,18
+2025-03-09,Noche,M-02,Ajuste de calidad,7
+2025-03-09,Noche,M-02,Falla mecánica,32
+2025-03-09,Mañana,M-03,Cambio de formato,26
+2025-03-09,Noche,M-03,Cambio de formato,42
+2025-03-09,Noche,M-03,Falta de material,60
+2025-03-09,Noche,M-03,Otros,14
+2025-03-09,Noche,M-03,Cambio de formato,30
+2025-03-09,Mañana,M-04,Falla eléctrica,98
+2025-03-09,Tarde,M-04,Cambio de formato,25
+2025-03-09,Mañana,M-05,Ajuste de calidad,11
+2025-03-09,Tarde,M-05,Cambio de formato,37
+2025-03-09,Noche,M-05,Falta de material,26
+2025-03-10,Mañana,M-01,Cambio de formato,20
+2025-03-10,Noche,M-01,Falla mecánica,58
+2025-03-10,Noche,M-01,Falla eléctrica,81
+2025-03-10,Mañana,M-02,Cambio de formato,40
+2025-03-10,Tarde,M-02,Cambio de formato,33
+2025-03-10,Tarde,M-02,Falla eléctrica,27
+2025-03-10,Noche,M-02,Cambio de formato,37
+2025-03-10,Noche,M-02,Falla mecánica,88
+2025-03-10,Mañana,M-03,Cambio de formato,24
+2025-03-10,Mañana,M-03,Falla mecánica,18
+2025-03-10,Mañana,M-03,Cambio de formato,32
+2025-03-10,Tarde,M-03,Cambio de formato,39
+2025-03-10,Noche,M-03,Falla eléctrica,110
+2025-03-10,Mañana,M-04,Falla mecánica,72
+2025-03-10,Tarde,M-04,Falla mecánica,62
+2025-03-10,Noche,M-04,Cambio de formato,20
+2025-03-10,Noche,M-04,Ajuste de calidad,21
+2025-03-10,Noche,M-04,Falla mecánica,58
+2025-03-10,Mañana,M-05,Ajuste de calidad,9
+2025-03-10,Tarde,M-05,Cambio de formato,24
+2025-03-10,Tarde,M-05,Falla mecánica,19
+2025-03-10,Tarde,M-05,Cambio de formato,42
+2025-03-10,Tarde,M-05,Falla eléctrica,34
+2025-03-10,Noche,M-05,Falta de material,15
+2025-03-10,Noche,M-05,Cambio de formato,21
+2025-03-11,Mañana,M-01,Falla mecánica,54
+2025-03-11,Mañana,M-01,Falta de material,23
+2025-03-11,Tarde,M-03,Cambio de formato,24
+2025-03-11,Tarde,M-04,Falta de material,38
+2025-03-11,Noche,M-04,Falta de material,52
+2025-03-11,Noche,M-04,Ajuste de calidad,7
+2025-03-11,Mañana,M-05,Falla mecánica,74
+2025-03-11,Tarde,M-05,Ajuste de calidad,20
+2025-03-11,Noche,M-05,Falta de material,33
+2025-03-11,Noche,M-05,Cambio de formato,42
+2025-03-12,Mañana,M-01,Cambio de formato,35
+2025-03-12,Mañana,M-01,Falla mecánica,75
+2025-03-12,Tarde,M-01,Falla mecánica,59
+2025-03-12,Tarde,M-01,Falta de material,18
+2025-03-12,Noche,M-01,Falla mecánica,86
+2025-03-12,Noche,M-01,Falta de material,60
+2025-03-12,Mañana,M-02,Falla mecánica,46
+2025-03-12,Tarde,M-02,Cambio de formato,42
+2025-03-12,Noche,M-02,Ajuste de calidad,22
+2025-03-12,Mañana,M-03,Ajuste de calidad,23
+2025-03-12,Mañana,M-03,Ajuste de calidad,8
+2025-03-12,Tarde,M-03,Ajuste de calidad,10
+2025-03-12,Noche,M-03,Falta de material,48
+2025-03-12,Mañana,M-04,Falta de material,15
+2025-03-12,Tarde,M-04,Ajuste de calidad,5
+2025-03-12,Noche,M-04,Falla mecánica,88
+2025-03-12,Mañana,M-05,Falla mecánica,53
+2025-03-12,Mañana,M-05,Falla eléctrica,75
+2025-03-12,Tarde,M-05,Falta de material,49
+2025-03-12,Tarde,M-05,Otros,17
+2025-03-12,Tarde,M-05,Ajuste de calidad,14
+2025-03-12,Tarde,M-05,Falla mecánica,85
+2025-03-12,Noche,M-05,Otros,8
+2025-03-13,Noche,M-01,Falta de material,40
+2025-03-13,Mañana,M-02,Cambio de formato,33
+2025-03-13,Mañana,M-02,Falla mecánica,31
+2025-03-13,Noche,M-02,Otros,7
+2025-03-13,Mañana,M-03,Falla eléctrica,109
+2025-03-13,Mañana,M-03,Falta de material,37
+2025-03-13,Tarde,M-03,Ajuste de calidad,17
+2025-03-13,Noche,M-03,Falta de material,56
+2025-03-13,Tarde,M-04,Falta de material,55
+2025-03-13,Tarde,M-04,Cambio de formato,38
+2025-03-13,Tarde,M-04,Cambio de formato,42
+2025-03-13,Noche,M-04,Falla eléctrica,116
+2025-03-13,Tarde,M-05,Ajuste de calidad,7
+2025-03-13,Noche,M-05,Falta de material,31
+2025-03-14,Mañana,M-01,Falla eléctrica,93
+2025-03-14,Tarde,M-01,Ajuste de calidad,14
+2025-03-14,Tarde,M-01,Falla mecánica,53
+2025-03-14,Tarde,M-01,Falta de material,46
+2025-03-14,Noche,M-01,Falta de material,52
+2025-03-14,Mañana,M-02,Falla mecánica,25
+2025-03-14,Tarde,M-02,Falla mecánica,50
+2025-03-14,Tarde,M-02,Falla mecánica,47
+2025-03-14,Mañana,M-03,Ajuste de calidad,13
+2025-03-14,Noche,M-03,Limpieza no programada,29
+2025-03-14,Noche,M-03,Limpieza no programada,14
+2025-03-14,Noche,M-03,Ajuste de calidad,18
+2025-03-14,Noche,M-03,Ajuste de calidad,12
+2025-03-14,Mañana,M-05,Limpieza no programada,27
+2025-03-14,Tarde,M-05,Falla mecánica,82
+2025-03-14,Noche,M-05,Cambio de formato,41
+2025-03-14,Noche,M-05,Cambio de formato,36
+2025-03-14,Noche,M-05,Falta de material,12
+2025-03-15,Tarde,M-01,Falla mecánica,49
+2025-03-15,Noche,M-01,Cambio de formato,44
+2025-03-15,Mañana,M-02,Ajuste de calidad,21
+2025-03-15,Noche,M-02,Falla mecánica,27
+2025-03-15,Noche,M-02,Cambio de formato,41
+2025-03-15,Mañana,M-03,Falla mecánica,18
+2025-03-15,Tarde,M-03,Falla eléctrica,47
+2025-03-15,Noche,M-03,Falla mecánica,31
+2025-03-15,Noche,M-03,Cambio de formato,44
+2025-03-15,Mañana,M-04,Falla eléctrica,109
+2025-03-15,Mañana,M-04,Falla mecánica,52
+2025-03-15,Mañana,M-04,Cambio de formato,22
+2025-03-15,Noche,M-04,Cambio de formato,25
+2025-03-15,Noche,M-04,Ajuste de calidad,13
+2025-03-15,Noche,M-05,Falta de material,21
+2025-03-15,Noche,M-05,Falta de material,16
+2025-03-15,Noche,M-05,Falla mecánica,70
+2025-03-16,Mañana,M-01,Falta de material,16
+2025-03-16,Mañana,M-01,Falla mecánica,24
+2025-03-16,Mañana,M-01,Falta de material,26
+2025-03-16,Tarde,M-01,Falta de material,10
+2025-03-16,Mañana,M-02,Cambio de formato,44
+2025-03-16,Tarde,M-02,Ajuste de calidad,7
+2025-03-16,Tarde,M-02,Cambio de formato,20
+2025-03-16,Noche,M-02,Falla mecánica,83
+2025-03-16,Noche,M-02,Limpieza no programada,21
+2025-03-16,Tarde,M-03,Falla eléctrica,63
+2025-03-16,Noche,M-03,Falta de material,21
+2025-03-16,Noche,M-03,Falta de material,34
+2025-03-16,Tarde,M-04,Falla eléctrica,76
+2025-03-16,Mañana,M-05,Falla mecánica,84
+2025-03-16,Tarde,M-05,Ajuste de calidad,5
+2025-03-16,Tarde,M-05,Falla mecánica,22
+2025-03-16,Tarde,M-05,Cambio de formato,43
+2025-03-16,Noche,M-05,Falta de material,39
+2025-03-16,Noche,M-05,Limpieza no programada,27
+2025-03-17,Mañana,M-01,Falla mecánica,33
+2025-03-17,Mañana,M-01,Cambio de formato,20
+2025-03-17,Mañana,M-01,Cambio de formato,39
+2025-03-17,Mañana,M-03,Otros,17
+2025-03-17,Mañana,M-03,Cambio de formato,41
+2025-03-17,Tarde,M-03,Ajuste de calidad,6
+2025-03-17,Tarde,M-03,Falta de material,31
+2025-03-17,Noche,M-03,Falla mecánica,62
+2025-03-17,Noche,M-03,Falta de material,38
+2025-03-17,Mañana,M-05,Falta de material,28
+2025-03-17,Mañana,M-05,Cambio de formato,45
+2025-03-17,Noche,M-05,Falla mecánica,37
+2025-03-18,Tarde,M-01,Ajuste de calidad,16
+2025-03-18,Mañana,M-02,Falla eléctrica,89
+2025-03-18,Tarde,M-02,Falla mecánica,21
+2025-03-18,Noche,M-02,Limpieza no programada,25
+2025-03-18,Mañana,M-03,Falla mecánica,61
+2025-03-18,Mañana,M-03,Falla mecánica,70
+2025-03-18,Mañana,M-03,Falla mecánica,73
+2025-03-18,Tarde,M-03,Falla mecánica,18
+2025-03-18,Tarde,M-03,Cambio de formato,23
+2025-03-18,Tarde,M-03,Falla mecánica,45
+2025-03-18,Noche,M-03,Falla mecánica,56
+2025-03-18,Noche,M-04,Falla mecánica,70
+2025-03-18,Mañana,M-05,Cambio de formato,24
+2025-03-18,Tarde,M-05,Falla mecánica,57
+2025-03-19,Mañana,M-01,Falla mecánica,58
+2025-03-19,Noche,M-01,Falta de material,45
+2025-03-19,Noche,M-01,Falla eléctrica,31
+2025-03-19,Noche,M-01,Cambio de formato,36
+2025-03-19,Mañana,M-02,Ajuste de calidad,13
+2025-03-19,Tarde,M-02,Falla mecánica,70
+2025-03-19,Tarde,M-02,Falta de material,47
+2025-03-19,Noche,M-02,Cambio de formato,21
+2025-03-19,Noche,M-02,Falla mecánica,75
+2025-03-19,Noche,M-02,Ajuste de calidad,21
+2025-03-19,Mañana,M-03,Ajuste de calidad,8
+2025-03-19,Tarde,M-03,Falla mecánica,67
+2025-03-19,Noche,M-03,Falta de material,15
+2025-03-19,Tarde,M-04,Otros,19
+2025-03-19,Mañana,M-05,Falta de material,50
+2025-03-20,Mañana,M-01,Ajuste de calidad,7
+2025-03-20,Mañana,M-01,Falta de material,31
+2025-03-20,Tarde,M-01,Falta de material,13
+2025-03-20,Tarde,M-01,Falla mecánica,61
+2025-03-20,Tarde,M-01,Cambio de formato,21
+2025-03-20,Noche,M-01,Falla mecánica,41
+2025-03-20,Mañana,M-02,Falta de material,57
+2025-03-20,Tarde,M-02,Falla mecánica,43
+2025-03-20,Tarde,M-02,Cambio de formato,28
+2025-03-20,Tarde,M-02,Cambio de formato,33
+2025-03-20,Tarde,M-03,Falla mecánica,62
+2025-03-20,Noche,M-03,Limpieza no programada,12
+2025-03-20,Noche,M-03,Falla mecánica,73
+2025-03-20,Tarde,M-05,Cambio de formato,33
+2025-03-20,Tarde,M-05,Cambio de formato,40
+2025-03-20,Tarde,M-05,Falla mecánica,39
+2025-03-21,Mañana,M-01,Cambio de formato,40
+2025-03-21,Tarde,M-01,Cambio de formato,37
+2025-03-21,Tarde,M-02,Falla mecánica,60
+2025-03-21,Tarde,M-02,Falla mecánica,36
+2025-03-21,Noche,M-02,Falla mecánica,37
+2025-03-21,Mañana,M-03,Falla mecánica,45
+2025-03-21,Mañana,M-03,Falla mecánica,55
+2025-03-21,Tarde,M-03,Falla mecánica,19
+2025-03-21,Mañana,M-04,Falla mecánica,18
+2025-03-21,Noche,M-05,Falla mecánica,87
+2025-03-22,Noche,M-02,Falla mecánica,25
+2025-03-22,Noche,M-02,Cambio de formato,34
+2025-03-22,Mañana,M-03,Cambio de formato,35
+2025-03-22,Mañana,M-03,Cambio de formato,39
+2025-03-22,Mañana,M-03,Cambio de formato,21
+2025-03-22,Mañana,M-03,Falla eléctrica,66
+2025-03-22,Tarde,M-03,Cambio de formato,20
+2025-03-22,Noche,M-03,Falla eléctrica,31
+2025-03-22,Noche,M-03,Falla mecánica,71
+2025-03-22,Noche,M-03,Ajuste de calidad,18
+2025-03-22,Noche,M-03,Ajuste de calidad,14
+2025-03-22,Mañana,M-04,Falta de material,36
+2025-03-22,Mañana,M-04,Falla mecánica,90
+2025-03-22,Mañana,M-05,Falla mecánica,49
+2025-03-22,Tarde,M-05,Ajuste de calidad,9
+2025-03-22,Tarde,M-05,Falla mecánica,63
+2025-03-22,Noche,M-05,Cambio de formato,38
+2025-03-22,Noche,M-05,Cambio de formato,37
+2025-03-23,Mañana,M-01,Falla mecánica,53
+2025-03-23,Mañana,M-01,Limpieza no programada,30
+2025-03-23,Tarde,M-01,Cambio de formato,35
+2025-03-23,Tarde,M-01,Falla eléctrica,102
+2025-03-23,Mañana,M-02,Falta de material,46
+2025-03-23,Mañana,M-02,Cambio de formato,28
+2025-03-23,Tarde,M-02,Falla mecánica,80
+2025-03-23,Tarde,M-02,Ajuste de calidad,5
+2025-03-23,Tarde,M-03,Falla eléctrica,65
+2025-03-23,Noche,M-03,Falla mecánica,39
+2025-03-23,Noche,M-03,Ajuste de calidad,10
+2025-03-23,Tarde,M-04,Ajuste de calidad,13
+2025-03-23,Tarde,M-04,Falta de material,54
+2025-03-23,Tarde,M-05,Falla mecánica,42
+2025-03-23,Tarde,M-05,Falla mecánica,43
+2025-03-23,Tarde,M-05,Ajuste de calidad,22
+2025-03-23,Noche,M-05,Cambio de formato,37
+2025-03-24,Mañana,M-01,Falla eléctrica,34
+2025-03-24,Tarde,M-01,Cambio de formato,31
+2025-03-24,Noche,M-01,Cambio de formato,30
+2025-03-24,Noche,M-01,Falla mecánica,53
+2025-03-24,Noche,M-01,Falla mecánica,30
+2025-03-24,Noche,M-01,Falla mecánica,33
+2025-03-24,Tarde,M-02,Falla mecánica,17
+2025-03-24,Tarde,M-02,Ajuste de calidad,18
+2025-03-24,Noche,M-02,Cambio de formato,21
+2025-03-24,Noche,M-02,Cambio de formato,28
+2025-03-24,Tarde,M-03,Falta de material,22
+2025-03-24,Mañana,M-04,Cambio de formato,25
+2025-03-24,Mañana,M-04,Falla eléctrica,119
+2025-03-24,Mañana,M-04,Falta de material,25
+2025-03-24,Tarde,M-04,Ajuste de calidad,21
+2025-03-24,Tarde,M-04,Falla mecánica,39
+2025-03-24,Noche,M-04,Falla mecánica,27
+2025-03-24,Noche,M-04,Falla eléctrica,84
+2025-03-24,Mañana,M-05,Falla mecánica,28
+2025-03-24,Mañana,M-05,Falla mecánica,60
+2025-03-24,Tarde,M-05,Cambio de formato,44
+2025-03-25,Mañana,M-01,Falta de material,12
+2025-03-25,Mañana,M-01,Falla mecánica,78
+2025-03-25,Tarde,M-01,Cambio de formato,34
+2025-03-25,Noche,M-01,Cambio de formato,22
+2025-03-25,Noche,M-01,Falla eléctrica,80
+2025-03-25,Noche,M-01,Limpieza no programada,21
+2025-03-25,Noche,M-01,Falla mecánica,77
+2025-03-25,Mañana,M-02,Falta de material,17
+2025-03-25,Tarde,M-02,Falla mecánica,36
+2025-03-25,Tarde,M-03,Falta de material,47
+2025-03-25,Noche,M-03,Limpieza no programada,21
+2025-03-25,Noche,M-03,Cambio de formato,39
+2025-03-25,Mañana,M-04,Falla mecánica,73
+2025-03-25,Tarde,M-04,Falta de material,18
+2025-03-25,Noche,M-04,Cambio de formato,20
+2025-03-25,Noche,M-04,Otros,17
+2025-03-25,Tarde,M-05,Cambio de formato,35
+2025-03-25,Noche,M-05,Cambio de formato,28
+2025-03-26,Mañana,M-01,Falla mecánica,19
+2025-03-26,Noche,M-01,Falla mecánica,37
+2025-03-26,Mañana,M-03,Falta de material,40
+2025-03-26,Mañana,M-03,Falta de material,20
+2025-03-26,Tarde,M-03,Otros,16
+2025-03-26,Tarde,M-04,Falta de material,34
+2025-03-26,Tarde,M-04,Falla mecánica,59
+2025-03-26,Tarde,M-05,Falla mecánica,36
+2025-03-26,Tarde,M-05,Falla mecánica,56
+2025-03-26,Noche,M-05,Cambio de formato,33
+2025-03-27,Mañana,M-01,Otros,17
+2025-03-27,Mañana,M-02,Falla mecánica,53
+2025-03-27,Tarde,M-02,Ajuste de calidad,7
+2025-03-27,Mañana,M-03,Falla mecánica,26
+2025-03-27,Tarde,M-03,Falla mecánica,87
+2025-03-27,Tarde,M-04,Falla mecánica,66
+2025-03-27,Noche,M-04,Cambio de formato,20
+2025-03-27,Tarde,M-05,Limpieza no programada,18
+2025-03-27,Tarde,M-05,Limpieza no programada,27
+2025-03-27,Noche,M-05,Limpieza no programada,30
+2025-03-27,Noche,M-05,Falla mecánica,40
+2025-03-27,Noche,M-05,Cambio de formato,24
+2025-03-28,Mañana,M-01,Ajuste de calidad,18
+2025-03-28,Mañana,M-01,Cambio de formato,22
+2025-03-28,Noche,M-01,Falla mecánica,45
+2025-03-28,Tarde,M-02,Cambio de formato,40
+2025-03-28,Mañana,M-03,Falta de material,51
+2025-03-28,Tarde,M-03,Falla mecánica,25
+2025-03-28,Mañana,M-04,Falla eléctrica,70
+2025-03-28,Noche,M-04,Cambio de formato,38
+2025-03-28,Noche,M-04,Limpieza no programada,26
+2025-03-28,Noche,M-04,Falla mecánica,26
+2025-03-28,Mañana,M-05,Cambio de formato,38
+2025-03-28,Mañana,M-05,Ajuste de calidad,12
+2025-03-28,Noche,M-05,Falla eléctrica,27
+2025-03-29,Mañana,M-01,Cambio de formato,33
+2025-03-29,Mañana,M-01,Cambio de formato,27
+2025-03-29,Mañana,M-01,Limpieza no programada,14
+2025-03-29,Tarde,M-01,Falla mecánica,19
+2025-03-29,Tarde,M-01,Ajuste de calidad,6
+2025-03-29,Mañana,M-02,Cambio de formato,45
+2025-03-29,Mañana,M-02,Falta de material,44
+2025-03-29,Mañana,M-02,Falla eléctrica,76
+2025-03-29,Tarde,M-02,Otros,13
+2025-03-29,Noche,M-02,Falla mecánica,35
+2025-03-29,Noche,M-02,Falla eléctrica,100
+2025-03-29,Mañana,M-03,Ajuste de calidad,13
+2025-03-29,Mañana,M-03,Falla eléctrica,119
+2025-03-29,Tarde,M-03,Ajuste de calidad,18
+2025-03-29,Noche,M-03,Falta de material,42
+2025-03-29,Noche,M-03,Falla mecánica,68
+2025-03-29,Mañana,M-04,Cambio de formato,20
+2025-03-29,Mañana,M-04,Ajuste de calidad,25
+2025-03-29,Tarde,M-04,Falla mecánica,66
+2025-03-29,Tarde,M-04,Falla mecánica,54
+2025-03-29,Mañana,M-05,Ajuste de calidad,24
+2025-03-29,Mañana,M-05,Falta de material,60
+2025-03-29,Tarde,M-05,Falla mecánica,37
+2025-03-29,Tarde,M-05,Falta de material,30
+2025-03-29,Noche,M-05,Falla mecánica,63
+2025-03-30,Tarde,M-01,Falta de material,15
+2025-03-30,Noche,M-01,Falla mecánica,66
+2025-03-30,Noche,M-01,Falta de material,48
+2025-03-30,Tarde,M-02,Cambio de formato,34
+2025-03-30,Tarde,M-02,Ajuste de calidad,20
+2025-03-30,Mañana,M-03,Cambio de formato,24
+2025-03-30,Tarde,M-04,Falla mecánica,89
+2025-03-30,Mañana,M-05,Falta de material,55
+2025-03-30,Mañana,M-05,Cambio de formato,33
+2025-03-31,Mañana,M-01,Limpieza no programada,29
+2025-03-31,Mañana,M-01,Falta de material,12
+2025-03-31,Mañana,M-01,Falla mecánica,79
+2025-03-31,Noche,M-01,Falta de material,26
+2025-03-31,Tarde,M-02,Cambio de formato,28
+2025-03-31,Tarde,M-02,Falla mecánica,20
+2025-03-31,Noche,M-02,Falla mecánica,61
+2025-03-31,Noche,M-02,Falla eléctrica,56
+2025-03-31,Noche,M-02,Falla eléctrica,53
+2025-03-31,Tarde,M-03,Otros,9
+2025-03-31,Noche,M-03,Cambio de formato,26
+2025-03-31,Noche,M-03,Falla mecánica,44
+2025-03-31,Tarde,M-04,Cambio de formato,34
+2025-03-31,Tarde,M-04,Cambio de formato,42
+2025-03-31,Tarde,M-05,Ajuste de calidad,13
+2025-03-31,Tarde,M-05,Falta de material,52
+2025-03-31,Noche,M-05,Cambio de formato,38
+2025-03-31,Noche,M-05,Falla mecánica,24
+2025-03-31,Noche,M-05,Falla mecánica,78
+2025-04-01,Noche,M-01,Falla mecánica,25
+2025-04-01,Noche,M-01,Cambio de formato,42
+2025-04-01,Mañana,M-02,Falta de material,10
+2025-04-01,Mañana,M-02,Cambio de formato,21
+2025-04-01,Mañana,M-02,Falta de material,38
+2025-04-01,Tarde,M-02,Limpieza no programada,28
+2025-04-01,Tarde,M-02,Falla mecánica,21
+2025-04-01,Noche,M-02,Ajuste de calidad,22
+2025-04-01,Noche,M-02,Limpieza no programada,22
+2025-04-01,Noche,M-03,Falta de material,51
+2025-04-01,Mañana,M-04,Ajuste de calidad,14
+2025-04-01,Mañana,M-04,Falla eléctrica,97
+2025-04-01,Tarde,M-04,Cambio de formato,35
+2025-04-01,Tarde,M-04,Cambio de formato,32
+2025-04-01,Mañana,M-05,Cambio de formato,33
+2025-04-01,Tarde,M-05,Falta de material,51
+2025-04-01,Tarde,M-05,Falta de material,19
+2025-04-01,Tarde,M-05,Limpieza no programada,26
+2025-04-02,Mañana,M-01,Falla mecánica,31
+2025-04-02,Noche,M-01,Falla eléctrica,85
+2025-04-02,Noche,M-02,Falla mecánica,74
+2025-04-02,Mañana,M-03,Falla mecánica,53
+2025-04-02,Tarde,M-03,Cambio de formato,45
+2025-04-02,Tarde,M-03,Falla mecánica,38
+2025-04-02,Noche,M-03,Falla mecánica,28
+2025-04-02,Noche,M-03,Cambio de formato,20
+2025-04-02,Noche,M-03,Falla mecánica,29
+2025-04-02,Noche,M-03,Falla mecánica,76
+2025-04-02,Mañana,M-04,Ajuste de calidad,20
+2025-04-02,Tarde,M-04,Falta de material,54
+2025-04-02,Mañana,M-05,Falta de material,22
+2025-04-02,Mañana,M-05,Falla eléctrica,46
+2025-04-02,Noche,M-05,Falla mecánica,74
+2025-04-03,Tarde,M-01,Cambio de formato,20
+2025-04-03,Tarde,M-02,Otros,20
+2025-04-03,Tarde,M-02,Ajuste de calidad,24
+2025-04-03,Mañana,M-03,Limpieza no programada,25
+2025-04-03,Mañana,M-03,Falla mecánica,22
+2025-04-03,Tarde,M-03,Falla mecánica,68
+2025-04-03,Noche,M-03,Falta de material,38
+2025-04-03,Mañana,M-05,Falla mecánica,52
+2025-04-03,Tarde,M-05,Limpieza no programada,30
+2025-04-03,Noche,M-05,Ajuste de calidad,24
+2025-04-03,Noche,M-05,Falla mecánica,26
+2025-04-04,Tarde,M-01,Otros,14
+2025-04-04,Noche,M-01,Cambio de formato,28
+2025-04-04,Noche,M-01,Cambio de formato,25
+2025-04-04,Noche,M-01,Falla mecánica,79
+2025-04-04,Noche,M-01,Falla mecánica,23
+2025-04-04,Tarde,M-02,Ajuste de calidad,6
+2025-04-04,Tarde,M-02,Ajuste de calidad,22
+2025-04-04,Tarde,M-02,Falla mecánica,34
+2025-04-04,Tarde,M-02,Falla eléctrica,85
+2025-04-04,Mañana,M-03,Ajuste de calidad,8
+2025-04-04,Mañana,M-03,Ajuste de calidad,24
+2025-04-04,Mañana,M-03,Ajuste de calidad,8
+2025-04-04,Noche,M-03,Falla mecánica,52
+2025-04-04,Noche,M-03,Falta de material,58
+2025-04-04,Noche,M-03,Cambio de formato,43
+2025-04-04,Tarde,M-05,Cambio de formato,40
+2025-04-04,Tarde,M-05,Falta de material,19
+2025-04-04,Noche,M-05,Falla mecánica,69
+2025-04-04,Noche,M-05,Cambio de formato,33
+2025-04-05,Mañana,M-01,Falta de material,11
+2025-04-05,Tarde,M-01,Cambio de formato,22
+2025-04-05,Tarde,M-01,Falla mecánica,55
+2025-04-05,Noche,M-01,Cambio de formato,21
+2025-04-05,Mañana,M-02,Falla mecánica,81
+2025-04-05,Mañana,M-02,Otros,18
+2025-04-05,Mañana,M-02,Cambio de formato,41
+2025-04-05,Tarde,M-02,Cambio de formato,31
+2025-04-05,Tarde,M-02,Falla mecánica,50
+2025-04-05,Mañana,M-03,Falta de material,49
+2025-04-05,Mañana,M-03,Falta de material,54
+2025-04-05,Mañana,M-03,Cambio de formato,45
+2025-04-05,Noche,M-03,Falta de material,57
+2025-04-05,Mañana,M-04,Falla mecánica,80
+2025-04-05,Tarde,M-04,Falla mecánica,18
+2025-04-05,Tarde,M-04,Falla eléctrica,89
+2025-04-05,Noche,M-04,Falta de material,42
+2025-04-05,Noche,M-04,Falla mecánica,22
+2025-04-05,Mañana,M-05,Falla mecánica,30
+2025-04-05,Noche,M-05,Falta de material,55
+2025-04-05,Noche,M-05,Falla eléctrica,100
+2025-04-06,Tarde,M-01,Falta de material,18
+2025-04-06,Tarde,M-01,Falta de material,43
+2025-04-06,Noche,M-01,Falla mecánica,61
+2025-04-06,Mañana,M-02,Cambio de formato,22
+2025-04-06,Tarde,M-02,Cambio de formato,31
+2025-04-06,Noche,M-02,Ajuste de calidad,13
+2025-04-06,Mañana,M-03,Falta de material,41
+2025-04-06,Mañana,M-03,Ajuste de calidad,18
+2025-04-06,Mañana,M-03,Ajuste de calidad,9
+2025-04-06,Mañana,M-03,Cambio de formato,35
+2025-04-06,Tarde,M-03,Falla eléctrica,35
+2025-04-06,Tarde,M-03,Falta de material,39
+2025-04-06,Noche,M-03,Cambio de formato,23
+2025-04-06,Noche,M-03,Falta de material,36
+2025-04-06,Noche,M-03,Falla mecánica,62
+2025-04-06,Mañana,M-05,Falla eléctrica,47
+2025-04-06,Mañana,M-05,Falla mecánica,77
+2025-04-06,Mañana,M-05,Falla mecánica,85
+2025-04-06,Tarde,M-05,Falta de material,46
+2025-04-06,Noche,M-05,Ajuste de calidad,24
+2025-04-07,Mañana,M-01,Ajuste de calidad,19
+2025-04-07,Mañana,M-03,Falta de material,51
+2025-04-07,Tarde,M-03,Falta de material,13
+2025-04-07,Noche,M-03,Cambio de formato,20
+2025-04-07,Noche,M-03,Falla mecánica,83
+2025-04-07,Mañana,M-04,Falla mecánica,89
+2025-04-07,Mañana,M-04,Cambio de formato,45
+2025-04-07,Tarde,M-04,Cambio de formato,20
+2025-04-08,Tarde,M-01,Falla mecánica,27
+2025-04-08,Tarde,M-01,Cambio de formato,33
+2025-04-08,Noche,M-01,Falla eléctrica,26
+2025-04-08,Noche,M-01,Falla mecánica,90
+2025-04-08,Noche,M-01,Falla mecánica,80
+2025-04-08,Tarde,M-02,Cambio de formato,33
+2025-04-08,Noche,M-03,Cambio de formato,45
+2025-04-08,Noche,M-03,Limpieza no programada,21
+2025-04-08,Tarde,M-04,Falla mecánica,74
+2025-04-08,Noche,M-04,Falla mecánica,22
+2025-04-08,Mañana,M-05,Ajuste de calidad,17
+2025-04-09,Tarde,M-01,Otros,18
+2025-04-09,Tarde,M-01,Falla mecánica,79
+2025-04-09,Noche,M-01,Cambio de formato,28
+2025-04-09,Noche,M-02,Falla mecánica,15
+2025-04-09,Noche,M-02,Falta de material,10
+2025-04-09,Noche,M-02,Falla eléctrica,106
+2025-04-09,Mañana,M-03,Cambio de formato,32
+2025-04-09,Mañana,M-03,Cambio de formato,45
+2025-04-09,Tarde,M-03,Falla eléctrica,105
+2025-04-09,Noche,M-03,Cambio de formato,39
+2025-04-09,Noche,M-03,Cambio de formato,25
+2025-04-09,Noche,M-03,Ajuste de calidad,5
+2025-04-09,Tarde,M-04,Falta de material,55
+2025-04-09,Tarde,M-04,Cambio de formato,22
+2025-04-09,Noche,M-04,Falla mecánica,78
+2025-04-09,Noche,M-04,Limpieza no programada,11
+2025-04-09,Mañana,M-05,Falla mecánica,40
+2025-04-09,Mañana,M-05,Otros,17
+2025-04-09,Tarde,M-05,Falla mecánica,39
+2025-04-09,Noche,M-05,Falta de material,14
+2025-04-09,Noche,M-05,Falta de material,57
+2025-04-10,Mañana,M-01,Falla mecánica,81
+2025-04-10,Tarde,M-01,Falla mecánica,83
+2025-04-10,Tarde,M-01,Falta de material,53
+2025-04-10,Noche,M-01,Falta de material,51
+2025-04-10,Noche,M-01,Falla mecánica,56
+2025-04-10,Noche,M-01,Cambio de formato,33
+2025-04-10,Mañana,M-02,Cambio de formato,44
+2025-04-10,Mañana,M-03,Ajuste de calidad,12
+2025-04-10,Mañana,M-03,Otros,18
+2025-04-10,Mañana,M-03,Limpieza no programada,17
+2025-04-10,Noche,M-03,Falla mecánica,57
+2025-04-10,Mañana,M-04,Limpieza no programada,11
+2025-04-10,Noche,M-04,Falla mecánica,72
+2025-04-10,Tarde,M-05,Falla mecánica,31
+2025-04-10,Tarde,M-05,Falla mecánica,71
+2025-04-10,Noche,M-05,Falla mecánica,22
+2025-04-11,Mañana,M-02,Falta de material,31
+2025-04-11,Mañana,M-02,Falta de material,53
+2025-04-11,Noche,M-02,Falla mecánica,39
+2025-04-11,Mañana,M-03,Cambio de formato,35
+2025-04-11,Noche,M-03,Cambio de formato,40
+2025-04-11,Mañana,M-04,Ajuste de calidad,9
+2025-04-11,Mañana,M-04,Cambio de formato,39
+2025-04-11,Mañana,M-05,Cambio de formato,26
+2025-04-11,Mañana,M-05,Otros,11
+2025-04-11,Tarde,M-05,Falta de material,39
+2025-04-11,Noche,M-05,Limpieza no programada,29
+2025-04-12,Tarde,M-01,Falla eléctrica,101
+2025-04-12,Noche,M-01,Falla mecánica,57
+2025-04-12,Mañana,M-02,Ajuste de calidad,5
+2025-04-12,Noche,M-03,Falta de material,21
+2025-04-12,Mañana,M-05,Cambio de formato,25
+2025-04-12,Tarde,M-05,Falla eléctrica,111
+2025-04-12,Tarde,M-05,Falla mecánica,33
+2025-04-12,Tarde,M-05,Falla eléctrica,36
+2025-04-12,Tarde,M-05,Ajuste de calidad,11
+2025-04-13,Mañana,M-01,Ajuste de calidad,23
+2025-04-13,Mañana,M-01,Falla mecánica,83
+2025-04-13,Mañana,M-01,Falla mecánica,34
+2025-04-13,Tarde,M-01,Falla eléctrica,85
+2025-04-13,Tarde,M-01,Limpieza no programada,25
+2025-04-13,Noche,M-01,Falta de material,14
+2025-04-13,Mañana,M-02,Ajuste de calidad,16
+2025-04-13,Mañana,M-02,Cambio de formato,34
+2025-04-13,Tarde,M-02,Cambio de formato,35
+2025-04-13,Noche,M-02,Ajuste de calidad,25
+2025-04-13,Tarde,M-03,Falla eléctrica,93
+2025-04-13,Noche,M-04,Cambio de formato,31
+2025-04-13,Mañana,M-05,Falla mecánica,44
+2025-04-13,Tarde,M-05,Falla mecánica,79
+2025-04-13,Tarde,M-05,Cambio de formato,40
+2025-04-13,Tarde,M-05,Falla mecánica,50
+2025-04-14,Tarde,M-01,Falta de material,27
+2025-04-14,Tarde,M-01,Falla mecánica,32
+2025-04-14,Noche,M-01,Falla eléctrica,21
+2025-04-14,Noche,M-01,Ajuste de calidad,14
+2025-04-14,Mañana,M-02,Cambio de formato,38
+2025-04-14,Tarde,M-02,Otros,9
+2025-04-14,Noche,M-02,Falla mecánica,44
+2025-04-14,Noche,M-02,Cambio de formato,45
+2025-04-14,Mañana,M-03,Cambio de formato,22
+2025-04-14,Mañana,M-03,Cambio de formato,26
+2025-04-14,Tarde,M-03,Cambio de formato,37
+2025-04-14,Noche,M-03,Cambio de formato,43
+2025-04-14,Noche,M-03,Falla mecánica,60
+2025-04-14,Mañana,M-04,Cambio de formato,44
+2025-04-14,Tarde,M-04,Falta de material,12
+2025-04-14,Noche,M-04,Cambio de formato,40
+2025-04-14,Noche,M-04,Ajuste de calidad,24
+2025-04-14,Noche,M-04,Falta de material,35
+2025-04-14,Mañana,M-05,Cambio de formato,26
+2025-04-14,Tarde,M-05,Falta de material,29
+2025-04-14,Tarde,M-05,Falla mecánica,28
+2025-04-14,Tarde,M-05,Falta de material,21
+2025-04-14,Noche,M-05,Falla mecánica,23
+2025-04-15,Tarde,M-01,Cambio de formato,20
+2025-04-15,Noche,M-01,Falla mecánica,29
+2025-04-15,Mañana,M-02,Cambio de formato,26
+2025-04-15,Mañana,M-02,Falla mecánica,41
+2025-04-15,Tarde,M-02,Falla mecánica,88
+2025-04-15,Noche,M-02,Falta de material,27
+2025-04-15,Mañana,M-03,Ajuste de calidad,24
+2025-04-15,Tarde,M-03,Falla eléctrica,78
+2025-04-15,Tarde,M-03,Cambio de formato,21
+2025-04-15,Tarde,M-03,Ajuste de calidad,14
+2025-04-15,Noche,M-03,Ajuste de calidad,14
+2025-04-15,Mañana,M-04,Cambio de formato,25
+2025-04-15,Mañana,M-04,Falla eléctrica,113
+2025-04-15,Tarde,M-04,Falta de material,16
+2025-04-15,Mañana,M-05,Falla mecánica,23
+2025-04-15,Noche,M-05,Otros,7
+2025-04-16,Mañana,M-01,Cambio de formato,25
+2025-04-16,Mañana,M-01,Falla mecánica,79
+2025-04-16,Tarde,M-01,Falta de material,39
+2025-04-16,Noche,M-01,Cambio de formato,20
+2025-04-16,Noche,M-01,Falla mecánica,32
+2025-04-16,Mañana,M-02,Falla mecánica,85
+2025-04-16,Tarde,M-02,Cambio de formato,28
+2025-04-16,Mañana,M-03,Cambio de formato,22
+2025-04-16,Tarde,M-03,Cambio de formato,25
+2025-04-16,Noche,M-03,Falla mecánica,21
+2025-04-16,Noche,M-03,Ajuste de calidad,21
+2025-04-16,Mañana,M-04,Cambio de formato,29
+2025-04-16,Mañana,M-04,Cambio de formato,39
+2025-04-16,Tarde,M-04,Falla eléctrica,67
+2025-04-16,Tarde,M-04,Falla eléctrica,45
+2025-04-16,Noche,M-04,Cambio de formato,26
+2025-04-16,Noche,M-04,Falta de material,14
+2025-04-16,Noche,M-04,Falla mecánica,27
+2025-04-16,Noche,M-04,Ajuste de calidad,10
+2025-04-16,Mañana,M-05,Ajuste de calidad,15
+2025-04-17,Noche,M-01,Falta de material,33
+2025-04-17,Noche,M-01,Falla mecánica,42
+2025-04-17,Mañana,M-02,Otros,10
+2025-04-17,Noche,M-02,Ajuste de calidad,9
+2025-04-17,Noche,M-02,Cambio de formato,40
+2025-04-17,Noche,M-02,Ajuste de calidad,15
+2025-04-17,Tarde,M-03,Cambio de formato,43
+2025-04-17,Noche,M-03,Falla mecánica,30
+2025-04-17,Noche,M-03,Cambio de formato,43
+2025-04-17,Noche,M-03,Cambio de formato,27
+2025-04-17,Noche,M-03,Falta de material,13
+2025-04-17,Noche,M-04,Falla eléctrica,37
+2025-04-17,Mañana,M-05,Cambio de formato,33
+2025-04-17,Mañana,M-05,Falta de material,28
+2025-04-17,Tarde,M-05,Cambio de formato,26
+2025-04-17,Tarde,M-05,Cambio de formato,41
+2025-04-17,Noche,M-05,Falla mecánica,63
+2025-04-17,Noche,M-05,Cambio de formato,25
+2025-04-18,Mañana,M-01,Falla mecánica,39
+2025-04-18,Mañana,M-01,Falla mecánica,33
+2025-04-18,Mañana,M-02,Falla mecánica,40
+2025-04-18,Noche,M-02,Falla mecánica,76
+2025-04-18,Mañana,M-03,Falla mecánica,71
+2025-04-18,Tarde,M-03,Falla mecánica,76
+2025-04-18,Noche,M-03,Ajuste de calidad,14
+2025-04-18,Noche,M-03,Falta de material,19
+2025-04-18,Tarde,M-04,Cambio de formato,30
+2025-04-18,Mañana,M-05,Falta de material,41
+2025-04-18,Tarde,M-05,Ajuste de calidad,17
+2025-04-18,Noche,M-05,Cambio de formato,21
+2025-04-19,Mañana,M-01,Falla mecánica,70
+2025-04-19,Mañana,M-01,Limpieza no programada,21
+2025-04-19,Mañana,M-01,Cambio de formato,35
+2025-04-19,Tarde,M-02,Falla mecánica,73
+2025-04-19,Tarde,M-03,Cambio de formato,42
+2025-04-19,Tarde,M-03,Falta de material,15
+2025-04-19,Noche,M-03,Ajuste de calidad,13
+2025-04-19,Mañana,M-04,Falla eléctrica,95
+2025-04-19,Tarde,M-04,Falta de material,15
+2025-04-19,Tarde,M-04,Falla mecánica,88
+2025-04-19,Mañana,M-05,Cambio de formato,25
+2025-04-19,Noche,M-05,Ajuste de calidad,10
+2025-04-20,Tarde,M-02,Falla eléctrica,33
+2025-04-20,Mañana,M-03,Falta de material,40
+2025-04-20,Noche,M-03,Ajuste de calidad,6
+2025-04-20,Noche,M-03,Falla mecánica,81
+2025-04-20,Mañana,M-04,Limpieza no programada,18
+2025-04-20,Noche,M-04,Otros,12
+2025-04-20,Noche,M-04,Limpieza no programada,22
+2025-04-20,Tarde,M-05,Falta de material,56
+2025-04-21,Mañana,M-01,Ajuste de calidad,12
+2025-04-21,Mañana,M-01,Cambio de formato,39
+2025-04-21,Mañana,M-01,Falta de material,40
+2025-04-21,Mañana,M-02,Ajuste de calidad,19
+2025-04-21,Mañana,M-02,Falla mecánica,77
+2025-04-21,Mañana,M-02,Cambio de formato,39
+2025-04-21,Tarde,M-02,Limpieza no programada,25
+2025-04-21,Tarde,M-02,Otros,8
+2025-04-21,Tarde,M-02,Ajuste de calidad,14
+2025-04-21,Noche,M-02,Falla eléctrica,120
+2025-04-21,Noche,M-02,Falla eléctrica,84
+2025-04-21,Tarde,M-03,Cambio de formato,34
+2025-04-21,Tarde,M-03,Limpieza no programada,25
+2025-04-21,Tarde,M-03,Falta de material,25
+2025-04-21,Tarde,M-03,Falla mecánica,36
+2025-04-21,Tarde,M-04,Falla mecánica,47
+2025-04-21,Tarde,M-04,Falta de material,52
+2025-04-21,Noche,M-04,Falta de material,15
+2025-04-21,Noche,M-05,Falta de material,51
+2025-04-21,Noche,M-05,Falta de material,45
+2025-04-22,Tarde,M-02,Cambio de formato,38
+2025-04-22,Tarde,M-02,Cambio de formato,32
+2025-04-22,Mañana,M-03,Falta de material,24
+2025-04-22,Tarde,M-03,Cambio de formato,29
+2025-04-22,Tarde,M-03,Ajuste de calidad,20
+2025-04-22,Noche,M-03,Ajuste de calidad,6
+2025-04-22,Mañana,M-04,Falla mecánica,88
+2025-04-22,Mañana,M-04,Cambio de formato,26
+2025-04-22,Mañana,M-04,Cambio de formato,42
+2025-04-22,Mañana,M-04,Limpieza no programada,11
+2025-04-22,Tarde,M-04,Falla mecánica,43
+2025-04-22,Tarde,M-04,Falta de material,13
+2025-04-22,Noche,M-04,Falta de material,29
+2025-04-22,Noche,M-04,Otros,10
+2025-04-22,Tarde,M-05,Cambio de formato,36
+2025-04-22,Tarde,M-05,Falta de material,28
+2025-04-22,Noche,M-05,Cambio de formato,24
+2025-04-22,Noche,M-05,Cambio de formato,45
+2025-04-23,Mañana,M-01,Falta de material,39
+2025-04-23,Mañana,M-01,Falta de material,46
+2025-04-23,Noche,M-01,Ajuste de calidad,5
+2025-04-23,Noche,M-01,Cambio de formato,38
+2025-04-23,Mañana,M-02,Cambio de formato,33
+2025-04-23,Mañana,M-02,Falta de material,20
+2025-04-23,Tarde,M-02,Falla mecánica,21
+2025-04-23,Tarde,M-02,Falla mecánica,80
+2025-04-23,Tarde,M-02,Falta de material,47
+2025-04-23,Noche,M-02,Falla mecánica,30
+2025-04-23,Noche,M-02,Falla mecánica,77
+2025-04-23,Tarde,M-03,Falta de material,15
+2025-04-23,Tarde,M-03,Ajuste de calidad,25
+2025-04-23,Tarde,M-03,Cambio de formato,40
+2025-04-23,Tarde,M-03,Falta de material,33
+2025-04-23,Tarde,M-04,Falta de material,16
+2025-04-23,Noche,M-04,Falta de material,37
+2025-04-23,Tarde,M-05,Cambio de formato,42
+2025-04-23,Noche,M-05,Ajuste de calidad,20
+2025-04-24,Mañana,M-01,Ajuste de calidad,25
+2025-04-24,Tarde,M-01,Falla eléctrica,43
+2025-04-24,Tarde,M-01,Falla eléctrica,108
+2025-04-24,Tarde,M-01,Falla mecánica,86
+2025-04-24,Noche,M-02,Falla mecánica,15
+2025-04-24,Noche,M-02,Falla mecánica,20
+2025-04-24,Noche,M-02,Limpieza no programada,26
+2025-04-24,Mañana,M-03,Falla mecánica,77
+2025-04-24,Tarde,M-03,Cambio de formato,37
+2025-04-24,Tarde,M-03,Cambio de formato,42
+2025-04-24,Tarde,M-03,Falla mecánica,20
+2025-04-24,Tarde,M-03,Falla mecánica,39
+2025-04-24,Mañana,M-04,Falla mecánica,69
+2025-04-24,Mañana,M-05,Cambio de formato,22
+2025-04-24,Mañana,M-05,Falta de material,27
+2025-04-24,Noche,M-05,Falta de material,36
+2025-04-24,Noche,M-05,Ajuste de calidad,15
+2025-04-25,Noche,M-02,Cambio de formato,23
+2025-04-25,Noche,M-02,Ajuste de calidad,8
+2025-04-25,Noche,M-02,Falla mecánica,54
+2025-04-25,Tarde,M-03,Falla mecánica,27
+2025-04-25,Noche,M-03,Cambio de formato,31
+2025-04-25,Noche,M-03,Ajuste de calidad,22
+2025-04-25,Noche,M-03,Falta de material,35
+2025-04-25,Mañana,M-05,Falla mecánica,68
+2025-04-25,Mañana,M-05,Falta de material,21
+2025-04-25,Tarde,M-05,Falla mecánica,69
+2025-04-25,Noche,M-05,Falla mecánica,26
+2025-04-25,Noche,M-05,Limpieza no programada,23
+2025-04-25,Noche,M-05,Ajuste de calidad,7
+2025-04-26,Noche,M-01,Falla mecánica,69
+2025-04-26,Noche,M-01,Falta de material,56
+2025-04-26,Mañana,M-02,Falta de material,44
+2025-04-26,Tarde,M-02,Falla eléctrica,115
+2025-04-26,Noche,M-02,Cambio de formato,43
+2025-04-26,Mañana,M-03,Limpieza no programada,29
+2025-04-26,Mañana,M-03,Falla mecánica,72
+2025-04-26,Mañana,M-03,Limpieza no programada,26
+2025-04-26,Mañana,M-03,Falla eléctrica,42
+2025-04-26,Tarde,M-03,Limpieza no programada,23
+2025-04-26,Noche,M-03,Cambio de formato,41
+2025-04-26,Noche,M-03,Falla mecánica,84
+2025-04-26,Noche,M-03,Falla eléctrica,35
+2025-04-26,Noche,M-04,Cambio de formato,21
+2025-04-26,Noche,M-04,Limpieza no programada,29
+2025-04-26,Noche,M-04,Ajuste de calidad,6
+2025-04-26,Tarde,M-05,Falla mecánica,60
+2025-04-26,Tarde,M-05,Falla mecánica,70
+2025-04-26,Noche,M-05,Falla mecánica,30
+2025-04-27,Mañana,M-01,Falla mecánica,75
+2025-04-27,Mañana,M-01,Cambio de formato,29
+2025-04-27,Tarde,M-01,Falla mecánica,71
+2025-04-27,Mañana,M-02,Falta de material,17
+2025-04-27,Mañana,M-02,Falla mecánica,20
+2025-04-27,Noche,M-02,Limpieza no programada,18
+2025-04-27,Noche,M-02,Falla mecánica,77
+2025-04-27,Noche,M-02,Falta de material,53
+2025-04-27,Mañana,M-03,Falla eléctrica,84
+2025-04-27,Mañana,M-03,Falta de material,57
+2025-04-27,Tarde,M-04,Ajuste de calidad,18
+2025-04-27,Tarde,M-04,Cambio de formato,29
+2025-04-27,Tarde,M-04,Cambio de formato,44
+2025-04-27,Noche,M-04,Falla mecánica,50
+2025-04-27,Noche,M-04,Ajuste de calidad,13
+2025-04-27,Mañana,M-05,Falla mecánica,28
+2025-04-27,Mañana,M-05,Falta de material,42
+2025-04-27,Tarde,M-05,Falta de material,19
+2025-04-27,Tarde,M-05,Falla mecánica,31
+2025-04-28,Tarde,M-01,Falta de material,24
+2025-04-28,Tarde,M-02,Falla mecánica,21
+2025-04-28,Tarde,M-02,Falla mecánica,15
+2025-04-28,Tarde,M-03,Cambio de formato,23
+2025-04-28,Noche,M-03,Falla mecánica,61
+2025-04-28,Noche,M-03,Ajuste de calidad,16
+2025-04-28,Mañana,M-04,Falla mecánica,50
+2025-04-28,Tarde,M-04,Falla mecánica,30
+2025-04-28,Tarde,M-04,Falla mecánica,39
+2025-04-28,Tarde,M-05,Falla mecánica,31
+2025-04-29,Mañana,M-01,Otros,16
+2025-04-29,Mañana,M-01,Cambio de formato,42
+2025-04-29,Mañana,M-01,Falla mecánica,70
+2025-04-29,Tarde,M-01,Cambio de formato,20
+2025-04-29,Tarde,M-01,Falla mecánica,50
+2025-04-29,Tarde,M-01,Falta de material,18
+2025-04-29,Mañana,M-02,Cambio de formato,37
+2025-04-29,Mañana,M-02,Falla eléctrica,29
+2025-04-29,Tarde,M-02,Ajuste de calidad,17
+2025-04-29,Tarde,M-03,Falta de material,26
+2025-04-29,Noche,M-03,Falta de material,20
+2025-04-29,Noche,M-03,Falla mecánica,83
+2025-04-29,Tarde,M-05,Falla mecánica,85
+2025-04-29,Noche,M-05,Falla mecánica,22
+2025-04-29,Noche,M-05,Falta de material,10
+2025-04-29,Noche,M-05,Ajuste de calidad,12
+2025-04-30,Tarde,M-01,Limpieza no programada,28
+2025-04-30,Tarde,M-01,Falla mecánica,63
+2025-04-30,Noche,M-01,Falta de material,23
+2025-04-30,Tarde,M-02,Falla mecánica,44
+2025-04-30,Tarde,M-02,Falta de material,37
+2025-04-30,Mañana,M-03,Falla mecánica,77
+2025-04-30,Mañana,M-03,Limpieza no programada,15
+2025-04-30,Noche,M-03,Falla mecánica,24
+2025-04-30,Mañana,M-04,Cambio de formato,43
+2025-04-30,Tarde,M-04,Falta de material,34
+2025-04-30,Tarde,M-04,Cambio de formato,23
+2025-04-30,Noche,M-04,Falla mecánica,46
+2025-04-30,Mañana,M-05,Falta de material,60
+2025-04-30,Mañana,M-05,Limpieza no programada,13
+2025-04-30,Mañana,M-05,Cambio de formato,30
+2025-04-30,Noche,M-05,Cambio de formato,35
+2025-04-30,Noche,M-05,Falla mecánica,22
+2025-05-01,Mañana,M-01,Falla mecánica,20
+2025-05-01,Tarde,M-01,Ajuste de calidad,9
+2025-05-01,Tarde,M-02,Falta de material,17
+2025-05-01,Tarde,M-03,Falla mecánica,20
+2025-05-01,Tarde,M-03,Falta de material,21
+2025-05-01,Tarde,M-03,Cambio de formato,30
+2025-05-01,Mañana,M-04,Cambio de formato,23
+2025-05-01,Mañana,M-04,Falla mecánica,78
+2025-05-01,Tarde,M-04,Falta de material,14
+2025-05-01,Tarde,M-04,Ajuste de calidad,9
+2025-05-01,Mañana,M-05,Ajuste de calidad,8
+2025-05-01,Mañana,M-05,Falta de material,56
+2025-05-01,Mañana,M-05,Falla mecánica,26
+2025-05-01,Tarde,M-05,Cambio de formato,35
+2025-05-01,Tarde,M-05,Cambio de formato,42
+2025-05-01,Noche,M-05,Falla mecánica,46
+2025-05-02,Mañana,M-01,Cambio de formato,37
+2025-05-02,Tarde,M-01,Cambio de formato,38
+2025-05-02,Tarde,M-02,Falla mecánica,29
+2025-05-02,Noche,M-02,Falla eléctrica,37
+2025-05-02,Noche,M-02,Falla mecánica,33
+2025-05-02,Mañana,M-03,Cambio de formato,26
+2025-05-02,Mañana,M-03,Ajuste de calidad,6
+2025-05-02,Mañana,M-03,Ajuste de calidad,8
+2025-05-02,Tarde,M-03,Falla mecánica,69
+2025-05-02,Noche,M-03,Falla mecánica,35
+2025-05-02,Noche,M-03,Falla mecánica,61
+2025-05-02,Tarde,M-04,Cambio de formato,24
+2025-05-02,Tarde,M-04,Ajuste de calidad,14
+2025-05-02,Noche,M-04,Falta de material,10
+2025-05-02,Mañana,M-05,Falla mecánica,37
+2025-05-02,Mañana,M-05,Cambio de formato,20
+2025-05-02,Tarde,M-05,Cambio de formato,42
+2025-05-02,Tarde,M-05,Ajuste de calidad,23
+2025-05-02,Tarde,M-05,Cambio de formato,42
+2025-05-03,Mañana,M-01,Ajuste de calidad,17
+2025-05-03,Mañana,M-01,Falta de material,24
+2025-05-03,Mañana,M-01,Cambio de formato,43
+2025-05-03,Noche,M-01,Cambio de formato,32
+2025-05-03,Mañana,M-02,Falla mecánica,28
+2025-05-03,Tarde,M-02,Cambio de formato,27
+2025-05-03,Tarde,M-02,Falla mecánica,84
+2025-05-03,Noche,M-03,Cambio de formato,21
+2025-05-03,Noche,M-03,Cambio de formato,29
+2025-05-03,Noche,M-03,Falla mecánica,60
+2025-05-03,Noche,M-03,Ajuste de calidad,17
+2025-05-03,Tarde,M-04,Cambio de formato,43
+2025-05-03,Noche,M-04,Falla mecánica,63
+2025-05-03,Noche,M-04,Cambio de formato,21
+2025-05-03,Mañana,M-05,Falla eléctrica,31
+2025-05-03,Noche,M-05,Otros,15
+2025-05-03,Noche,M-05,Cambio de formato,24
+2025-05-04,Mañana,M-01,Cambio de formato,42
+2025-05-04,Mañana,M-01,Ajuste de calidad,17
+2025-05-04,Tarde,M-01,Limpieza no programada,28
+2025-05-04,Noche,M-01,Falla mecánica,54
+2025-05-04,Noche,M-01,Cambio de formato,45
+2025-05-04,Tarde,M-03,Falta de material,18
+2025-05-04,Tarde,M-03,Limpieza no programada,28
+2025-05-04,Noche,M-03,Cambio de formato,39
+2025-05-04,Mañana,M-05,Falta de material,57
+2025-05-04,Tarde,M-05,Falla mecánica,28
+2025-05-04,Noche,M-05,Falla mecánica,64
+2025-05-05,Tarde,M-01,Falla mecánica,38
+2025-05-05,Tarde,M-01,Ajuste de calidad,17
+2025-05-05,Mañana,M-02,Falta de material,40
+2025-05-05,Tarde,M-02,Limpieza no programada,14
+2025-05-05,Mañana,M-03,Cambio de formato,33
+2025-05-05,Mañana,M-03,Otros,11
+2025-05-05,Mañana,M-03,Falla mecánica,17
+2025-05-05,Mañana,M-04,Falla eléctrica,87
+2025-05-05,Noche,M-04,Limpieza no programada,19
+2025-05-05,Mañana,M-05,Cambio de formato,42
+2025-05-05,Tarde,M-05,Falla eléctrica,93
+2025-05-05,Noche,M-05,Falta de material,14
+2025-05-05,Noche,M-05,Falta de material,47
+2025-05-06,Mañana,M-01,Limpieza no programada,20
+2025-05-06,Mañana,M-01,Falla mecánica,73
+2025-05-06,Mañana,M-01,Limpieza no programada,25
+2025-05-06,Mañana,M-01,Falla eléctrica,34
+2025-05-06,Noche,M-01,Falla eléctrica,101
+2025-05-06,Noche,M-01,Cambio de formato,38
+2025-05-06,Noche,M-01,Falla mecánica,42
+2025-05-06,Mañana,M-02,Ajuste de calidad,24
+2025-05-06,Mañana,M-02,Cambio de formato,31
+2025-05-06,Tarde,M-02,Limpieza no programada,21
+2025-05-06,Noche,M-02,Cambio de formato,23
+2025-05-06,Noche,M-02,Falta de material,51
+2025-05-06,Noche,M-02,Otros,18
+2025-05-06,Mañana,M-03,Cambio de formato,44
+2025-05-06,Tarde,M-03,Cambio de formato,37
+2025-05-06,Noche,M-03,Ajuste de calidad,18
+2025-05-06,Mañana,M-04,Falla eléctrica,32
+2025-05-06,Mañana,M-04,Otros,8
+2025-05-06,Mañana,M-04,Falla mecánica,17
+2025-05-06,Tarde,M-04,Ajuste de calidad,22
+2025-05-06,Noche,M-04,Falla mecánica,52
+2025-05-06,Mañana,M-05,Falta de material,17
+2025-05-06,Mañana,M-05,Falla mecánica,75
+2025-05-06,Tarde,M-05,Cambio de formato,40
+2025-05-06,Tarde,M-05,Falta de material,57
+2025-05-06,Noche,M-05,Cambio de formato,28
+2025-05-06,Noche,M-05,Falla eléctrica,53
+2025-05-07,Mañana,M-01,Falta de material,10
+2025-05-07,Mañana,M-01,Falla eléctrica,73
+2025-05-07,Mañana,M-01,Falla mecánica,18
+2025-05-07,Tarde,M-01,Ajuste de calidad,24
+2025-05-07,Tarde,M-01,Cambio de formato,25
+2025-05-07,Mañana,M-02,Ajuste de calidad,23
+2025-05-07,Tarde,M-02,Falta de material,35
+2025-05-07,Noche,M-02,Falla mecánica,31
+2025-05-07,Mañana,M-03,Ajuste de calidad,25
+2025-05-07,Mañana,M-03,Falla eléctrica,90
+2025-05-07,Noche,M-03,Falla mecánica,84
+2025-05-07,Noche,M-03,Falla eléctrica,30
+2025-05-07,Mañana,M-04,Otros,16
+2025-05-07,Mañana,M-04,Falla mecánica,43
+2025-05-07,Noche,M-04,Falta de material,27
+2025-05-07,Noche,M-04,Falla mecánica,33
+2025-05-07,Mañana,M-05,Falla mecánica,73
+2025-05-08,Tarde,M-01,Cambio de formato,40
+2025-05-08,Mañana,M-02,Falla mecánica,16
+2025-05-08,Mañana,M-02,Falla eléctrica,104
+2025-05-08,Noche,M-02,Falta de material,44
+2025-05-08,Tarde,M-03,Cambio de formato,44
+2025-05-08,Mañana,M-05,Cambio de formato,36
+2025-05-08,Mañana,M-05,Limpieza no programada,16
+2025-05-08,Tarde,M-05,Falta de material,35
+2025-05-08,Tarde,M-05,Falla mecánica,90
+2025-05-08,Noche,M-05,Cambio de formato,34
+2025-05-08,Noche,M-05,Cambio de formato,43
+2025-05-08,Noche,M-05,Falla mecánica,55
+2025-05-09,Mañana,M-01,Falta de material,33
+2025-05-09,Tarde,M-01,Falla eléctrica,85
+2025-05-09,Noche,M-01,Falla eléctrica,87
+2025-05-09,Mañana,M-03,Falla mecánica,57
+2025-05-09,Tarde,M-03,Falla mecánica,23
+2025-05-09,Noche,M-03,Falla mecánica,50
+2025-05-09,Mañana,M-04,Falta de material,46
+2025-05-09,Mañana,M-04,Falla eléctrica,73
+2025-05-09,Tarde,M-04,Falla mecánica,21
+2025-05-09,Tarde,M-04,Ajuste de calidad,20
+2025-05-09,Mañana,M-05,Falla mecánica,17
+2025-05-09,Tarde,M-05,Otros,19
+2025-05-09,Tarde,M-05,Falla mecánica,66
+2025-05-09,Noche,M-05,Cambio de formato,20
+2025-05-10,Mañana,M-01,Falta de material,27
+2025-05-10,Mañana,M-01,Cambio de formato,31
+2025-05-10,Noche,M-01,Cambio de formato,40
+2025-05-10,Tarde,M-03,Falla eléctrica,20
+2025-05-10,Mañana,M-04,Falla mecánica,57
+2025-05-10,Mañana,M-04,Falta de material,60
+2025-05-10,Mañana,M-04,Ajuste de calidad,13
+2025-05-10,Tarde,M-04,Falla mecánica,55
+2025-05-10,Noche,M-04,Limpieza no programada,23
+2025-05-10,Noche,M-04,Falta de material,52
+2025-05-10,Mañana,M-05,Falta de material,27
+2025-05-11,Mañana,M-01,Ajuste de calidad,11
+2025-05-11,Tarde,M-01,Falla mecánica,42
+2025-05-11,Noche,M-01,Cambio de formato,38
+2025-05-11,Tarde,M-02,Ajuste de calidad,8
+2025-05-11,Mañana,M-03,Ajuste de calidad,11
+2025-05-11,Tarde,M-03,Limpieza no programada,28
+2025-05-11,Tarde,M-03,Falta de material,19
+2025-05-11,Mañana,M-05,Cambio de formato,34
+2025-05-11,Tarde,M-05,Ajuste de calidad,18
+2025-05-12,Mañana,M-01,Falla mecánica,21
+2025-05-12,Tarde,M-02,Falla mecánica,49
+2025-05-12,Mañana,M-03,Falla mecánica,38
+2025-05-12,Tarde,M-03,Cambio de formato,42
+2025-05-12,Mañana,M-05,Limpieza no programada,28
+2025-05-12,Tarde,M-05,Falla mecánica,17
+2025-05-12,Noche,M-05,Cambio de formato,25
+2025-05-12,Noche,M-05,Ajuste de calidad,8
+2025-05-13,Tarde,M-01,Falta de material,26
+2025-05-13,Mañana,M-02,Falla eléctrica,96
+2025-05-13,Mañana,M-02,Cambio de formato,28
+2025-05-13,Noche,M-02,Falla mecánica,78
+2025-05-13,Mañana,M-03,Cambio de formato,26
+2025-05-13,Mañana,M-03,Ajuste de calidad,11
+2025-05-13,Noche,M-03,Falla eléctrica,87
+2025-05-13,Tarde,M-04,Falla mecánica,39
+2025-05-13,Tarde,M-04,Falla mecánica,81
+2025-05-13,Tarde,M-04,Falta de material,49
+2025-05-13,Noche,M-04,Ajuste de calidad,16
+2025-05-13,Mañana,M-05,Falta de material,39
+2025-05-13,Noche,M-05,Falla mecánica,52
+2025-05-14,Tarde,M-02,Falla mecánica,26
+2025-05-14,Tarde,M-02,Falta de material,19
+2025-05-14,Noche,M-02,Falla mecánica,43
+2025-05-14,Tarde,M-03,Falla eléctrica,53
+2025-05-14,Mañana,M-04,Falla mecánica,40
+2025-05-14,Mañana,M-04,Falla mecánica,68
+2025-05-14,Noche,M-04,Cambio de formato,33
+2025-05-14,Mañana,M-05,Cambio de formato,41
+2025-05-14,Mañana,M-05,Falta de material,39
+2025-05-14,Tarde,M-05,Cambio de formato,37
+2025-05-14,Tarde,M-05,Falla mecánica,68
+2025-05-14,Tarde,M-05,Falla mecánica,32
+2025-05-15,Mañana,M-01,Falta de material,28
+2025-05-15,Noche,M-01,Cambio de formato,21
+2025-05-15,Noche,M-01,Falla mecánica,49
+2025-05-15,Tarde,M-02,Cambio de formato,21
+2025-05-15,Noche,M-02,Falta de material,54
+2025-05-15,Mañana,M-03,Cambio de formato,27
+2025-05-15,Mañana,M-03,Falla eléctrica,101
+2025-05-15,Tarde,M-03,Otros,5
+2025-05-15,Mañana,M-04,Cambio de formato,27
+2025-05-15,Mañana,M-04,Falla mecánica,75
+2025-05-15,Noche,M-04,Falla mecánica,45
+2025-05-15,Mañana,M-05,Falta de material,52
+2025-05-15,Mañana,M-05,Falta de material,37
+2025-05-15,Noche,M-05,Falta de material,22
+2025-05-16,Mañana,M-01,Limpieza no programada,25
+2025-05-16,Noche,M-01,Falla mecánica,51
+2025-05-16,Noche,M-01,Cambio de formato,38
+2025-05-16,Tarde,M-02,Falla eléctrica,65
+2025-05-16,Noche,M-02,Falla mecánica,35
+2025-05-16,Noche,M-02,Cambio de formato,36
+2025-05-16,Mañana,M-03,Cambio de formato,25
+2025-05-16,Tarde,M-03,Cambio de formato,42
+2025-05-16,Tarde,M-03,Falla eléctrica,37
+2025-05-16,Noche,M-03,Cambio de formato,40
+2025-05-16,Mañana,M-04,Falla mecánica,79
+2025-05-16,Noche,M-05,Ajuste de calidad,12
+2025-05-17,Mañana,M-01,Cambio de formato,33
+2025-05-17,Mañana,M-01,Falla eléctrica,27
+2025-05-17,Tarde,M-01,Falla mecánica,62
+2025-05-17,Tarde,M-01,Falta de material,11
+2025-05-17,Noche,M-01,Cambio de formato,40
+2025-05-17,Noche,M-02,Falla mecánica,89
+2025-05-17,Noche,M-02,Falla mecánica,27
+2025-05-17,Mañana,M-03,Cambio de formato,33
+2025-05-17,Mañana,M-03,Falta de material,14
+2025-05-17,Mañana,M-03,Cambio de formato,41
+2025-05-17,Tarde,M-03,Cambio de formato,26
+2025-05-17,Tarde,M-03,Falta de material,40
+2025-05-17,Noche,M-03,Falla eléctrica,28
+2025-05-17,Noche,M-03,Cambio de formato,40
+2025-05-17,Noche,M-03,Cambio de formato,22
+2025-05-17,Mañana,M-04,Falla mecánica,78
+2025-05-17,Noche,M-04,Falla mecánica,60
+2025-05-17,Noche,M-04,Falla mecánica,35
+2025-05-17,Noche,M-04,Limpieza no programada,12
+2025-05-17,Mañana,M-05,Falta de material,29
+2025-05-17,Tarde,M-05,Falla mecánica,75
+2025-05-17,Tarde,M-05,Limpieza no programada,18
+2025-05-17,Noche,M-05,Falla mecánica,22
+2025-05-18,Mañana,M-01,Falla eléctrica,104
+2025-05-18,Mañana,M-01,Falla eléctrica,27
+2025-05-18,Tarde,M-01,Falla eléctrica,109
+2025-05-18,Tarde,M-01,Ajuste de calidad,6
+2025-05-18,Tarde,M-01,Cambio de formato,22
+2025-05-18,Noche,M-01,Falla mecánica,85
+2025-05-18,Mañana,M-02,Falla mecánica,78
+2025-05-18,Mañana,M-02,Cambio de formato,40
+2025-05-18,Tarde,M-02,Falla eléctrica,49
+2025-05-18,Tarde,M-02,Falla mecánica,22
+2025-05-18,Mañana,M-03,Falla mecánica,76
+2025-05-18,Mañana,M-03,Falla mecánica,63
+2025-05-18,Tarde,M-03,Falla mecánica,71
+2025-05-18,Noche,M-03,Cambio de formato,30
+2025-05-18,Noche,M-03,Cambio de formato,21
+2025-05-18,Noche,M-03,Falla mecánica,26
+2025-05-18,Mañana,M-04,Falla eléctrica,88
+2025-05-18,Mañana,M-04,Falta de material,10
+2025-05-18,Mañana,M-05,Otros,9
+2025-05-18,Mañana,M-05,Falta de material,40
+2025-05-18,Noche,M-05,Ajuste de calidad,12
+2025-05-18,Noche,M-05,Cambio de formato,29
+2025-05-19,Mañana,M-02,Falla mecánica,41
+2025-05-19,Tarde,M-02,Cambio de formato,37
+2025-05-19,Noche,M-02,Falla mecánica,45
+2025-05-19,Noche,M-02,Falta de material,51
+2025-05-19,Tarde,M-03,Cambio de formato,22
+2025-05-19,Noche,M-03,Falla mecánica,63
+2025-05-19,Mañana,M-05,Falla eléctrica,53
+2025-05-19,Mañana,M-05,Ajuste de calidad,23
+2025-05-19,Mañana,M-05,Falla mecánica,18
+2025-05-19,Tarde,M-05,Cambio de formato,43
+2025-05-19,Noche,M-05,Falta de material,56
+2025-05-19,Noche,M-05,Limpieza no programada,19
+2025-05-20,Mañana,M-01,Falta de material,46
+2025-05-20,Tarde,M-01,Cambio de formato,27
+2025-05-20,Tarde,M-01,Falla mecánica,16
+2025-05-20,Tarde,M-01,Falla mecánica,50
+2025-05-20,Noche,M-01,Cambio de formato,32
+2025-05-20,Tarde,M-02,Falla mecánica,54
+2025-05-20,Tarde,M-02,Falta de material,30
+2025-05-20,Noche,M-02,Falla mecánica,16
+2025-05-20,Mañana,M-03,Ajuste de calidad,11
+2025-05-20,Noche,M-03,Cambio de formato,28
+2025-05-20,Noche,M-03,Ajuste de calidad,13
+2025-05-20,Noche,M-03,Falla mecánica,78
+2025-05-20,Noche,M-04,Falta de material,12
+2025-05-20,Noche,M-04,Falta de material,24
+2025-05-20,Tarde,M-05,Cambio de formato,42
+2025-05-20,Tarde,M-05,Falla mecánica,45
+2025-05-20,Noche,M-05,Cambio de formato,27
+2025-05-21,Mañana,M-01,Falta de material,14
+2025-05-21,Mañana,M-01,Falta de material,28
+2025-05-21,Tarde,M-01,Cambio de formato,33
+2025-05-21,Tarde,M-01,Falla eléctrica,67
+2025-05-21,Noche,M-01,Falla mecánica,20
+2025-05-21,Mañana,M-02,Falla mecánica,42
+2025-05-21,Tarde,M-02,Cambio de formato,38
+2025-05-21,Tarde,M-02,Falta de material,23
+2025-05-21,Noche,M-02,Falla mecánica,25
+2025-05-21,Mañana,M-03,Falta de material,46
+2025-05-21,Mañana,M-03,Falta de material,56
+2025-05-21,Mañana,M-03,Cambio de formato,43
+2025-05-21,Mañana,M-03,Falla mecánica,82
+2025-05-21,Tarde,M-03,Cambio de formato,30
+2025-05-21,Tarde,M-03,Falla mecánica,88
+2025-05-21,Mañana,M-04,Ajuste de calidad,8
+2025-05-21,Tarde,M-04,Cambio de formato,22
+2025-05-21,Tarde,M-04,Cambio de formato,36
+2025-05-21,Tarde,M-04,Falla mecánica,61
+2025-05-21,Noche,M-04,Cambio de formato,38
+2025-05-21,Mañana,M-05,Falla mecánica,67
+2025-05-21,Mañana,M-05,Falta de material,52
+2025-05-21,Mañana,M-05,Falla mecánica,48
+2025-05-22,Noche,M-01,Cambio de formato,23
+2025-05-22,Noche,M-01,Falla mecánica,19
+2025-05-22,Tarde,M-02,Cambio de formato,33
+2025-05-22,Noche,M-02,Falta de material,17
+2025-05-22,Mañana,M-03,Falta de material,16
+2025-05-22,Tarde,M-03,Cambio de formato,34
+2025-05-22,Tarde,M-03,Falla eléctrica,100
+2025-05-22,Noche,M-03,Cambio de formato,24
+2025-05-22,Mañana,M-04,Ajuste de calidad,21
+2025-05-22,Tarde,M-04,Cambio de formato,40
+2025-05-22,Mañana,M-05,Falla mecánica,78
+2025-05-22,Mañana,M-05,Cambio de formato,38
+2025-05-22,Tarde,M-05,Falla eléctrica,56
+2025-05-23,Mañana,M-01,Otros,11
+2025-05-23,Mañana,M-01,Cambio de formato,28
+2025-05-23,Tarde,M-02,Falla eléctrica,105
+2025-05-23,Tarde,M-02,Falla mecánica,27
+2025-05-23,Noche,M-02,Falla mecánica,20
+2025-05-23,Noche,M-02,Limpieza no programada,27
+2025-05-23,Mañana,M-03,Ajuste de calidad,16
+2025-05-23,Tarde,M-03,Ajuste de calidad,21
+2025-05-23,Noche,M-03,Falta de material,17
+2025-05-23,Noche,M-03,Cambio de formato,33
+2025-05-23,Noche,M-03,Cambio de formato,22
+2025-05-23,Mañana,M-04,Falla mecánica,60
+2025-05-23,Mañana,M-04,Ajuste de calidad,12
+2025-05-23,Tarde,M-04,Falla mecánica,80
+2025-05-23,Noche,M-04,Falla eléctrica,24
+2025-05-23,Mañana,M-05,Cambio de formato,37
+2025-05-23,Mañana,M-05,Falta de material,50
+2025-05-23,Noche,M-05,Falta de material,26
+2025-05-23,Noche,M-05,Cambio de formato,35
+2025-05-23,Noche,M-05,Ajuste de calidad,20
+2025-05-24,Mañana,M-01,Limpieza no programada,16
+2025-05-24,Mañana,M-01,Falla mecánica,23
+2025-05-24,Tarde,M-01,Falla mecánica,48
+2025-05-24,Tarde,M-01,Falta de material,50
+2025-05-24,Noche,M-01,Falta de material,21
+2025-05-24,Mañana,M-02,Falta de material,41
+2025-05-24,Mañana,M-02,Ajuste de calidad,17
+2025-05-24,Noche,M-02,Ajuste de calidad,18
+2025-05-24,Noche,M-02,Limpieza no programada,20
+2025-05-24,Noche,M-02,Falla mecánica,69
+2025-05-24,Mañana,M-03,Falla mecánica,65
+2025-05-24,Tarde,M-03,Ajuste de calidad,20
+2025-05-24,Mañana,M-04,Cambio de formato,37
+2025-05-24,Mañana,M-04,Ajuste de calidad,13
+2025-05-24,Tarde,M-04,Cambio de formato,28
+2025-05-24,Tarde,M-04,Falla eléctrica,54
+2025-05-24,Noche,M-04,Falla mecánica,72
+2025-05-24,Tarde,M-05,Falta de material,31
+2025-05-24,Tarde,M-05,Falla mecánica,84
+2025-05-24,Tarde,M-05,Falla mecánica,17
+2025-05-24,Noche,M-05,Falla eléctrica,118
+2025-05-24,Noche,M-05,Ajuste de calidad,7
+2025-05-25,Tarde,M-01,Falla eléctrica,49
+2025-05-25,Tarde,M-02,Cambio de formato,36
+2025-05-25,Tarde,M-02,Cambio de formato,35
+2025-05-25,Tarde,M-03,Cambio de formato,43
+2025-05-25,Mañana,M-04,Falla mecánica,84
+2025-05-25,Mañana,M-04,Falta de material,19
+2025-05-25,Noche,M-04,Cambio de formato,43
+2025-05-25,Noche,M-04,Falla mecánica,50
+2025-05-25,Mañana,M-05,Falta de material,34
+2025-05-25,Mañana,M-05,Falla mecánica,26
+2025-05-25,Mañana,M-05,Falla mecánica,67
+2025-05-25,Tarde,M-05,Cambio de formato,27
+2025-05-25,Tarde,M-05,Cambio de formato,35
+2025-05-25,Tarde,M-05,Falta de material,33
+2025-05-25,Noche,M-05,Falta de material,11
+2025-05-26,Mañana,M-02,Falla mecánica,33
+2025-05-26,Tarde,M-02,Ajuste de calidad,12
+2025-05-26,Noche,M-02,Ajuste de calidad,9
+2025-05-26,Mañana,M-03,Falla eléctrica,54
+2025-05-26,Tarde,M-03,Cambio de formato,30
+2025-05-26,Tarde,M-03,Limpieza no programada,17
+2025-05-26,Noche,M-03,Falla eléctrica,113
+2025-05-26,Mañana,M-04,Cambio de formato,44
+2025-05-26,Mañana,M-05,Cambio de formato,24
+2025-05-26,Tarde,M-05,Falla mecánica,70
+2025-05-26,Noche,M-05,Falla mecánica,56
+2025-05-26,Noche,M-05,Falta de material,33
+2025-05-27,Tarde,M-01,Cambio de formato,39
+2025-05-27,Tarde,M-01,Falla mecánica,74
+2025-05-27,Tarde,M-01,Falla mecánica,57
+2025-05-27,Noche,M-01,Falla mecánica,82
+2025-05-27,Noche,M-01,Falta de material,40
+2025-05-27,Noche,M-02,Cambio de formato,21
+2025-05-27,Tarde,M-03,Falla mecánica,39
+2025-05-27,Noche,M-03,Falta de material,29
+2025-05-27,Noche,M-03,Cambio de formato,44
+2025-05-27,Mañana,M-04,Falta de material,14
+2025-05-27,Mañana,M-05,Falta de material,47
+2025-05-27,Tarde,M-05,Falta de material,40
+2025-05-27,Tarde,M-05,Falla mecánica,15
+2025-05-28,Tarde,M-01,Falla mecánica,80
+2025-05-28,Tarde,M-01,Ajuste de calidad,18
+2025-05-28,Noche,M-01,Falla mecánica,86
+2025-05-28,Mañana,M-02,Cambio de formato,36
+2025-05-28,Mañana,M-02,Cambio de formato,22
+2025-05-28,Tarde,M-02,Limpieza no programada,18
+2025-05-28,Tarde,M-02,Falta de material,37
+2025-05-28,Tarde,M-02,Falta de material,41
+2025-05-28,Tarde,M-03,Cambio de formato,33
+2025-05-28,Tarde,M-03,Falla mecánica,86
+2025-05-28,Mañana,M-04,Falla mecánica,61
+2025-05-28,Mañana,M-04,Cambio de formato,20
+2025-05-28,Mañana,M-04,Falta de material,31
+2025-05-28,Mañana,M-04,Falla mecánica,62
+2025-05-28,Noche,M-04,Cambio de formato,42
+2025-05-28,Tarde,M-05,Cambio de formato,39
+2025-05-28,Tarde,M-05,Falta de material,41
+2025-05-28,Noche,M-05,Cambio de formato,23
+2025-05-29,Mañana,M-01,Falla mecánica,37
+2025-05-29,Mañana,M-01,Falla eléctrica,36
+2025-05-29,Mañana,M-02,Falta de material,57
+2025-05-29,Mañana,M-02,Falla mecánica,55
+2025-05-29,Tarde,M-02,Falta de material,33
+2025-05-29,Tarde,M-02,Cambio de formato,41
+2025-05-29,Tarde,M-02,Cambio de formato,41
+2025-05-29,Tarde,M-02,Falta de material,14
+2025-05-29,Tarde,M-03,Falta de material,10
+2025-05-29,Tarde,M-04,Falla mecánica,26
+2025-05-29,Tarde,M-04,Falla mecánica,90
+2025-05-29,Tarde,M-04,Falta de material,11
+2025-05-29,Mañana,M-05,Falla mecánica,39
+2025-05-29,Mañana,M-05,Ajuste de calidad,9
+2025-05-29,Noche,M-05,Ajuste de calidad,13
+2025-05-30,Tarde,M-01,Falta de material,32
+2025-05-30,Noche,M-01,Falta de material,20
+2025-05-30,Noche,M-01,Falla mecánica,89
+2025-05-30,Tarde,M-02,Ajuste de calidad,11
+2025-05-30,Tarde,M-02,Cambio de formato,36
+2025-05-30,Tarde,M-03,Falta de material,40
+2025-05-30,Noche,M-03,Cambio de formato,38
+2025-05-30,Noche,M-04,Falla mecánica,60
+2025-05-30,Noche,M-04,Cambio de formato,34
+2025-05-30,Mañana,M-05,Falta de material,47
+2025-05-30,Tarde,M-05,Ajuste de calidad,13
+2025-05-30,Noche,M-05,Cambio de formato,21
+2025-05-31,Mañana,M-01,Falla eléctrica,84
+2025-05-31,Mañana,M-01,Falla mecánica,69
+2025-05-31,Tarde,M-01,Falla mecánica,80
+2025-05-31,Noche,M-01,Falta de material,43
+2025-05-31,Mañana,M-02,Falla mecánica,57
+2025-05-31,Mañana,M-02,Ajuste de calidad,6
+2025-05-31,Tarde,M-02,Ajuste de calidad,19
+2025-05-31,Tarde,M-02,Cambio de formato,34
+2025-05-31,Noche,M-02,Cambio de formato,22
+2025-05-31,Noche,M-02,Falla mecánica,41
+2025-05-31,Noche,M-03,Cambio de formato,26
+2025-05-31,Mañana,M-04,Falta de material,58
+2025-05-31,Mañana,M-04,Falla eléctrica,69
+2025-05-31,Noche,M-04,Ajuste de calidad,18
+2025-05-31,Noche,M-04,Falta de material,44
+2025-05-31,Mañana,M-05,Falta de material,24
+2025-05-31,Mañana,M-05,Falla eléctrica,42
+2025-05-31,Noche,M-05,Falla eléctrica,102
+2025-05-31,Noche,M-05,Falla mecánica,78
+2025-06-01,Mañana,M-01,Cambio de formato,40
+2025-06-01,Mañana,M-02,Cambio de formato,23
+2025-06-01,Tarde,M-02,Falla mecánica,66
+2025-06-01,Mañana,M-03,Cambio de formato,41
+2025-06-01,Tarde,M-03,Falla mecánica,29
+2025-06-01,Noche,M-03,Cambio de formato,35
+2025-06-01,Mañana,M-04,Falla mecánica,37
+2025-06-01,Mañana,M-04,Otros,17
+2025-06-01,Mañana,M-04,Falla eléctrica,30
+2025-06-01,Tarde,M-04,Falta de material,22
+2025-06-01,Tarde,M-04,Cambio de formato,39
+2025-06-01,Tarde,M-04,Falta de material,39
+2025-06-01,Tarde,M-05,Falta de material,59
+2025-06-02,Mañana,M-02,Falta de material,37
+2025-06-02,Mañana,M-02,Falla eléctrica,64
+2025-06-02,Noche,M-02,Cambio de formato,34
+2025-06-02,Noche,M-02,Falla mecánica,56
+2025-06-02,Mañana,M-03,Falta de material,16
+2025-06-02,Mañana,M-03,Cambio de formato,43
+2025-06-02,Mañana,M-03,Falla mecánica,53
+2025-06-02,Mañana,M-03,Cambio de formato,20
+2025-06-02,Tarde,M-03,Ajuste de calidad,7
+2025-06-02,Tarde,M-03,Ajuste de calidad,18
+2025-06-02,Noche,M-03,Otros,12
+2025-06-02,Mañana,M-04,Falla mecánica,70
+2025-06-02,Tarde,M-05,Falla mecánica,74
+2025-06-03,Tarde,M-01,Ajuste de calidad,23
+2025-06-03,Tarde,M-01,Cambio de formato,39
+2025-06-03,Noche,M-01,Falla mecánica,58
+2025-06-03,Noche,M-01,Cambio de formato,34
+2025-06-03,Noche,M-01,Falla mecánica,78
+2025-06-03,Mañana,M-02,Falla mecánica,19
+2025-06-03,Mañana,M-03,Ajuste de calidad,19
+2025-06-03,Tarde,M-03,Falla mecánica,60
+2025-06-03,Noche,M-03,Ajuste de calidad,14
+2025-06-03,Noche,M-03,Falta de material,41
+2025-06-03,Mañana,M-04,Cambio de formato,23
+2025-06-03,Tarde,M-04,Falta de material,21
+2025-06-03,Tarde,M-04,Falla eléctrica,118
+2025-06-03,Tarde,M-04,Ajuste de calidad,17
+2025-06-03,Tarde,M-04,Falta de material,32
+2025-06-03,Noche,M-04,Cambio de formato,31
+2025-06-03,Mañana,M-05,Falta de material,50
+2025-06-03,Mañana,M-05,Cambio de formato,37
+2025-06-03,Tarde,M-05,Ajuste de calidad,14
+2025-06-03,Noche,M-05,Falla mecánica,51
+2025-06-03,Noche,M-05,Falla mecánica,57
+2025-06-03,Noche,M-05,Ajuste de calidad,25
+2025-06-04,Tarde,M-01,Falta de material,49
+2025-06-04,Noche,M-01,Falla mecánica,88
+2025-06-04,Tarde,M-02,Falla mecánica,62
+2025-06-04,Noche,M-02,Cambio de formato,36
+2025-06-04,Noche,M-02,Falla eléctrica,40
+2025-06-04,Mañana,M-04,Cambio de formato,27
+2025-06-04,Tarde,M-04,Falla mecánica,57
+2025-06-04,Mañana,M-05,Falta de material,36
+2025-06-04,Mañana,M-05,Falla eléctrica,80
+2025-06-04,Tarde,M-05,Falla mecánica,83
+2025-06-04,Noche,M-05,Cambio de formato,20
+2025-06-05,Tarde,M-01,Falla mecánica,66
+2025-06-05,Tarde,M-01,Falta de material,42
+2025-06-05,Noche,M-01,Falla mecánica,48
+2025-06-05,Noche,M-01,Ajuste de calidad,23
+2025-06-05,Tarde,M-02,Ajuste de calidad,11
+2025-06-05,Tarde,M-02,Falla mecánica,57
+2025-06-05,Tarde,M-02,Falta de material,14
+2025-06-05,Noche,M-02,Ajuste de calidad,15
+2025-06-05,Noche,M-02,Falla mecánica,71
+2025-06-05,Noche,M-03,Falta de material,55
+2025-06-05,Noche,M-03,Falla mecánica,35
+2025-06-05,Noche,M-03,Falta de material,29
+2025-06-05,Noche,M-04,Falla mecánica,42
+2025-06-05,Tarde,M-05,Cambio de formato,35
+2025-06-05,Tarde,M-05,Falta de material,20
+2025-06-05,Noche,M-05,Cambio de formato,36
+2025-06-06,Mañana,M-01,Falla mecánica,82
+2025-06-06,Mañana,M-02,Falta de material,17
+2025-06-06,Tarde,M-02,Falla eléctrica,21
+2025-06-06,Noche,M-02,Cambio de formato,27
+2025-06-06,Noche,M-02,Ajuste de calidad,16
+2025-06-06,Tarde,M-03,Cambio de formato,43
+2025-06-06,Noche,M-03,Cambio de formato,36
+2025-06-06,Noche,M-03,Falla mecánica,47
+2025-06-06,Mañana,M-04,Falla eléctrica,49
+2025-06-06,Mañana,M-04,Falta de material,39
+2025-06-06,Mañana,M-04,Falla mecánica,49
+2025-06-06,Noche,M-04,Cambio de formato,21
+2025-06-06,Noche,M-04,Falla mecánica,46
+2025-06-06,Mañana,M-05,Cambio de formato,45
+2025-06-06,Noche,M-05,Falla mecánica,90
+2025-06-07,Mañana,M-01,Falta de material,17
+2025-06-07,Tarde,M-01,Falta de material,50
+2025-06-07,Mañana,M-02,Falla mecánica,79
+2025-06-07,Tarde,M-02,Falla mecánica,83
+2025-06-07,Noche,M-02,Cambio de formato,34
+2025-06-07,Tarde,M-03,Cambio de formato,25
+2025-06-07,Noche,M-03,Falla eléctrica,76
+2025-06-07,Mañana,M-04,Falla mecánica,28
+2025-06-07,Mañana,M-04,Ajuste de calidad,11
+2025-06-07,Tarde,M-04,Cambio de formato,41
+2025-06-07,Tarde,M-04,Cambio de formato,39
+2025-06-07,Noche,M-05,Cambio de formato,43
+2025-06-08,Mañana,M-01,Falla eléctrica,58
+2025-06-08,Tarde,M-01,Ajuste de calidad,15
+2025-06-08,Tarde,M-01,Cambio de formato,33
+2025-06-08,Mañana,M-02,Falta de material,18
+2025-06-08,Noche,M-02,Falla mecánica,62
+2025-06-08,Noche,M-02,Falla mecánica,69
+2025-06-08,Mañana,M-03,Falla mecánica,42
+2025-06-08,Tarde,M-03,Falla mecánica,35
+2025-06-08,Noche,M-03,Cambio de formato,21
+2025-06-08,Noche,M-03,Ajuste de calidad,17
+2025-06-08,Mañana,M-04,Falla mecánica,90
+2025-06-08,Tarde,M-04,Falla mecánica,62
+2025-06-08,Noche,M-04,Falla eléctrica,29
+2025-06-08,Mañana,M-05,Falla mecánica,34
+2025-06-08,Tarde,M-05,Cambio de formato,30
+2025-06-09,Tarde,M-01,Falta de material,30
+2025-06-09,Tarde,M-01,Limpieza no programada,21
+2025-06-09,Noche,M-01,Falla mecánica,74
+2025-06-09,Noche,M-01,Falla mecánica,61
+2025-06-09,Mañana,M-02,Falla mecánica,17
+2025-06-09,Mañana,M-02,Falla mecánica,67
+2025-06-09,Tarde,M-02,Ajuste de calidad,6
+2025-06-09,Tarde,M-02,Falla eléctrica,85
+2025-06-09,Noche,M-02,Limpieza no programada,20
+2025-06-09,Noche,M-02,Ajuste de calidad,20
+2025-06-09,Noche,M-02,Falla mecánica,57
+2025-06-09,Noche,M-02,Falta de material,57
+2025-06-09,Mañana,M-03,Falla mecánica,35
+2025-06-09,Noche,M-03,Ajuste de calidad,18
+2025-06-09,Noche,M-03,Ajuste de calidad,19
+2025-06-09,Noche,M-03,Cambio de formato,43
+2025-06-09,Noche,M-03,Falla mecánica,57
+2025-06-09,Tarde,M-04,Cambio de formato,20
+2025-06-09,Tarde,M-04,Cambio de formato,29
+2025-06-09,Noche,M-05,Falta de material,32
+2025-06-09,Noche,M-05,Falla eléctrica,111
+2025-06-10,Mañana,M-01,Falla mecánica,38
+2025-06-10,Mañana,M-01,Falla mecánica,83
+2025-06-10,Tarde,M-01,Cambio de formato,22
+2025-06-10,Tarde,M-01,Cambio de formato,30
+2025-06-10,Mañana,M-03,Falla eléctrica,46
+2025-06-10,Mañana,M-03,Cambio de formato,34
+2025-06-10,Tarde,M-03,Falta de material,17
+2025-06-10,Tarde,M-03,Falla mecánica,37
+2025-06-10,Noche,M-03,Falla mecánica,41
+2025-06-10,Mañana,M-04,Ajuste de calidad,15
+2025-06-10,Noche,M-04,Limpieza no programada,10
+2025-06-10,Mañana,M-05,Falla eléctrica,65
+2025-06-11,Mañana,M-01,Falla eléctrica,22
+2025-06-11,Mañana,M-01,Limpieza no programada,18
+2025-06-11,Mañana,M-02,Falla mecánica,41
+2025-06-11,Mañana,M-03,Ajuste de calidad,10
+2025-06-11,Mañana,M-03,Cambio de formato,23
+2025-06-11,Noche,M-03,Falta de material,11
+2025-06-11,Noche,M-03,Ajuste de calidad,15
+2025-06-11,Mañana,M-04,Falla mecánica,67
+2025-06-11,Mañana,M-04,Falla mecánica,63
+2025-06-11,Mañana,M-05,Cambio de formato,33
+2025-06-11,Mañana,M-05,Falla eléctrica,88
+2025-06-11,Mañana,M-05,Cambio de formato,39
+2025-06-11,Tarde,M-05,Falla eléctrica,52
+2025-06-11,Noche,M-05,Falta de material,55
+2025-06-12,Mañana,M-01,Falta de material,18
+2025-06-12,Mañana,M-01,Falla mecánica,31
+2025-06-12,Tarde,M-01,Ajuste de calidad,17
+2025-06-12,Tarde,M-02,Cambio de formato,28
+2025-06-12,Noche,M-02,Falta de material,47
+2025-06-12,Mañana,M-03,Ajuste de calidad,25
+2025-06-12,Mañana,M-03,Falla mecánica,40
+2025-06-12,Tarde,M-03,Ajuste de calidad,12
+2025-06-12,Noche,M-03,Cambio de formato,31
+2025-06-12,Mañana,M-04,Cambio de formato,26
+2025-06-12,Mañana,M-04,Cambio de formato,28
+2025-06-12,Mañana,M-04,Cambio de formato,23
+2025-06-12,Tarde,M-04,Cambio de formato,25
+2025-06-12,Noche,M-04,Cambio de formato,41
+2025-06-12,Mañana,M-05,Falla mecánica,61
+2025-06-12,Mañana,M-05,Cambio de formato,20
+2025-06-12,Noche,M-05,Falla mecánica,59
+2025-06-13,Mañana,M-01,Falla mecánica,79
+2025-06-13,Mañana,M-01,Falla mecánica,80
+2025-06-13,Mañana,M-01,Falla mecánica,43
+2025-06-13,Mañana,M-01,Ajuste de calidad,11
+2025-06-13,Tarde,M-01,Falla mecánica,82
+2025-06-13,Mañana,M-02,Cambio de formato,23
+2025-06-13,Tarde,M-02,Falla mecánica,34
+2025-06-13,Tarde,M-02,Cambio de formato,39
+2025-06-13,Mañana,M-03,Cambio de formato,33
+2025-06-13,Mañana,M-04,Falta de material,14
+2025-06-13,Mañana,M-04,Falla mecánica,67
+2025-06-13,Mañana,M-04,Falla mecánica,76
+2025-06-13,Tarde,M-04,Limpieza no programada,17
+2025-06-13,Tarde,M-04,Cambio de formato,25
+2025-06-13,Mañana,M-05,Falla mecánica,66
+2025-06-13,Mañana,M-05,Falla mecánica,89
+2025-06-13,Mañana,M-05,Limpieza no programada,14
+2025-06-13,Noche,M-05,Cambio de formato,44
+2025-06-14,Mañana,M-01,Falla mecánica,30
+2025-06-14,Noche,M-01,Falla eléctrica,25
+2025-06-14,Noche,M-01,Cambio de formato,28
+2025-06-14,Mañana,M-02,Falla eléctrica,108
+2025-06-14,Noche,M-02,Limpieza no programada,21
+2025-06-14,Noche,M-02,Falla mecánica,78
+2025-06-14,Mañana,M-03,Falta de material,59
+2025-06-14,Tarde,M-03,Falla mecánica,80
+2025-06-14,Mañana,M-04,Cambio de formato,38
+2025-06-14,Mañana,M-04,Cambio de formato,38
+2025-06-14,Tarde,M-04,Ajuste de calidad,20
+2025-06-14,Tarde,M-04,Falta de material,46
+2025-06-14,Tarde,M-04,Cambio de formato,36
+2025-06-14,Tarde,M-04,Falla eléctrica,105
+2025-06-14,Noche,M-04,Ajuste de calidad,8
+2025-06-14,Mañana,M-05,Cambio de formato,41
+2025-06-14,Mañana,M-05,Falta de material,48
+2025-06-14,Tarde,M-05,Cambio de formato,45
+2025-06-14,Tarde,M-05,Cambio de formato,34
+2025-06-14,Noche,M-05,Ajuste de calidad,25
+2025-06-14,Noche,M-05,Ajuste de calidad,18
+2025-06-14,Noche,M-05,Falta de material,11
+2025-06-15,Mañana,M-01,Cambio de formato,29
+2025-06-15,Tarde,M-01,Ajuste de calidad,13
+2025-06-15,Tarde,M-01,Cambio de formato,41
+2025-06-15,Mañana,M-02,Otros,13
+2025-06-15,Tarde,M-02,Falla eléctrica,102
+2025-06-15,Mañana,M-03,Cambio de formato,39
+2025-06-15,Mañana,M-03,Cambio de formato,45
+2025-06-15,Tarde,M-03,Falla mecánica,26
+2025-06-15,Tarde,M-03,Falta de material,30
+2025-06-15,Noche,M-03,Falla mecánica,77
+2025-06-15,Noche,M-03,Cambio de formato,45
+2025-06-15,Noche,M-04,Falla mecánica,86
+2025-06-15,Mañana,M-05,Falla mecánica,26
+2025-06-15,Mañana,M-05,Falta de material,52
+2025-06-15,Tarde,M-05,Cambio de formato,32
+2025-06-15,Tarde,M-05,Falla mecánica,64
+2025-06-15,Noche,M-05,Falla eléctrica,57
+2025-06-15,Noche,M-05,Falta de material,15
+2025-06-16,Mañana,M-01,Falla mecánica,34
+2025-06-16,Mañana,M-01,Falta de material,27
+2025-06-16,Tarde,M-01,Falla mecánica,43
+2025-06-16,Mañana,M-02,Cambio de formato,34
+2025-06-16,Mañana,M-02,Cambio de formato,37
+2025-06-16,Noche,M-02,Falla eléctrica,69
+2025-06-16,Mañana,M-03,Ajuste de calidad,13
+2025-06-16,Mañana,M-03,Cambio de formato,31
+2025-06-16,Mañana,M-03,Falla eléctrica,50
+2025-06-16,Mañana,M-03,Cambio de formato,31
+2025-06-16,Tarde,M-03,Ajuste de calidad,12
+2025-06-16,Mañana,M-04,Cambio de formato,23
+2025-06-16,Tarde,M-04,Falta de material,51
+2025-06-16,Tarde,M-04,Otros,12
+2025-06-16,Mañana,M-05,Limpieza no programada,15
+2025-06-16,Tarde,M-05,Falla eléctrica,81
+2025-06-16,Noche,M-05,Falla mecánica,50
+2025-06-16,Noche,M-05,Falta de material,56
+2025-06-17,Mañana,M-01,Ajuste de calidad,9
+2025-06-17,Tarde,M-01,Cambio de formato,41
+2025-06-17,Noche,M-01,Cambio de formato,33
+2025-06-17,Noche,M-01,Falla mecánica,84
+2025-06-17,Mañana,M-02,Otros,6
+2025-06-17,Mañana,M-02,Falta de material,32
+2025-06-17,Mañana,M-03,Otros,10
+2025-06-17,Mañana,M-03,Falla mecánica,78
+2025-06-17,Noche,M-03,Ajuste de calidad,17
+2025-06-17,Noche,M-03,Falta de material,18
+2025-06-17,Noche,M-05,Falta de material,16
+2025-06-18,Mañana,M-01,Falla mecánica,64
+2025-06-18,Tarde,M-01,Cambio de formato,22
+2025-06-18,Noche,M-01,Falla mecánica,42
+2025-06-18,Mañana,M-02,Falla mecánica,62
+2025-06-18,Tarde,M-02,Falla eléctrica,42
+2025-06-18,Tarde,M-02,Cambio de formato,34
+2025-06-18,Noche,M-02,Limpieza no programada,13
+2025-06-18,Mañana,M-03,Cambio de formato,25
+2025-06-18,Noche,M-03,Cambio de formato,34
+2025-06-18,Tarde,M-04,Cambio de formato,31
+2025-06-18,Noche,M-04,Ajuste de calidad,6
+2025-06-18,Mañana,M-05,Ajuste de calidad,23
+2025-06-18,Mañana,M-05,Falla mecánica,81
+2025-06-18,Mañana,M-05,Falla mecánica,56
+2025-06-18,Tarde,M-05,Cambio de formato,44
+2025-06-18,Tarde,M-05,Cambio de formato,26
+2025-06-18,Noche,M-05,Falla mecánica,69
+2025-06-18,Noche,M-05,Cambio de formato,32
+2025-06-19,Noche,M-01,Falta de material,43
+2025-06-19,Noche,M-01,Ajuste de calidad,11
+2025-06-19,Mañana,M-02,Falla eléctrica,89
+2025-06-19,Noche,M-02,Cambio de formato,37
+2025-06-19,Mañana,M-03,Ajuste de calidad,21
+2025-06-19,Mañana,M-03,Ajuste de calidad,21
+2025-06-19,Tarde,M-03,Falla mecánica,38
+2025-06-19,Tarde,M-03,Falla eléctrica,111
+2025-06-19,Tarde,M-03,Cambio de formato,42
+2025-06-19,Noche,M-03,Falla mecánica,63
+2025-06-19,Noche,M-03,Falla mecánica,29
+2025-06-19,Tarde,M-04,Otros,12
+2025-06-19,Tarde,M-04,Cambio de formato,32
+2025-06-19,Tarde,M-04,Falla mecánica,33
+2025-06-19,Tarde,M-04,Falta de material,49
+2025-06-19,Mañana,M-05,Falla mecánica,49
+2025-06-19,Tarde,M-05,Cambio de formato,26
+2025-06-19,Tarde,M-05,Ajuste de calidad,20
+2025-06-19,Noche,M-05,Falla mecánica,72
+2025-06-19,Noche,M-05,Falla mecánica,43
+2025-06-20,Tarde,M-01,Falla mecánica,47
+2025-06-20,Noche,M-01,Falla mecánica,51
+2025-06-20,Tarde,M-02,Limpieza no programada,27
+2025-06-20,Tarde,M-02,Ajuste de calidad,11
+2025-06-20,Noche,M-02,Falla mecánica,44
+2025-06-20,Tarde,M-03,Cambio de formato,43
+2025-06-20,Tarde,M-04,Limpieza no programada,20
+2025-06-20,Tarde,M-05,Falla mecánica,39
+2025-06-21,Mañana,M-01,Falla mecánica,35
+2025-06-21,Noche,M-01,Falta de material,20
+2025-06-21,Noche,M-02,Falta de material,24
+2025-06-21,Mañana,M-03,Falla mecánica,75
+2025-06-21,Tarde,M-03,Falta de material,38
+2025-06-21,Noche,M-03,Falla mecánica,73
+2025-06-21,Mañana,M-04,Falla eléctrica,48
+2025-06-21,Noche,M-04,Cambio de formato,20
+2025-06-21,Noche,M-04,Cambio de formato,29
+2025-06-21,Mañana,M-05,Cambio de formato,27
+2025-06-21,Mañana,M-05,Otros,9
+2025-06-21,Tarde,M-05,Cambio de formato,33
+2025-06-21,Tarde,M-05,Cambio de formato,34
+2025-06-21,Tarde,M-05,Cambio de formato,32
+2025-06-21,Noche,M-05,Falla mecánica,82
+2025-06-22,Tarde,M-01,Falta de material,39
+2025-06-22,Noche,M-01,Falta de material,23
+2025-06-22,Mañana,M-02,Cambio de formato,44
+2025-06-22,Noche,M-02,Limpieza no programada,23
+2025-06-22,Mañana,M-03,Cambio de formato,41
+2025-06-22,Mañana,M-03,Falla mecánica,87
+2025-06-22,Tarde,M-03,Ajuste de calidad,9
+2025-06-22,Noche,M-03,Falla mecánica,77
+2025-06-22,Noche,M-03,Cambio de formato,44
+2025-06-22,Mañana,M-04,Falta de material,60
+2025-06-22,Mañana,M-04,Falla mecánica,17
+2025-06-22,Noche,M-04,Falla mecánica,34
+2025-06-22,Noche,M-04,Limpieza no programada,19
+2025-06-22,Mañana,M-05,Falta de material,38
+2025-06-22,Mañana,M-05,Cambio de formato,42
+2025-06-22,Mañana,M-05,Falla mecánica,53
+2025-06-22,Tarde,M-05,Falla mecánica,68
+2025-06-22,Tarde,M-05,Falla mecánica,67
+2025-06-22,Tarde,M-05,Falla mecánica,85
+2025-06-23,Noche,M-01,Cambio de formato,44
+2025-06-23,Mañana,M-02,Limpieza no programada,28
+2025-06-23,Mañana,M-02,Falta de material,38
+2025-06-23,Tarde,M-02,Falta de material,31
+2025-06-23,Tarde,M-02,Otros,16
+2025-06-23,Tarde,M-02,Falla mecánica,32
+2025-06-23,Noche,M-02,Falla mecánica,40
+2025-06-23,Noche,M-02,Limpieza no programada,20
+2025-06-23,Noche,M-02,Falla mecánica,25
+2025-06-23,Mañana,M-03,Falta de material,47
+2025-06-23,Tarde,M-03,Falla mecánica,50
+2025-06-23,Tarde,M-03,Otros,5
+2025-06-23,Mañana,M-04,Cambio de formato,21
+2025-06-23,Tarde,M-04,Falta de material,31
+2025-06-23,Noche,M-04,Falta de material,57
+2025-06-23,Noche,M-04,Falta de material,29
+2025-06-23,Noche,M-04,Cambio de formato,35
+2025-06-23,Mañana,M-05,Falta de material,31
+2025-06-23,Tarde,M-05,Cambio de formato,42
+2025-06-23,Tarde,M-05,Cambio de formato,31
+2025-06-23,Tarde,M-05,Falta de material,45
+2025-06-23,Tarde,M-05,Falla mecánica,51
+2025-06-23,Noche,M-05,Falla mecánica,55
+2025-06-23,Noche,M-05,Falla eléctrica,34
+2025-06-23,Noche,M-05,Falla mecánica,31
+2025-06-24,Tarde,M-01,Ajuste de calidad,7
+2025-06-24,Tarde,M-01,Falla mecánica,16
+2025-06-24,Noche,M-01,Falla mecánica,89
+2025-06-24,Noche,M-01,Falta de material,39
+2025-06-24,Noche,M-01,Falta de material,31
+2025-06-24,Tarde,M-02,Falla mecánica,26
+2025-06-24,Tarde,M-02,Falta de material,15
+2025-06-24,Mañana,M-03,Cambio de formato,35
+2025-06-24,Tarde,M-03,Falta de material,40
+2025-06-24,Noche,M-03,Falla mecánica,38
+2025-06-24,Noche,M-03,Cambio de formato,22
+2025-06-24,Tarde,M-04,Falta de material,14
+2025-06-24,Noche,M-04,Falla mecánica,65
+2025-06-24,Noche,M-04,Falta de material,47
+2025-06-24,Mañana,M-05,Falla mecánica,47
+2025-06-24,Tarde,M-05,Falta de material,53
+2025-06-25,Mañana,M-01,Falta de material,37
+2025-06-25,Mañana,M-01,Falla mecánica,72
+2025-06-25,Tarde,M-02,Ajuste de calidad,20
+2025-06-25,Noche,M-02,Cambio de formato,43
+2025-06-25,Tarde,M-03,Falla eléctrica,71
+2025-06-25,Noche,M-03,Falla mecánica,64
+2025-06-25,Tarde,M-04,Cambio de formato,20
+2025-06-25,Noche,M-04,Falla mecánica,38
+2025-06-25,Noche,M-04,Falla mecánica,17
+2025-06-25,Noche,M-04,Cambio de formato,24
+2025-06-25,Mañana,M-05,Falla mecánica,85
+2025-06-25,Tarde,M-05,Cambio de formato,33
+2025-06-25,Noche,M-05,Falla mecánica,28
+2025-06-25,Noche,M-05,Falla mecánica,56
+2025-06-25,Noche,M-05,Falta de material,48
+2025-06-26,Mañana,M-01,Ajuste de calidad,18
+2025-06-26,Mañana,M-01,Cambio de formato,29
+2025-06-26,Mañana,M-01,Falta de material,31
+2025-06-26,Tarde,M-01,Falla mecánica,31
+2025-06-26,Mañana,M-02,Cambio de formato,20
+2025-06-26,Noche,M-02,Cambio de formato,35
+2025-06-26,Noche,M-02,Ajuste de calidad,22
+2025-06-26,Mañana,M-03,Falla eléctrica,61
+2025-06-26,Mañana,M-03,Ajuste de calidad,23
+2025-06-26,Tarde,M-03,Falla mecánica,46
+2025-06-26,Mañana,M-04,Falta de material,15
+2025-06-26,Mañana,M-04,Cambio de formato,34
+2025-06-26,Tarde,M-04,Falla mecánica,72
+2025-06-26,Tarde,M-04,Cambio de formato,26
+2025-06-26,Tarde,M-04,Ajuste de calidad,13
+2025-06-26,Noche,M-04,Cambio de formato,27
+2025-06-26,Noche,M-04,Falta de material,30
+2025-06-26,Mañana,M-05,Ajuste de calidad,15
+2025-06-26,Tarde,M-05,Falla mecánica,39
+2025-06-26,Tarde,M-05,Limpieza no programada,29
+2025-06-27,Mañana,M-01,Falla mecánica,63
+2025-06-27,Noche,M-02,Ajuste de calidad,8
+2025-06-27,Tarde,M-03,Cambio de formato,20
+2025-06-27,Noche,M-03,Cambio de formato,30
+2025-06-27,Noche,M-04,Cambio de formato,44
+2025-06-27,Noche,M-05,Limpieza no programada,17
+2025-06-28,Noche,M-01,Ajuste de calidad,9
+2025-06-28,Tarde,M-02,Falla mecánica,22
+2025-06-28,Tarde,M-02,Falta de material,45
+2025-06-28,Noche,M-02,Cambio de formato,21
+2025-06-28,Noche,M-02,Falla mecánica,44
+2025-06-28,Tarde,M-03,Cambio de formato,36
+2025-06-28,Noche,M-03,Falta de material,45
+2025-06-28,Noche,M-03,Falla mecánica,40
+2025-06-28,Mañana,M-04,Falla mecánica,25
+2025-06-28,Tarde,M-04,Falla mecánica,42
+2025-06-28,Tarde,M-04,Falla mecánica,15
+2025-06-29,Mañana,M-01,Falta de material,42
+2025-06-29,Noche,M-01,Falla mecánica,87
+2025-06-29,Noche,M-01,Ajuste de calidad,14
+2025-06-29,Noche,M-01,Ajuste de calidad,11
+2025-06-29,Tarde,M-02,Falla eléctrica,52
+2025-06-29,Tarde,M-03,Otros,10
+2025-06-29,Noche,M-03,Ajuste de calidad,12
+2025-06-29,Noche,M-04,Falta de material,20
+2025-06-29,Mañana,M-05,Otros,16
