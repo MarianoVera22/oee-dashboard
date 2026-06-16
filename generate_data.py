@@ -41,7 +41,7 @@ IDEAL_CYCLE_SEC = {
 MACHINE_HEALTH = {
     "M-01": 1.0,
     "M-02": 1.1,
-    "M-03": 1.8,  # problemática
+    "M-03": 2.5,  # problemática
     "M-04": 0.9,
     "M-05": 1.2,
 }

@@ -94,6 +94,27 @@ def oee_by_shift(production_with_oee: pl.DataFrame) -> pl.DataFrame:
         )
         .sort("oee", descending=True)
     )
+    
+    
+def oee_by_date(production_with_oee: pl.DataFrame) -> pl.DataFrame:
+    """Promedia el OEE y sus componentes por fecha.
+
+    Args:
+        production_with_oee: DataFrame que ya pasó por add_oee_columns.
+
+    Returns:
+        DataFrame con una fila por fecha, ordenado cronológicamente.
+    """
+    return (
+        production_with_oee.group_by("date")
+        .agg(
+            pl.col("availability").mean().alias("availability"),
+            pl.col("performance").mean().alias("performance"),
+            pl.col("quality").mean().alias("quality"),
+            pl.col("oee").mean().alias("oee"),
+        )
+        .sort("date")
+    )
 
 
 def overall_oee(production_with_oee: pl.DataFrame) -> dict[str, float]:

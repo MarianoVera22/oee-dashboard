@@ -9,6 +9,7 @@ from oee_dashboard.metrics import (
     oee_by_machine,
     oee_by_shift,
     overall_oee,
+    oee_by_date,
 )
 
 production = pl.read_csv(Path("data") / "production.csv")
@@ -23,3 +24,6 @@ print(oee_by_machine(production))
 
 print("\n=== OEE POR TURNO ===")
 print(oee_by_shift(production))
+
+print("\n=== OEE POR FECHA (primeras filas) ===")
+print(oee_by_date(production).head(10))
