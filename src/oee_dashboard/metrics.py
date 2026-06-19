@@ -133,3 +133,29 @@ def overall_oee(production_with_oee: pl.DataFrame) -> dict[str, float]:
         pl.col("oee").mean(),
     ).row(0, named=True)
     return {key: float(value) for key, value in means.items()}
+
+def downtime_by_reason(downtime: pl.DataFrame) -> pl.DataFrame:
+    """Suma el tiempo de paro total por causa, ordenado de mayor a menor.
+
+    Args:
+        downtime: DataFrame de eventos de paro (columnas: reason, duration_min).
+
+    Returns:
+        DataFrame con columnas: reason, total_min, pct, cumulative_pct.
+        Ordenado por total_min descendente (formato Pareto).
+    """
+    by_reason = (
+        downtime.group_by("reason")
+        .agg(pl.col("duration_min").sum().alias("total_min"))
+        .sort("total_min", descending=True)
+    )
+
+    total = by_reason["total_min"].sum()
+
+    return by_reason.with_columns(
+        # Porcentaje que representa cada causa sobre el total.
+        pct=(pl.col("total_min") / total * 100),
+    ).with_columns(
+        # Porcentaje acumulado (la línea del Pareto).
+        cumulative_pct=(pl.col("pct").cum_sum()),
+    )

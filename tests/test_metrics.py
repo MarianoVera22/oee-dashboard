@@ -143,3 +143,32 @@ def test_overall_oee_values_are_floats(simple_production: pl.DataFrame) -> None:
     overall = overall_oee(result)
     for value in overall.values():
         assert isinstance(value, float)
+        
+def test_downtime_by_reason_sorted_descending() -> None:
+    """Las causas se ordenan de mayor a menor tiempo total."""
+    from oee_dashboard.metrics import downtime_by_reason
+
+    downtime = pl.DataFrame(
+        {
+            "reason": ["A", "B", "A", "C"],
+            "duration_min": [10, 50, 20, 5],
+        }
+    )
+    result = downtime_by_reason(downtime)
+    # A = 30, B = 50, C = 5 -> orden esperado: B, A, C
+    assert result["reason"].to_list() == ["B", "A", "C"]
+    assert result["total_min"].to_list() == [50, 30, 5]
+
+
+def test_downtime_cumulative_reaches_100() -> None:
+    """El porcentaje acumulado de la última fila debe ser 100%."""
+    from oee_dashboard.metrics import downtime_by_reason
+
+    downtime = pl.DataFrame(
+        {
+            "reason": ["A", "B"],
+            "duration_min": [75, 25],
+        }
+    )
+    result = downtime_by_reason(downtime)
+    assert result["cumulative_pct"][-1] == pytest.approx(100.0)
