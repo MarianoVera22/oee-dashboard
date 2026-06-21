@@ -15,6 +15,7 @@ from oee_dashboard.metrics import (
     oee_by_shift,
     overall_oee,
     oee_by_date,
+    add_rolling_oee,
 )
 
 # --- Configuración de la página ---
@@ -83,117 +84,113 @@ if filtered.height == 0:
 st.title("📊 Dashboard OEE")
 st.caption("Overall Equipment Effectiveness — datos sintéticos de producción")
 
-# --- KPIs principales ---
-overall = overall_oee(filtered)
-
-col1, col2, col3, col4 = st.columns(4)
-col1.metric("OEE Global", f"{overall['oee']:.1%}")
-col2.metric("Disponibilidad", f"{overall['availability']:.1%}")
-col3.metric("Rendimiento", f"{overall['performance']:.1%}")
-col4.metric("Calidad", f"{overall['quality']:.1%}")
-
-st.divider()
-
-# --- OEE por máquina ---
-st.subheader("OEE por máquina")
-by_machine = oee_by_machine(filtered)
-st.dataframe(by_machine, use_container_width=True)
-
-# --- OEE por turno ---
-st.subheader("OEE por turno")
-by_shift = oee_by_shift(filtered)
-st.dataframe(by_shift, use_container_width=True)
-
-st.divider()
-
-# --- Pareto de causas de paro ---
-st.subheader("Causas de paro (Pareto)")
-
-# Cargar paros y aplicar los mismos filtros de máquina y turno.
+# --- Cargar paros (filtrados igual que producción) ---
 downtime = load_downtime()
 downtime_filtered = downtime.filter(
     pl.col("machine_id").is_in(selected_machines)
     & pl.col("shift").is_in(selected_shifts)
 )
 
-if downtime_filtered.height == 0:
-    st.info("No hay eventos de paro para los filtros seleccionados.")
-else:
-    pareto = downtime_by_reason(downtime_filtered)
+# --- Pestañas ---
+tab_resumen, tab_comparativo, tab_paros = st.tabs(
+    ["Resumen", "Por máquina / turno", "Análisis de paros"]
+)
 
-    # Construir el gráfico combinado: barras + línea acumulada.
-    fig = go.Figure()
+# ===== PESTAÑA 1: RESUMEN =====
+with tab_resumen:
+    overall = overall_oee(filtered)
 
-    # Barras: tiempo total por causa.
-    fig.add_trace(
-        go.Bar(
-            x=pareto["reason"].to_list(),
-            y=pareto["total_min"].to_list(),
-            name="Tiempo de paro (min)",
-            marker_color="#1985a1",
-        )
-    )
+    col1, col2, col3, col4 = st.columns(4)
+    col1.metric("OEE Global", f"{overall['oee']:.1%}")
+    col2.metric("Disponibilidad", f"{overall['availability']:.1%}")
+    col3.metric("Rendimiento", f"{overall['performance']:.1%}")
+    col4.metric("Calidad", f"{overall['quality']:.1%}")
 
-    # Línea: porcentaje acumulado (eje Y secundario).
-    fig.add_trace(
-        go.Scatter(
-            x=pareto["reason"].to_list(),
-            y=pareto["cumulative_pct"].to_list(),
-            name="% acumulado",
-            yaxis="y2",
-            mode="lines+markers",
-            marker_color="#ef8354",
-        )
-    )
-
-    # Configurar los dos ejes Y.
-    fig.update_layout(
-        yaxis=dict(title="Minutos de paro"),
-        yaxis2=dict(
-            title="% acumulado",
-            overlaying="y",
-            side="right",
-            range=[0, 105],
-        ),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02),
-        height=450,
-    )
-
-    st.plotly_chart(fig, use_container_width=True)
-    
     st.divider()
 
-# --- Tendencia temporal del OEE ---
-st.subheader("Tendencia de OEE en el tiempo")
+    st.subheader("Tendencia de OEE en el tiempo")
+    trend = oee_by_date(filtered)
+    trend = add_rolling_oee(trend, window=7)
 
-# Importá oee_by_date arriba (lo agregamos al import de metrics)
-trend = oee_by_date(filtered)
-
-fig_trend = go.Figure()
-
-fig_trend.add_trace(
-    go.Scatter(
-        x=trend["date"].to_list(),
-        y=trend["oee"].to_list(),
-        name="OEE",
-        mode="lines",
-        line=dict(color="#1985a1", width=2),
+    fig_trend = go.Figure()
+    fig_trend.add_trace(
+        go.Scatter(
+            x=trend["date"].to_list(),
+            y=trend["oee"].to_list(),
+            name="OEE diario",
+            mode="lines",
+            line=dict(color="#b0bec5", width=1),
+            opacity=0.5,
+        )
     )
-)
+    fig_trend.add_trace(
+        go.Scatter(
+            x=trend["date"].to_list(),
+            y=trend["oee_rolling"].to_list(),
+            name="Promedio móvil (7 días)",
+            mode="lines",
+            line=dict(color="#1985a1", width=3),
+        )
+    )
+    fig_trend.add_hline(
+        y=0.85,
+        line_dash="dash",
+        line_color="#ef8354",
+        annotation_text="Clase mundial (85%)",
+        annotation_position="top right",
+    )
+    fig_trend.update_layout(
+        yaxis=dict(title="OEE", tickformat=".0%", range=[0, 1]),
+        xaxis=dict(title="Fecha"),
+        height=400,
+    )
+    st.plotly_chart(fig_trend, use_container_width=True)
 
-# Línea de referencia: el umbral "clase mundial" (85%).
-fig_trend.add_hline(
-    y=0.85,
-    line_dash="dash",
-    line_color="#ef8354",
-    annotation_text="Clase mundial (85%)",
-    annotation_position="top right",
-)
+# ===== PESTAÑA 2: COMPARATIVO =====
+with tab_comparativo:
+    st.subheader("OEE por máquina")
+    st.dataframe(oee_by_machine(filtered), use_container_width=True)
 
-fig_trend.update_layout(
-    yaxis=dict(title="OEE", tickformat=".0%", range=[0, 1]),
-    xaxis=dict(title="Fecha"),
-    height=400,
-)
+    st.subheader("OEE por turno")
+    st.dataframe(oee_by_shift(filtered), use_container_width=True)
 
-st.plotly_chart(fig_trend, use_container_width=True)
+# ===== PESTAÑA 3: ANÁLISIS DE PAROS =====
+with tab_paros:
+    st.subheader("Causas de paro (Pareto)")
+
+    if downtime_filtered.height == 0:
+        st.info("No hay eventos de paro para los filtros seleccionados.")
+    else:
+        pareto = downtime_by_reason(downtime_filtered)
+
+        fig_pareto = go.Figure()
+        fig_pareto.add_trace(
+            go.Bar(
+                x=pareto["reason"].to_list(),
+                y=pareto["total_min"].to_list(),
+                name="Tiempo de paro (min)",
+                marker_color="#1985a1",
+            )
+        )
+        fig_pareto.add_trace(
+            go.Scatter(
+                x=pareto["reason"].to_list(),
+                y=pareto["cumulative_pct"].to_list(),
+                name="% acumulado",
+                yaxis="y2",
+                mode="lines+markers",
+                marker_color="#ef8354",
+            )
+        )
+        fig_pareto.update_layout(
+            yaxis=dict(title="Minutos de paro"),
+            yaxis2=dict(
+                title="% acumulado",
+                overlaying="y",
+                side="right",
+                range=[0, 105],
+            ),
+            legend=dict(orientation="h", yanchor="bottom", y=1.02),
+            height=450,
+        )
+        st.plotly_chart(fig_pareto, use_container_width=True)

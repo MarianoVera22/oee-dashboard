@@ -172,3 +172,20 @@ def test_downtime_cumulative_reaches_100() -> None:
     )
     result = downtime_by_reason(downtime)
     assert result["cumulative_pct"][-1] == pytest.approx(100.0)
+
+def test_rolling_oee_first_values_are_null() -> None:
+    """Con ventana de 7, las primeras 6 filas no tienen promedio móvil."""
+    from oee_dashboard.metrics import add_rolling_oee
+
+    daily = pl.DataFrame(
+        {
+            "date": [f"2025-01-{d:02d}" for d in range(1, 11)],
+            "oee": [0.7, 0.8, 0.75, 0.72, 0.78, 0.74, 0.76, 0.79, 0.71, 0.77],
+        }
+    )
+    result = add_rolling_oee(daily, window=7)
+    rolling = result["oee_rolling"].to_list()
+    # Las primeras 6 son null (no hay 7 días previos).
+    assert rolling[:6] == [None] * 6
+    # La 7ma es el promedio de las primeras 7.
+    assert rolling[6] == pytest.approx(sum([0.7, 0.8, 0.75, 0.72, 0.78, 0.74, 0.76]) / 7)

@@ -159,3 +159,20 @@ def downtime_by_reason(downtime: pl.DataFrame) -> pl.DataFrame:
         # Porcentaje acumulado (la línea del Pareto).
         cumulative_pct=(pl.col("pct").cum_sum()),
     )
+
+def add_rolling_oee(daily_oee: pl.DataFrame, window: int = 7) -> pl.DataFrame:
+    """Agrega una columna de promedio móvil del OEE.
+
+    Suaviza el ruido diario para revelar la tendencia de fondo.
+
+    Args:
+        daily_oee: DataFrame con OEE por fecha (salida de oee_by_date),
+            ordenado cronológicamente.
+        window: cantidad de días de la ventana móvil (por defecto 7).
+
+    Returns:
+        El DataFrame con una columna adicional 'oee_rolling'.
+    """
+    return daily_oee.with_columns(
+        oee_rolling=pl.col("oee").rolling_mean(window_size=window),
+    )
