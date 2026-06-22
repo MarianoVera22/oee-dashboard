@@ -22,35 +22,32 @@ def add_oee_columns(production: pl.DataFrame) -> pl.DataFrame:
         Un DataFrame nuevo con columnas adicionales:
         availability, performance, quality, oee.
     """
-    return production.with_columns(
-        # Tiempo operativo en minutos (lo usamos en varios cálculos).
-        operating_time_min=(
-            pl.col("planned_time_min") - pl.col("downtime_min")
-        ),
-    ).with_columns(
-        # Disponibilidad = tiempo operativo / tiempo planificado.
-        availability=(
-            pl.col("operating_time_min") / pl.col("planned_time_min")
-        ),
-        # Producción teórica = tiempo operativo (en seg) / ciclo ideal (seg/unidad).
-        theoretical_units=(
-            (pl.col("operating_time_min") * 60) / pl.col("ideal_cycle_time_sec")
-        ),
-    ).with_columns(
-        # Rendimiento = producción real / producción teórica.
-        performance=(
-            pl.col("units_produced") / pl.col("theoretical_units")
-        ),
-        # Calidad = unidades buenas / unidades totales.
-        quality=(
-            (pl.col("units_produced") - pl.col("units_rejected"))
-            / pl.col("units_produced")
-        ),
-    ).with_columns(
-        # OEE = disponibilidad × rendimiento × calidad.
-        oee=(
-            pl.col("availability") * pl.col("performance") * pl.col("quality")
-        ),
+    return (
+        production.with_columns(
+            # Tiempo operativo en minutos (lo usamos en varios cálculos).
+            operating_time_min=(pl.col("planned_time_min") - pl.col("downtime_min")),
+        )
+        .with_columns(
+            # Disponibilidad = tiempo operativo / tiempo planificado.
+            availability=(pl.col("operating_time_min") / pl.col("planned_time_min")),
+            # Producción teórica = tiempo operativo (en seg) / ciclo ideal (seg/unidad).
+            theoretical_units=(
+                (pl.col("operating_time_min") * 60) / pl.col("ideal_cycle_time_sec")
+            ),
+        )
+        .with_columns(
+            # Rendimiento = producción real / producción teórica.
+            performance=(pl.col("units_produced") / pl.col("theoretical_units")),
+            # Calidad = unidades buenas / unidades totales.
+            quality=(
+                (pl.col("units_produced") - pl.col("units_rejected"))
+                / pl.col("units_produced")
+            ),
+        )
+        .with_columns(
+            # OEE = disponibilidad × rendimiento × calidad.
+            oee=(pl.col("availability") * pl.col("performance") * pl.col("quality")),
+        )
     )
 
 
@@ -94,8 +91,8 @@ def oee_by_shift(production_with_oee: pl.DataFrame) -> pl.DataFrame:
         )
         .sort("oee", descending=True)
     )
-    
-    
+
+
 def oee_by_date(production_with_oee: pl.DataFrame) -> pl.DataFrame:
     """Promedia el OEE y sus componentes por fecha.
 
@@ -134,6 +131,7 @@ def overall_oee(production_with_oee: pl.DataFrame) -> dict[str, float]:
     ).row(0, named=True)
     return {key: float(value) for key, value in means.items()}
 
+
 def downtime_by_reason(downtime: pl.DataFrame) -> pl.DataFrame:
     """Suma el tiempo de paro total por causa, ordenado de mayor a menor.
 
@@ -159,6 +157,7 @@ def downtime_by_reason(downtime: pl.DataFrame) -> pl.DataFrame:
         # Porcentaje acumulado (la línea del Pareto).
         cumulative_pct=(pl.col("pct").cum_sum()),
     )
+
 
 def add_rolling_oee(daily_oee: pl.DataFrame, window: int = 7) -> pl.DataFrame:
     """Agrega una columna de promedio móvil del OEE.

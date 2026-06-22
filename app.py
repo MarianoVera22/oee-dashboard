@@ -36,6 +36,7 @@ def load_data() -> pl.DataFrame:
     production = pl.read_csv(Path("data") / "production.csv")
     return add_oee_columns(production)
 
+
 @st.cache_data
 def load_downtime() -> pl.DataFrame:
     """Carga los eventos de paro."""

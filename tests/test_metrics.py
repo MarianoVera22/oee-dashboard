@@ -8,7 +8,7 @@ import pytest
 from oee_dashboard.metrics import (
     add_oee_columns,
     oee_by_machine,
-    #oee_by_shift,
+    # oee_by_shift,
     overall_oee,
 )
 
@@ -143,7 +143,8 @@ def test_overall_oee_values_are_floats(simple_production: pl.DataFrame) -> None:
     overall = overall_oee(result)
     for value in overall.values():
         assert isinstance(value, float)
-        
+
+
 def test_downtime_by_reason_sorted_descending() -> None:
     """Las causas se ordenan de mayor a menor tiempo total."""
     from oee_dashboard.metrics import downtime_by_reason
@@ -173,6 +174,7 @@ def test_downtime_cumulative_reaches_100() -> None:
     result = downtime_by_reason(downtime)
     assert result["cumulative_pct"][-1] == pytest.approx(100.0)
 
+
 def test_rolling_oee_first_values_are_null() -> None:
     """Con ventana de 7, las primeras 6 filas no tienen promedio móvil."""
     from oee_dashboard.metrics import add_rolling_oee
@@ -188,4 +190,6 @@ def test_rolling_oee_first_values_are_null() -> None:
     # Las primeras 6 son null (no hay 7 días previos).
     assert rolling[:6] == [None] * 6
     # La 7ma es el promedio de las primeras 7.
-    assert rolling[6] == pytest.approx(sum([0.7, 0.8, 0.75, 0.72, 0.78, 0.74, 0.76]) / 7)
+    assert rolling[6] == pytest.approx(
+        sum([0.7, 0.8, 0.75, 0.72, 0.78, 0.74, 0.76]) / 7
+    )
