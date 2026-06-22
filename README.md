@@ -19,7 +19,7 @@ de paro mediante un análisis de Pareto.
 
 🔗 **[Ver dashboard desplegado](https://TU-APP.streamlit.app)** _(actualizar con la URL real tras el deploy)_
 
-![Dashboard OEE](docs/dashboard.png)
+![Dashboard OEE](assets/dashboard.png)
 
 ## ¿Qué es el OEE?
 
