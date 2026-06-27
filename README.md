@@ -17,7 +17,7 @@ de paro mediante un análisis de Pareto.
 
 ## Demo en vivo
 
-🔗 **[Ver dashboard desplegado](https://TU-APP.streamlit.app)** _(actualizar con la URL real tras el deploy)_
+🔗 **[Ver dashboard desplegado](https://TU-APP.streamlit.app)**
 
 ![Dashboard OEE](assets/dashboard.png)
 
