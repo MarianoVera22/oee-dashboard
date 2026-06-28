@@ -17,7 +17,7 @@ de paro mediante un análisis de Pareto.
 
 ## Demo en vivo
 
-🔗 **[Ver dashboard desplegado](https://TU-APP.streamlit.app)**
+🔗 **[Ver dashboard desplegado](https://marianovera-oee-dashboard.streamlit.app/)**
 
 ![Dashboard OEE](assets/dashboard.png)
 
