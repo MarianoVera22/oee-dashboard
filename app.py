@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import datetime
 from pathlib import Path
+from oee_dashboard.reporter import build_excel_report
 
 import plotly.graph_objects as go
 import polars as pl
@@ -28,19 +30,22 @@ st.set_page_config(
 
 @st.cache_data
 def load_data() -> pl.DataFrame:
-    """Carga los datos de producción y agrega las columnas de OEE.
-
-    El decorador @st.cache_data evita recargar/recalcular en cada
-    interacción: Streamlit guarda el resultado y lo reutiliza.
-    """
+    """Carga los datos de producción, parsea fechas y agrega columnas de OEE."""
     production = pl.read_csv(Path("data") / "production.csv")
+    # Convertir la columna 'date' de string a tipo Date.
+    production = production.with_columns(
+        pl.col("date").str.to_date(),
+    )
     return add_oee_columns(production)
 
 
 @st.cache_data
 def load_downtime() -> pl.DataFrame:
-    """Carga los eventos de paro."""
-    return pl.read_csv(Path("data") / "downtime_events.csv")
+    """Carga los eventos de paro y parsea fechas."""
+    downtime = pl.read_csv(Path("data") / "downtime_events.csv")
+    return downtime.with_columns(
+        pl.col("date").str.to_date(),
+    )
 
 
 # --- Carga de datos ---
@@ -70,13 +75,35 @@ selected_shifts = st.sidebar.multiselect(
     key="shift_filter",
 )
 
+# Filtro de rango de fechas
+min_date = data["date"].min()
+max_date = data["date"].max()
+
+# Afirmar a mypy (y verificar en runtime) que son fechas.
+assert isinstance(min_date, datetime.date)
+assert isinstance(max_date, datetime.date)
+
+date_range = st.sidebar.date_input(
+    "Rango de fechas",
+    value=(min_date, max_date),  # por defecto, todo el período
+    min_value=min_date,
+    max_value=max_date,
+)
+
 # --- Aplicar los filtros a los datos ---
 filtered = data.filter(
     pl.col("machine_id").is_in(selected_machines)
     & pl.col("shift").is_in(selected_shifts)
 )
 
-# Guarda de seguridad: si el usuario deselecciona todo, evitar errores.
+# Aplicar filtro de fechas (manejando el estado intermedio del widget).
+if len(date_range) == 2:
+    start_date, end_date = date_range
+    filtered = filtered.filter(
+        pl.col("date").is_between(start_date, end_date)
+    )
+
+# Guarda de seguridad: si no quedan datos, avisar y frenar.
 if filtered.height == 0:
     st.warning("No hay datos para los filtros seleccionados. Ajustá la selección.")
     st.stop()
@@ -90,6 +117,31 @@ downtime = load_downtime()
 downtime_filtered = downtime.filter(
     pl.col("machine_id").is_in(selected_machines)
     & pl.col("shift").is_in(selected_shifts)
+)
+if len(date_range) == 2:
+    start_date, end_date = date_range
+    downtime_filtered = downtime_filtered.filter(
+        pl.col("date").is_between(start_date, end_date)
+    )
+
+
+st.sidebar.divider()
+st.sidebar.subheader("Exportar")
+
+# Generar el reporte con los datos filtrados actuales.
+excel_bytes = build_excel_report(
+    by_machine=oee_by_machine(filtered),
+    by_shift=oee_by_shift(filtered),
+    downtime_pareto=downtime_by_reason(downtime_filtered)
+    if downtime_filtered.height > 0
+    else pl.DataFrame({"reason": [], "total_min": [], "pct": [], "cumulative_pct": []}),
+)
+
+st.sidebar.download_button(
+    label="📥 Descargar reporte Excel",
+    data=excel_bytes,
+    file_name="reporte_oee.xlsx",
+    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
 )
 
 # --- Pestañas ---

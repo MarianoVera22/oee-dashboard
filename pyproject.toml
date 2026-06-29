@@ -11,6 +11,7 @@ dependencies = [
     "plotly>=6.8.0",
     "polars>=1.41.2",
     "streamlit>=1.58.0",
+    "xlsxwriter>=3.2.9",
 ]
 
 [project.scripts]
@@ -36,5 +37,5 @@ warn_unused_configs = true
 disallow_untyped_defs = true
 
 [[tool.mypy.overrides]]
-module = ["plotly.*"]
+module = ["plotly.*", "xlsxwriter.*"]
 ignore_missing_imports = true
