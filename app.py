@@ -99,9 +99,7 @@ filtered = data.filter(
 # Aplicar filtro de fechas (manejando el estado intermedio del widget).
 if len(date_range) == 2:
     start_date, end_date = date_range
-    filtered = filtered.filter(
-        pl.col("date").is_between(start_date, end_date)
-    )
+    filtered = filtered.filter(pl.col("date").is_between(start_date, end_date))
 
 # Guarda de seguridad: si no quedan datos, avisar y frenar.
 if filtered.height == 0:
